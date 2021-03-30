@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="LenoxoAppFramework">
+    <parameter name="os" value="${os}"/>
+
+    <test name="lenoxo-App-Test">
+        <packages>
+            <package name="tests.testngTests"/>
+        </packages>
+    </test>
+</suite>

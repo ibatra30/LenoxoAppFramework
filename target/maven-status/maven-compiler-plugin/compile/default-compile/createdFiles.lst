@@ -1,0 +1,12 @@
+IntegrationTests\screens\iOS\LennoxScreensLocators.class
+UITestFramework\retryLogic\Retry.class
+UITestFramework\ExtentReporter.class
+IntegrationTests\coreLogic\android\AndroidCoreLogic.class
+UITestFramework\retryLogic\RetryListener.class
+IntegrationTests\coreLogic\base\CoreLogic.class
+IntegrationTests\screens\android\LennoxScreensLocators.class
+UITestFramework\CreateSession.class
+UITestFramework\GenericMethods.class
+IntegrationTests\coreLogic\iOS\IOSCoreLogic.class
+UITestFramework\retryLogic\TestListener.class
+logger\Log.class

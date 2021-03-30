@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="LenoxoAppFramework" duration-ms="106047" started-at="2021-03-30T13:24:49Z" finished-at="2021-03-30T13:26:35Z">
+    <groups>
+    </groups>
+    <test name="lenoxo-App-Test" duration-ms="106047" started-at="2021-03-30T13:24:49Z" finished-at="2021-03-30T13:26:35Z">
+      <class name="tests.testngTests.LennoxTest">
+        <test-method status="PASS" signature="createDriver(java.lang.String, java.lang.reflect.Method)[pri:0, instance:tests.testngTests.LennoxTest@5e3a8624]" name="createDriver" is-config="true" duration-ms="54985" started-at="2021-03-30T18:54:49Z" finished-at="2021-03-30T18:55:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SauceLabAndroid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void tests.testngTests.LennoxTest.UserCheckOutMiniHeaterProduct() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method status="PASS" signature="instantiateHelpers(java.lang.String)[pri:0, instance:tests.testngTests.LennoxTest@5e3a8624]" name="instantiateHelpers" is-config="true" duration-ms="273" started-at="2021-03-30T18:55:44Z" finished-at="2021-03-30T18:55:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SauceLabAndroid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instantiateHelpers -->
+        <test-method status="PASS" signature="UserCheckOutMiniHeaterProduct()[pri:0, instance:tests.testngTests.LennoxTest@5e3a8624]" name="UserCheckOutMiniHeaterProduct" duration-ms="48912" started-at="2021-03-30T18:55:44Z" finished-at="2021-03-30T18:56:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserCheckOutMiniHeaterProduct -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.testngTests.LennoxTest@5e3a8624]" name="teardown" is-config="true" duration-ms="971" started-at="2021-03-30T18:56:33Z" finished-at="2021-03-30T18:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="getEntireResult()[pri:0, instance:tests.testngTests.LennoxTest@5e3a8624]" name="getEntireResult" is-config="true" duration-ms="805" started-at="2021-03-30T18:56:34Z" finished-at="2021-03-30T18:56:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEntireResult -->
+      </class> <!-- tests.testngTests.LennoxTest -->
+    </test> <!-- lenoxo-App-Test -->
+  </suite> <!-- LenoxoAppFramework -->
+</testng-results>

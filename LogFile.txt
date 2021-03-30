@@ -1,0 +1,2439 @@
+27 Mar 2021 21:43:57  INFO logger - --------------------------------------
+27 Mar 2021 21:45:30  INFO logger - --------------------------------------
+27 Mar 2021 21:46:32  INFO logger - --------------------------------------
+27 Mar 2021 21:48:12  INFO logger - --------------------------------------
+27 Mar 2021 21:50:56  INFO logger - --------------------------------------
+27 Mar 2021 21:52:13  INFO logger - --------------------------------------
+27 Mar 2021 21:53:29  INFO logger - --------------------------------------
+27 Mar 2021 21:54:06  INFO logger - --------------------------------------
+27 Mar 2021 21:54:19  INFO logger - Android driver created
+27 Mar 2021 21:54:19  INFO logger - Running login test
+27 Mar 2021 21:54:20  INFO logger - ClassName :IntegrationTests.screens.android.AndroidLoginPageScreen
+27 Mar 2021 21:54:20  INFO logger - MethodName :findElement
+27 Mar 2021 21:54:20  INFO logger - Exception :Element not foundBy.xpath: //android.widget.Image[@text='LennoxPros Logo']
+27 Mar 2021 21:54:20  INFO logger - -----------------------------------------------------------------------------------
+27 Mar 2021 21:54:20  INFO logger - Shutting down driver
+27 Mar 2021 21:54:20  INFO logger - --------------------------------------
+27 Mar 2021 21:59:16  INFO logger - --------------------------------------
+27 Mar 2021 22:00:31  INFO logger - --------------------------------------
+27 Mar 2021 22:00:45  INFO logger - Android driver created
+27 Mar 2021 22:00:45  INFO logger - Running login test
+27 Mar 2021 22:00:46  INFO logger - Verified the login
+27 Mar 2021 22:00:46  INFO logger - Shutting down driver
+27 Mar 2021 22:00:46  INFO logger - --------------------------------------
+27 Mar 2021 22:01:56  INFO logger - --------------------------------------
+27 Mar 2021 22:02:15  INFO logger - --------------------------------------
+27 Mar 2021 22:02:28  INFO logger - Android driver created
+27 Mar 2021 22:02:28  INFO logger - Running login test
+27 Mar 2021 22:02:29  INFO logger - Shutting down driver
+27 Mar 2021 22:02:29  INFO logger - --------------------------------------
+27 Mar 2021 22:11:56  INFO logger - --------------------------------------
+27 Mar 2021 22:12:10  INFO logger - Android driver created
+27 Mar 2021 22:12:10  INFO logger - Running login test
+27 Mar 2021 22:12:16  INFO logger - Verified the login
+27 Mar 2021 22:12:16  INFO logger - Shutting down driver
+27 Mar 2021 22:12:17  INFO logger - --------------------------------------
+27 Mar 2021 22:13:02  INFO logger - --------------------------------------
+27 Mar 2021 22:13:15  INFO logger - Android driver created
+27 Mar 2021 22:13:15  INFO logger - Running login test
+27 Mar 2021 22:14:01  INFO logger - Shutting down driver
+27 Mar 2021 22:14:01  INFO logger - --------------------------------------
+27 Mar 2021 22:15:23  INFO logger - --------------------------------------
+27 Mar 2021 22:15:53  INFO logger - --------------------------------------
+27 Mar 2021 22:16:06  INFO logger - Android driver created
+27 Mar 2021 22:16:06  INFO logger - Running login test
+27 Mar 2021 22:16:24  INFO logger - ClassName :IntegrationTests.screens.android.AndroidLoginPageScreen
+27 Mar 2021 22:16:24  INFO logger - MethodName :findElement
+27 Mar 2021 22:16:24  INFO logger - Exception :Element not foundBy.xpath: //android.view.View[@text='User ID (Email)']
+27 Mar 2021 22:16:24  INFO logger - -----------------------------------------------------------------------------------
+27 Mar 2021 22:16:24  INFO logger - Shutting down driver
+27 Mar 2021 22:16:24  INFO logger - --------------------------------------
+27 Mar 2021 22:19:14  INFO logger - --------------------------------------
+27 Mar 2021 22:19:28  INFO logger - Android driver created
+27 Mar 2021 22:19:28  INFO logger - Running login test
+27 Mar 2021 22:19:53  INFO logger - Login Successful
+27 Mar 2021 22:19:54  INFO logger - ClassName :IntegrationTests.screens.android.AndroidLoginPageScreen
+27 Mar 2021 22:19:54  INFO logger - MethodName :findElement
+27 Mar 2021 22:19:54  INFO logger - Exception :Element not foundBy.xpath: //android.view.View[@text='Repair Part Finder']
+27 Mar 2021 22:19:54  INFO logger - -----------------------------------------------------------------------------------
+27 Mar 2021 22:19:54  INFO logger - Shutting down driver
+27 Mar 2021 22:19:54  INFO logger - --------------------------------------
+27 Mar 2021 22:21:31  INFO logger - --------------------------------------
+27 Mar 2021 22:21:44  INFO logger - Android driver created
+27 Mar 2021 22:21:44  INFO logger - Running login test
+27 Mar 2021 22:22:10  INFO logger - Login Successful
+27 Mar 2021 22:22:21  INFO logger - Verified the login
+27 Mar 2021 22:22:21  INFO logger - Shutting down driver
+27 Mar 2021 22:22:21  INFO logger - --------------------------------------
+27 Mar 2021 22:24:58  INFO logger - --------------------------------------
+27 Mar 2021 22:25:11  INFO logger - Android driver created
+27 Mar 2021 22:25:11  INFO logger - Running login test
+27 Mar 2021 22:25:34  INFO logger - Login Successful
+27 Mar 2021 22:25:43  INFO logger - Verified the login
+27 Mar 2021 22:25:43  INFO logger - Shutting down driver
+27 Mar 2021 22:25:43  INFO logger - --------------------------------------
+27 Mar 2021 22:33:42  INFO logger - --------------------------------------
+27 Mar 2021 22:33:55  INFO logger - Android driver created
+27 Mar 2021 22:33:55  INFO logger - Running login test
+27 Mar 2021 22:34:20  INFO logger - Login Successful
+27 Mar 2021 22:34:32  INFO logger - Shutting down driver
+27 Mar 2021 22:37:59  INFO logger - --------------------------------------
+27 Mar 2021 22:38:46  INFO logger - --------------------------------------
+27 Mar 2021 22:38:59  INFO logger - Android driver created
+27 Mar 2021 22:38:59  INFO logger - Running login test
+27 Mar 2021 22:39:24  INFO logger - Login Successful
+27 Mar 2021 22:39:38  INFO logger - Shutting down driver
+27 Mar 2021 22:44:25  INFO logger - --------------------------------------
+27 Mar 2021 22:45:21  INFO logger - --------------------------------------
+27 Mar 2021 22:45:32  INFO logger - Android driver created
+27 Mar 2021 22:45:32  INFO logger - Running login test
+27 Mar 2021 22:46:28  INFO logger - Shutting down driver
+27 Mar 2021 22:46:54  INFO logger - --------------------------------------
+27 Mar 2021 22:47:33  INFO logger - --------------------------------------
+27 Mar 2021 22:47:45  INFO logger - Android driver created
+27 Mar 2021 22:47:45  INFO logger - Running login test
+27 Mar 2021 22:48:43  INFO logger - Shutting down driver
+27 Mar 2021 22:54:21  INFO logger - --------------------------------------
+27 Mar 2021 22:55:27  INFO logger - --------------------------------------
+27 Mar 2021 22:55:40  INFO logger - Android driver created
+27 Mar 2021 22:55:40  INFO logger - Running login test
+27 Mar 2021 22:55:45  INFO logger - ClassName :IntegrationTests.screens.android.AndroidLoginPageScreen
+27 Mar 2021 22:55:45  INFO logger - MethodName :findElement
+27 Mar 2021 22:55:45  INFO logger - Exception :Element not foundBy.xpath: //android.widget.Image[@text='LennoxPros Logo']
+27 Mar 2021 22:55:45  INFO logger - -----------------------------------------------------------------------------------
+27 Mar 2021 22:55:45  INFO logger - Shutting down driver
+27 Mar 2021 22:56:28  INFO logger - --------------------------------------
+27 Mar 2021 22:57:11  INFO logger - --------------------------------------
+27 Mar 2021 22:57:24  INFO logger - Android driver created
+27 Mar 2021 22:57:24  INFO logger - Running login test
+27 Mar 2021 22:57:29  INFO logger - ClassName :IntegrationTests.screens.android.AndroidLoginPageScreen
+27 Mar 2021 22:57:29  INFO logger - MethodName :findElement
+27 Mar 2021 22:57:29  INFO logger - Exception :Element not foundBy.xpath: //android.widget.Image[@text='LennoxPros Logo']
+27 Mar 2021 22:57:29  INFO logger - -----------------------------------------------------------------------------------
+27 Mar 2021 22:57:29  INFO logger - Shutting down driver
+27 Mar 2021 22:58:20  INFO logger - --------------------------------------
+28 Mar 2021 11:54:32  INFO logger - --------------------------------------
+28 Mar 2021 11:55:04  INFO logger - Android driver created
+28 Mar 2021 11:55:05  INFO logger - Running login test
+28 Mar 2021 11:55:52  INFO logger - Shutting down driver
+28 Mar 2021 11:57:43  INFO logger - --------------------------------------
+28 Mar 2021 11:58:05  INFO logger - --------------------------------------
+28 Mar 2021 11:58:42  INFO logger - --------------------------------------
+28 Mar 2021 11:58:54  INFO logger - Android driver created
+28 Mar 2021 11:58:54  INFO logger - Running login test
+28 Mar 2021 11:59:20  INFO logger - Login Successful
+28 Mar 2021 11:59:32  INFO logger - repair valueRepair Part Finder
+28 Mar 2021 11:59:32  INFO logger - repair valueRepair Part Finder
+28 Mar 2021 11:59:32  INFO logger - Shutting down driver
+28 Mar 2021 12:03:46  INFO logger - --------------------------------------
+28 Mar 2021 12:05:04  INFO logger - --------------------------------------
+28 Mar 2021 12:05:17  INFO logger - Android driver created
+28 Mar 2021 12:05:17  INFO logger - Running login test
+28 Mar 2021 12:05:45  INFO logger - Login Successful
+28 Mar 2021 12:05:54  INFO logger - repair valueRepair Part Finder
+28 Mar 2021 12:05:54  INFO logger - repair valueRepair Part Finder
+28 Mar 2021 12:05:54  INFO logger - Shutting down driver
+28 Mar 2021 12:08:20  INFO logger - --------------------------------------
+28 Mar 2021 12:09:10  INFO logger - --------------------------------------
+28 Mar 2021 12:09:21  INFO logger - Android driver created
+28 Mar 2021 12:09:21  INFO logger - Running login test
+28 Mar 2021 12:09:47  INFO logger - Login Successful
+28 Mar 2021 12:10:04  INFO logger - repair valueRepair Part Finder
+28 Mar 2021 12:10:04  INFO logger - repair valueRepair Part Finder
+28 Mar 2021 12:10:04  INFO logger - Shutting down driver
+28 Mar 2021 12:13:24  INFO logger - --------------------------------------
+28 Mar 2021 12:13:54  INFO logger - --------------------------------------
+28 Mar 2021 12:14:06  INFO logger - Android driver created
+28 Mar 2021 12:14:06  INFO logger - Running login test
+28 Mar 2021 12:14:49  INFO logger - Login Successful
+28 Mar 2021 12:15:01  INFO logger - repair valueRepair Part Finder
+28 Mar 2021 12:15:01  INFO logger - repair valueRepair Part Finder
+28 Mar 2021 12:15:01  INFO logger - Shutting down driver
+28 Mar 2021 12:25:07  INFO logger - --------------------------------------
+28 Mar 2021 12:25:42  INFO logger - --------------------------------------
+28 Mar 2021 12:25:53  INFO logger - Android driver created
+28 Mar 2021 12:25:53  INFO logger - Running login test
+28 Mar 2021 12:26:28  INFO logger - Login Successful
+28 Mar 2021 12:26:39  INFO logger - repair valueRepair Part Finder
+28 Mar 2021 12:26:39  INFO logger - repair valueRepair Part Finder
+28 Mar 2021 12:26:39  INFO logger - Verified the login
+28 Mar 2021 12:26:39  INFO logger - --------------------------------------
+28 Mar 2021 12:28:41  INFO logger - --------------------------------------
+28 Mar 2021 12:29:23  INFO logger - --------------------------------------
+28 Mar 2021 12:29:35  INFO logger - Android driver created
+28 Mar 2021 12:29:35  INFO logger - Running login test
+28 Mar 2021 12:30:00  INFO logger - Login Successful
+28 Mar 2021 12:30:08  INFO logger - repair valueRepair Part Finder
+28 Mar 2021 12:30:08  INFO logger - repair valueRepair Part Finder
+28 Mar 2021 12:30:08  INFO logger - Verified the login
+28 Mar 2021 12:30:08  INFO logger - --------------------------------------
+28 Mar 2021 12:37:47  INFO logger - --------------------------------------
+28 Mar 2021 12:38:46  INFO logger - --------------------------------------
+28 Mar 2021 12:39:25  INFO logger - --------------------------------------
+28 Mar 2021 12:39:38  INFO logger - Android driver created
+28 Mar 2021 12:39:38  INFO logger - Running login test
+28 Mar 2021 12:40:04  INFO logger - Login Successful
+28 Mar 2021 12:40:18  INFO logger - repair valueRepair Part Finder
+28 Mar 2021 12:40:18  INFO logger - repair valueRepair Part Finder
+28 Mar 2021 12:40:18  INFO logger - Verified the login
+28 Mar 2021 12:40:18  INFO logger - user will select product now
+28 Mar 2021 12:40:18  INFO logger - Shutting down driver
+28 Mar 2021 12:57:12  INFO logger - --------------------------------------
+28 Mar 2021 12:58:37  INFO logger - --------------------------------------
+28 Mar 2021 12:58:51  INFO logger - Android driver created
+28 Mar 2021 12:58:51  INFO logger - Running login test
+28 Mar 2021 12:59:17  INFO logger - Login Successful
+28 Mar 2021 12:59:24  INFO logger - Verified the login
+28 Mar 2021 12:59:24  INFO logger - user will select product now
+28 Mar 2021 12:59:26  INFO logger - ClassName :IntegrationTests.screens.android.LennoxScreensLocators
+28 Mar 2021 12:59:26  INFO logger - MethodName :findElement
+28 Mar 2021 12:59:26  INFO logger - Exception :Element not foundBy.xpath: //android.view.View[@text='PRODUCTS']
+28 Mar 2021 12:59:26  INFO logger - -----------------------------------------------------------------------------------
+28 Mar 2021 12:59:26  INFO logger - Shutting down driver
+28 Mar 2021 13:05:14  INFO logger - --------------------------------------
+28 Mar 2021 13:05:46  INFO logger - --------------------------------------
+28 Mar 2021 13:05:58  INFO logger - Android driver created
+28 Mar 2021 13:05:58  INFO logger - Running login test
+28 Mar 2021 13:06:36  INFO logger - Login Successful
+28 Mar 2021 13:06:45  INFO logger - Verified the login
+28 Mar 2021 13:06:45  INFO logger - user will select product now
+28 Mar 2021 13:06:50  INFO logger - user find and select the productPRODUCTSin dashboard catalog
+28 Mar 2021 13:06:51  INFO logger - Shutting down driver
+28 Mar 2021 13:08:35  INFO logger - --------------------------------------
+28 Mar 2021 13:09:16  INFO logger - --------------------------------------
+28 Mar 2021 13:09:30  INFO logger - Android driver created
+28 Mar 2021 13:09:30  INFO logger - Running login test
+28 Mar 2021 13:10:00  INFO logger - Login Successful
+28 Mar 2021 13:10:10  INFO logger - Verified the login
+28 Mar 2021 13:10:10  INFO logger - user will select product now
+28 Mar 2021 13:10:19  INFO logger - user find and select the productPRODUCTSin dashboard catalog
+28 Mar 2021 13:10:20  INFO logger - Shutting down driver
+28 Mar 2021 13:12:30  INFO logger - --------------------------------------
+28 Mar 2021 13:13:01  INFO logger - --------------------------------------
+28 Mar 2021 13:13:14  INFO logger - Android driver created
+28 Mar 2021 13:13:14  INFO logger - Running login test
+28 Mar 2021 13:13:49  INFO logger - Login Successful
+28 Mar 2021 13:14:01  INFO logger - Verified the login
+28 Mar 2021 13:14:01  INFO logger - user will select product now
+28 Mar 2021 13:14:08  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 13:14:08  INFO logger - Shutting down driver
+28 Mar 2021 13:51:06  INFO logger - --------------------------------------
+28 Mar 2021 13:51:44  INFO logger - --------------------------------------
+28 Mar 2021 13:51:56  INFO logger - Android driver created
+28 Mar 2021 13:51:56  INFO logger - Running login test
+28 Mar 2021 13:52:19  INFO logger - Login Successful
+28 Mar 2021 13:52:29  INFO logger - Verified the login
+28 Mar 2021 13:52:29  INFO logger - user will select product now
+28 Mar 2021 13:52:36  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 13:52:37  INFO logger - Shutting down driver
+28 Mar 2021 13:58:39  INFO logger - --------------------------------------
+28 Mar 2021 13:59:28  INFO logger - --------------------------------------
+28 Mar 2021 13:59:40  INFO logger - Android driver created
+28 Mar 2021 13:59:40  INFO logger - Running login test
+28 Mar 2021 14:00:03  INFO logger - Login Successful
+28 Mar 2021 14:00:14  INFO logger - Verified the login
+28 Mar 2021 14:00:14  INFO logger - user will select product now
+28 Mar 2021 14:00:20  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 14:00:25  INFO logger - Shutting down driver
+28 Mar 2021 14:05:52  INFO logger - --------------------------------------
+28 Mar 2021 14:06:47  INFO logger - --------------------------------------
+28 Mar 2021 14:06:58  INFO logger - Android driver created
+28 Mar 2021 14:06:58  INFO logger - Running login test
+28 Mar 2021 14:07:23  INFO logger - Login Successful
+28 Mar 2021 14:07:29  INFO logger - Verified the login
+28 Mar 2021 14:07:29  INFO logger - user will select product now
+28 Mar 2021 14:07:38  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 14:07:44  INFO logger - clicked on commercial
+28 Mar 2021 14:07:44  INFO logger - Shutting down driver
+28 Mar 2021 14:08:34  INFO logger - --------------------------------------
+28 Mar 2021 14:26:26  INFO logger - --------------------------------------
+28 Mar 2021 14:26:39  INFO logger - Android driver created
+28 Mar 2021 14:26:39  INFO logger - Running login test
+28 Mar 2021 14:27:03  INFO logger - Login Successful
+28 Mar 2021 14:27:12  INFO logger - Verified the login
+28 Mar 2021 14:27:12  INFO logger - user will select product now
+28 Mar 2021 14:27:19  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 14:27:25  INFO logger - clicked on commercial
+28 Mar 2021 14:27:50  INFO logger - verify total products listed
+28 Mar 2021 14:28:03  INFO logger - Shutting down driver
+28 Mar 2021 14:37:17  INFO logger - --------------------------------------
+28 Mar 2021 14:37:49  INFO logger - --------------------------------------
+28 Mar 2021 14:38:01  INFO logger - Android driver created
+28 Mar 2021 14:38:01  INFO logger - Running login test
+28 Mar 2021 14:38:24  INFO logger - Login Successful
+28 Mar 2021 14:38:33  INFO logger - Verified the login
+28 Mar 2021 14:38:33  INFO logger - user will select product now
+28 Mar 2021 14:38:40  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 14:38:46  INFO logger - clicked on commercial
+28 Mar 2021 14:39:03  INFO logger - verify total products listed
+28 Mar 2021 14:39:10  INFO logger - Shutting down driver
+28 Mar 2021 14:46:53  INFO logger - --------------------------------------
+28 Mar 2021 14:47:27  INFO logger - --------------------------------------
+28 Mar 2021 14:47:40  INFO logger - Android driver created
+28 Mar 2021 14:47:40  INFO logger - Running login test
+28 Mar 2021 14:48:04  INFO logger - Login Successful
+28 Mar 2021 14:48:12  INFO logger - Verified the login
+28 Mar 2021 14:48:12  INFO logger - user will select product now
+28 Mar 2021 14:48:20  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 14:48:26  INFO logger - clicked on commercial
+28 Mar 2021 14:48:26  INFO logger - user scroll to viewMini-Split Single Zone Heat Pumps
+28 Mar 2021 14:48:26  INFO logger - Shutting down driver
+28 Mar 2021 14:57:20  INFO logger - --------------------------------------
+28 Mar 2021 14:58:03  INFO logger - --------------------------------------
+28 Mar 2021 14:58:15  INFO logger - Android driver created
+28 Mar 2021 14:58:15  INFO logger - Running login test
+28 Mar 2021 14:58:37  INFO logger - Login Successful
+28 Mar 2021 14:58:48  INFO logger - Verified the login
+28 Mar 2021 14:58:48  INFO logger - user will select product now
+28 Mar 2021 14:58:54  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 14:59:00  INFO logger - clicked on commercial
+28 Mar 2021 14:59:00  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 14:59:33  INFO logger - verify total products listed
+28 Mar 2021 14:59:41  INFO logger - Shutting down driver
+28 Mar 2021 15:03:26  INFO logger - --------------------------------------
+28 Mar 2021 15:04:03  INFO logger - --------------------------------------
+28 Mar 2021 15:04:16  INFO logger - Android driver created
+28 Mar 2021 15:04:17  INFO logger - Running login test
+28 Mar 2021 15:04:41  INFO logger - Login Successful
+28 Mar 2021 15:04:51  INFO logger - Verified the login
+28 Mar 2021 15:04:51  INFO logger - user will select product now
+28 Mar 2021 15:04:58  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 15:05:04  INFO logger - clicked on commercial
+28 Mar 2021 15:05:04  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 15:05:07  INFO logger - Shutting down driver
+28 Mar 2021 15:06:34  INFO logger - --------------------------------------
+28 Mar 2021 15:07:09  INFO logger - --------------------------------------
+28 Mar 2021 15:07:20  INFO logger - Android driver created
+28 Mar 2021 15:07:20  INFO logger - Running login test
+28 Mar 2021 15:07:45  INFO logger - Login Successful
+28 Mar 2021 15:07:52  INFO logger - Verified the login
+28 Mar 2021 15:07:52  INFO logger - user will select product now
+28 Mar 2021 15:08:01  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 15:08:07  INFO logger - clicked on commercial
+28 Mar 2021 15:08:07  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 15:08:10  INFO logger - Shutting down driver
+28 Mar 2021 15:10:32  INFO logger - --------------------------------------
+28 Mar 2021 15:11:05  INFO logger - --------------------------------------
+28 Mar 2021 15:11:17  INFO logger - Android driver created
+28 Mar 2021 15:11:17  INFO logger - Running login test
+28 Mar 2021 15:11:40  INFO logger - Login Successful
+28 Mar 2021 15:11:47  INFO logger - Verified the login
+28 Mar 2021 15:11:47  INFO logger - user will select product now
+28 Mar 2021 15:11:56  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 15:12:01  INFO logger - clicked on commercial
+28 Mar 2021 15:12:01  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 15:12:04  INFO logger - Shutting down driver
+28 Mar 2021 15:35:41  INFO logger - --------------------------------------
+28 Mar 2021 15:36:16  INFO logger - --------------------------------------
+28 Mar 2021 15:36:28  INFO logger - Android driver created
+28 Mar 2021 15:36:28  INFO logger - Running login test
+28 Mar 2021 15:36:52  INFO logger - Login Successful
+28 Mar 2021 15:36:59  INFO logger - Verified the login
+28 Mar 2021 15:36:59  INFO logger - user will select product now
+28 Mar 2021 15:37:08  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 15:37:13  INFO logger - clicked on commercial
+28 Mar 2021 15:37:13  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 15:37:25  INFO logger - verify total products listed
+28 Mar 2021 15:37:37  INFO logger - user enter postal code and radius
+28 Mar 2021 15:38:21  INFO logger - Shutting down driver
+28 Mar 2021 15:39:37  INFO logger - --------------------------------------
+28 Mar 2021 15:40:27  INFO logger - --------------------------------------
+28 Mar 2021 15:40:39  INFO logger - Android driver created
+28 Mar 2021 15:40:39  INFO logger - Running login test
+28 Mar 2021 15:41:03  INFO logger - Login Successful
+28 Mar 2021 15:41:14  INFO logger - Verified the login
+28 Mar 2021 15:41:14  INFO logger - user will select product now
+28 Mar 2021 15:41:20  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 15:41:24  INFO logger - clicked on commercial
+28 Mar 2021 15:41:24  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 15:41:34  INFO logger - verify total products listed
+28 Mar 2021 15:41:43  INFO logger - user enter postal code and radius
+28 Mar 2021 15:41:50  INFO logger - View more is displayed
+28 Mar 2021 15:41:50  INFO logger - Shutting down driver
+28 Mar 2021 16:02:31  INFO logger - --------------------------------------
+28 Mar 2021 16:03:03  INFO logger - --------------------------------------
+28 Mar 2021 16:03:15  INFO logger - Android driver created
+28 Mar 2021 16:03:15  INFO logger - Running login test
+28 Mar 2021 16:03:38  INFO logger - Login Successful
+28 Mar 2021 16:03:50  INFO logger - Verified the login
+28 Mar 2021 16:03:50  INFO logger - user will select product now
+28 Mar 2021 16:03:59  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 16:04:11  INFO logger - clicked on commercial
+28 Mar 2021 16:04:11  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 16:04:14  INFO logger - Shutting down driver
+28 Mar 2021 16:12:14  INFO logger - --------------------------------------
+28 Mar 2021 16:12:54  INFO logger - --------------------------------------
+28 Mar 2021 16:13:08  INFO logger - Android driver created
+28 Mar 2021 16:13:08  INFO logger - Running login test
+28 Mar 2021 16:13:33  INFO logger - Login Successful
+28 Mar 2021 16:13:41  INFO logger - Verified the login
+28 Mar 2021 16:13:41  INFO logger - user will select product now
+28 Mar 2021 16:13:51  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 16:13:55  INFO logger - clicked on commercial
+28 Mar 2021 16:13:55  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 16:13:58  INFO logger - Shutting down driver
+28 Mar 2021 16:30:35  INFO logger - --------------------------------------
+28 Mar 2021 16:31:28  INFO logger - --------------------------------------
+28 Mar 2021 16:31:41  INFO logger - Android driver created
+28 Mar 2021 16:31:41  INFO logger - Running login test
+28 Mar 2021 16:32:26  INFO logger - Shutting down driver
+28 Mar 2021 16:34:19  INFO logger - --------------------------------------
+28 Mar 2021 16:35:09  INFO logger - --------------------------------------
+28 Mar 2021 16:35:21  INFO logger - Android driver created
+28 Mar 2021 16:35:21  INFO logger - Running login test
+28 Mar 2021 16:36:58  INFO logger - --------------------------------------
+28 Mar 2021 16:37:48  INFO logger - --------------------------------------
+28 Mar 2021 16:38:07  INFO logger - Android driver created
+28 Mar 2021 16:38:07  INFO logger - Running login test
+28 Mar 2021 16:38:52  INFO logger - Shutting down driver
+28 Mar 2021 16:40:44  INFO logger - --------------------------------------
+28 Mar 2021 16:41:20  INFO logger - --------------------------------------
+28 Mar 2021 16:41:33  INFO logger - Android driver created
+28 Mar 2021 16:41:33  INFO logger - Running login test
+28 Mar 2021 16:41:57  INFO logger - Login Successful
+28 Mar 2021 16:42:04  INFO logger - Verified the login
+28 Mar 2021 16:42:04  INFO logger - user will select product now
+28 Mar 2021 16:42:13  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 16:42:18  INFO logger - clicked on commercial
+28 Mar 2021 16:42:18  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 16:42:24  INFO logger - verify total products listed
+28 Mar 2021 16:42:36  INFO logger - user enter postal code and radius
+28 Mar 2021 16:42:43  INFO logger - View more is displayed
+28 Mar 2021 16:42:46  INFO logger - Shutting down driver
+28 Mar 2021 16:47:01  INFO logger - --------------------------------------
+28 Mar 2021 16:47:39  INFO logger - --------------------------------------
+28 Mar 2021 16:47:53  INFO logger - Android driver created
+28 Mar 2021 16:47:53  INFO logger - Running login test
+28 Mar 2021 16:48:17  INFO logger - Login Successful
+28 Mar 2021 16:48:29  INFO logger - Verified the login
+28 Mar 2021 16:48:29  INFO logger - user will select product now
+28 Mar 2021 16:48:35  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 16:48:40  INFO logger - clicked on commercial
+28 Mar 2021 16:48:40  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 16:49:28  INFO logger - Shutting down driver
+28 Mar 2021 16:50:29  INFO logger - --------------------------------------
+28 Mar 2021 16:51:08  INFO logger - --------------------------------------
+28 Mar 2021 16:51:20  INFO logger - Android driver created
+28 Mar 2021 16:51:20  INFO logger - Running login test
+28 Mar 2021 16:51:38  INFO logger - Login Successful
+28 Mar 2021 16:51:46  INFO logger - Verified the login
+28 Mar 2021 16:51:46  INFO logger - user will select product now
+28 Mar 2021 16:51:50  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 16:51:54  INFO logger - clicked on commercial
+28 Mar 2021 16:51:54  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 16:52:00  INFO logger - verify total products listed
+28 Mar 2021 16:52:16  INFO logger - user enter postal code and radius
+28 Mar 2021 16:52:22  INFO logger - scroll and check if View more is displayed
+28 Mar 2021 16:52:24  INFO logger - ClassName :IntegrationTests.screens.android.LennoxScreensLocators
+28 Mar 2021 16:52:24  INFO logger - MethodName :findElement
+28 Mar 2021 16:52:24  INFO logger - Exception :Element not foundBy.xpath: //android.widget.Button[@text='VIEW MORE']
+28 Mar 2021 16:52:24  INFO logger - -----------------------------------------------------------------------------------
+28 Mar 2021 16:52:24  INFO logger - Shutting down driver
+28 Mar 2021 16:53:29  INFO logger - --------------------------------------
+28 Mar 2021 16:54:02  INFO logger - --------------------------------------
+28 Mar 2021 16:54:15  INFO logger - Android driver created
+28 Mar 2021 16:54:15  INFO logger - Running login test
+28 Mar 2021 16:54:35  INFO logger - Login Successful
+28 Mar 2021 16:54:43  INFO logger - Verified the login
+28 Mar 2021 16:54:43  INFO logger - user will select product now
+28 Mar 2021 16:54:50  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 16:54:53  INFO logger - clicked on commercial
+28 Mar 2021 16:54:53  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 16:54:58  INFO logger - verify total products listed
+28 Mar 2021 16:55:14  INFO logger - user enter postal code and radius
+28 Mar 2021 16:55:20  INFO logger - scroll and check if View more is displayed
+28 Mar 2021 16:55:24  INFO logger - verify whether address is selected or unselected
+28 Mar 2021 16:55:26  INFO logger - ClassName :IntegrationTests.screens.android.LennoxScreensLocators
+28 Mar 2021 16:55:26  INFO logger - MethodName :findElement
+28 Mar 2021 16:55:26  INFO logger - Exception :Element not foundBy.xpath: //android.widget.Button[@text='DONE']
+28 Mar 2021 16:55:26  INFO logger - -----------------------------------------------------------------------------------
+28 Mar 2021 16:55:26  INFO logger - Shutting down driver
+28 Mar 2021 16:56:42  INFO logger - --------------------------------------
+28 Mar 2021 16:57:18  INFO logger - --------------------------------------
+28 Mar 2021 16:57:30  INFO logger - Android driver created
+28 Mar 2021 16:57:30  INFO logger - Running login test
+28 Mar 2021 16:57:49  INFO logger - Login Successful
+28 Mar 2021 16:57:57  INFO logger - Verified the login
+28 Mar 2021 16:57:57  INFO logger - user will select product now
+28 Mar 2021 16:58:06  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 16:58:09  INFO logger - clicked on commercial
+28 Mar 2021 16:58:09  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 16:58:14  INFO logger - verify total products listed
+28 Mar 2021 16:58:26  INFO logger - user enter postal code and radius
+28 Mar 2021 16:58:33  INFO logger - scroll and check if View more is displayed
+28 Mar 2021 16:58:36  INFO logger - verify whether address is selected or unselected
+28 Mar 2021 16:58:39  INFO logger - ClassName :IntegrationTests.screens.android.LennoxScreensLocators
+28 Mar 2021 16:58:39  INFO logger - MethodName :findElement
+28 Mar 2021 16:58:39  INFO logger - Exception :Element not foundBy.xpath: //android.widget.Button[@text='DONE']
+28 Mar 2021 16:58:39  INFO logger - -----------------------------------------------------------------------------------
+28 Mar 2021 16:58:39  INFO logger - Shutting down driver
+28 Mar 2021 16:59:20  INFO logger - --------------------------------------
+28 Mar 2021 16:59:56  INFO logger - --------------------------------------
+28 Mar 2021 17:00:08  INFO logger - Android driver created
+28 Mar 2021 17:00:08  INFO logger - Running login test
+28 Mar 2021 17:00:26  INFO logger - Login Successful
+28 Mar 2021 17:00:34  INFO logger - Verified the login
+28 Mar 2021 17:00:34  INFO logger - user will select product now
+28 Mar 2021 17:00:42  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 17:00:45  INFO logger - clicked on commercial
+28 Mar 2021 17:00:45  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 17:00:50  INFO logger - verify total products listed
+28 Mar 2021 17:01:03  INFO logger - user enter postal code and radius
+28 Mar 2021 17:01:09  INFO logger - scroll and check if View more is displayed
+28 Mar 2021 17:01:13  INFO logger - verify whether address is selected or unselected
+28 Mar 2021 17:01:17  INFO logger - ClassName :IntegrationTests.screens.android.LennoxScreensLocators
+28 Mar 2021 17:01:17  INFO logger - MethodName :findElement
+28 Mar 2021 17:01:17  INFO logger - Exception :Element not foundBy.xpath: //android.widget.Button[@text='DONE']
+28 Mar 2021 17:01:17  INFO logger - -----------------------------------------------------------------------------------
+28 Mar 2021 17:01:17  INFO logger - Shutting down driver
+28 Mar 2021 17:02:43  INFO logger - --------------------------------------
+28 Mar 2021 17:03:19  INFO logger - --------------------------------------
+28 Mar 2021 17:03:31  INFO logger - Android driver created
+28 Mar 2021 17:03:31  INFO logger - Running login test
+28 Mar 2021 17:03:52  INFO logger - Login Successful
+28 Mar 2021 17:04:00  INFO logger - Verified the login
+28 Mar 2021 17:04:00  INFO logger - user will select product now
+28 Mar 2021 17:04:06  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 17:04:09  INFO logger - clicked on commercial
+28 Mar 2021 17:04:09  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 17:04:14  INFO logger - verify total products listed
+28 Mar 2021 17:04:26  INFO logger - user enter postal code and radius
+28 Mar 2021 17:04:33  INFO logger - scroll and check if View more is displayed
+28 Mar 2021 17:04:37  INFO logger - verify whether address is selected or unselected
+28 Mar 2021 17:04:45  INFO logger - ClassName :IntegrationTests.screens.android.LennoxScreensLocators
+28 Mar 2021 17:04:45  INFO logger - MethodName :findElement
+28 Mar 2021 17:04:45  INFO logger - Exception :Element not foundBy.xpath: //android.widget.Button[@text='DONE']
+28 Mar 2021 17:04:45  INFO logger - -----------------------------------------------------------------------------------
+28 Mar 2021 17:04:45  INFO logger - Shutting down driver
+28 Mar 2021 17:05:37  INFO logger - --------------------------------------
+28 Mar 2021 17:06:36  INFO logger - --------------------------------------
+28 Mar 2021 17:06:54  INFO logger - Android driver created
+28 Mar 2021 17:06:54  INFO logger - Running login test
+28 Mar 2021 17:07:14  INFO logger - Login Successful
+28 Mar 2021 17:07:22  INFO logger - Verified the login
+28 Mar 2021 17:07:22  INFO logger - user will select product now
+28 Mar 2021 17:07:28  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 17:07:31  INFO logger - clicked on commercial
+28 Mar 2021 17:07:31  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 17:07:35  INFO logger - verify total products listed
+28 Mar 2021 17:07:51  INFO logger - user enter postal code and radius
+28 Mar 2021 17:07:57  INFO logger - scroll and check if View more is displayed
+28 Mar 2021 17:08:01  INFO logger - verify whether address is selected or unselected
+28 Mar 2021 17:08:09  INFO logger - add the product to checkout
+28 Mar 2021 17:08:51  INFO logger - Shutting down driver
+28 Mar 2021 17:10:16  INFO logger - --------------------------------------
+28 Mar 2021 17:10:49  INFO logger - --------------------------------------
+28 Mar 2021 17:11:02  INFO logger - Android driver created
+28 Mar 2021 17:11:02  INFO logger - Running login test
+28 Mar 2021 17:11:22  INFO logger - Login Successful
+28 Mar 2021 17:11:31  INFO logger - Verified the login
+28 Mar 2021 17:11:31  INFO logger - user will select product now
+28 Mar 2021 17:11:36  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 17:11:39  INFO logger - clicked on commercial
+28 Mar 2021 17:11:39  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 17:11:44  INFO logger - verify total products listed
+28 Mar 2021 17:12:01  INFO logger - user enter postal code and radius
+28 Mar 2021 17:12:07  INFO logger - scroll and check if View more is displayed
+28 Mar 2021 17:12:10  INFO logger - verify whether address is selected or unselected
+28 Mar 2021 17:12:19  INFO logger - add the product to checkout
+28 Mar 2021 17:12:39  INFO logger - product added to cart
+28 Mar 2021 17:12:46  INFO logger - user proceed to checkout
+28 Mar 2021 17:12:51  INFO logger - user landed on checkout page
+28 Mar 2021 17:12:51  INFO logger - user will review the product and do the payment
+28 Mar 2021 17:12:51  INFO logger - user enter Po number and proceed to checkout
+28 Mar 2021 17:12:53  INFO logger - review order and view order status
+28 Mar 2021 17:12:53  INFO logger - ClassName :IntegrationTests.screens.android.LennoxScreensLocators
+28 Mar 2021 17:12:53  INFO logger - MethodName :findElement
+28 Mar 2021 17:12:53  INFO logger - Exception :Element not foundBy.xpath: //android.widget.Button[@text='REVIEW ORDER']
+28 Mar 2021 17:12:53  INFO logger - -----------------------------------------------------------------------------------
+28 Mar 2021 17:12:53  INFO logger - Shutting down driver
+28 Mar 2021 17:14:44  INFO logger - --------------------------------------
+28 Mar 2021 17:15:34  INFO logger - --------------------------------------
+28 Mar 2021 17:15:46  INFO logger - Android driver created
+28 Mar 2021 17:15:46  INFO logger - Running login test
+28 Mar 2021 17:16:34  INFO logger - Shutting down driver
+28 Mar 2021 17:16:51  INFO logger - --------------------------------------
+28 Mar 2021 17:17:28  INFO logger - --------------------------------------
+28 Mar 2021 17:17:40  INFO logger - Android driver created
+28 Mar 2021 17:17:40  INFO logger - Running login test
+28 Mar 2021 17:18:00  INFO logger - Login Successful
+28 Mar 2021 17:18:08  INFO logger - Verified the login
+28 Mar 2021 17:18:08  INFO logger - user will select product now
+28 Mar 2021 17:18:15  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 17:18:18  INFO logger - clicked on commercial
+28 Mar 2021 17:18:18  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 17:18:22  INFO logger - verify total products listed
+28 Mar 2021 17:18:35  INFO logger - user enter postal code and radius
+28 Mar 2021 17:18:42  INFO logger - scroll and check if View more is displayed
+28 Mar 2021 17:18:45  INFO logger - verify whether address is selected or unselected
+28 Mar 2021 17:18:53  INFO logger - add the product to checkout
+28 Mar 2021 17:19:12  INFO logger - product added to cart
+28 Mar 2021 17:19:19  INFO logger - user proceed to checkout
+28 Mar 2021 17:19:25  INFO logger - user landed on checkout page
+28 Mar 2021 17:19:25  INFO logger - user will review the product and do the payment
+28 Mar 2021 17:19:25  INFO logger - user enter Po number and proceed to checkout
+28 Mar 2021 17:20:05  INFO logger - Shutting down driver
+28 Mar 2021 17:22:17  INFO logger - --------------------------------------
+28 Mar 2021 17:22:50  INFO logger - --------------------------------------
+28 Mar 2021 17:23:02  INFO logger - Android driver created
+28 Mar 2021 17:23:02  INFO logger - Running login test
+28 Mar 2021 17:24:01  INFO logger - --------------------------------------
+28 Mar 2021 17:24:37  INFO logger - --------------------------------------
+28 Mar 2021 17:24:49  INFO logger - Android driver created
+28 Mar 2021 17:24:49  INFO logger - Running login test
+28 Mar 2021 17:25:08  INFO logger - Login Successful
+28 Mar 2021 17:25:15  INFO logger - Verified the login
+28 Mar 2021 17:25:15  INFO logger - user will select product now
+28 Mar 2021 17:25:20  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 17:25:25  INFO logger - clicked on commercial
+28 Mar 2021 17:25:25  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 17:25:29  INFO logger - verify total products listed
+28 Mar 2021 17:25:44  INFO logger - user enter postal code and radius
+28 Mar 2021 17:25:51  INFO logger - scroll and check if View more is displayed
+28 Mar 2021 17:25:54  INFO logger - verify whether address is selected or unselected
+28 Mar 2021 17:26:02  INFO logger - add the product to checkout
+28 Mar 2021 17:26:39  INFO logger - product added to cart
+28 Mar 2021 17:26:46  INFO logger - user proceed to checkout
+28 Mar 2021 17:26:51  INFO logger - user landed on checkout page
+28 Mar 2021 17:26:51  INFO logger - user will review the product and do the payment
+28 Mar 2021 17:26:51  INFO logger - user enter Po number and proceed to checkout
+28 Mar 2021 17:26:53  INFO logger - review order and view order status
+28 Mar 2021 17:27:27  INFO logger - iuser successfully ordered the product
+28 Mar 2021 17:27:27  INFO logger - Shutting down driver
+28 Mar 2021 17:39:53  INFO logger - --------------------------------------
+28 Mar 2021 17:40:31  INFO logger - --------------------------------------
+28 Mar 2021 17:40:44  INFO logger - Android driver created
+28 Mar 2021 17:40:44  INFO logger - Running login test
+28 Mar 2021 17:41:04  INFO logger - Login Successful
+28 Mar 2021 17:41:19  INFO logger - Verified the login
+28 Mar 2021 17:41:19  INFO logger - user will select product now
+28 Mar 2021 17:41:26  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 17:41:28  INFO logger - clicked on commercial
+28 Mar 2021 17:41:28  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 17:41:34  INFO logger - verify total products listed
+28 Mar 2021 17:41:51  INFO logger - user enter postal code and radius
+28 Mar 2021 17:41:59  INFO logger - scroll and check if View more is displayed
+28 Mar 2021 17:42:02  INFO logger - ClassName :IntegrationTests.screens.android.LennoxScreensLocators
+28 Mar 2021 17:42:02  INFO logger - MethodName :findElement
+28 Mar 2021 17:42:02  INFO logger - Exception :Element not foundBy.xpath: //android.widget.Button[@text='VIEW MORE']
+28 Mar 2021 17:42:02  INFO logger - -----------------------------------------------------------------------------------
+28 Mar 2021 17:42:02  INFO logger - Shutting down driver
+28 Mar 2021 17:43:41  INFO logger - --------------------------------------
+28 Mar 2021 17:45:17  INFO logger - --------------------------------------
+28 Mar 2021 17:45:31  INFO logger - Android driver created
+28 Mar 2021 17:45:31  INFO logger - Running login test
+28 Mar 2021 17:45:50  INFO logger - Login Successful
+28 Mar 2021 17:46:02  INFO logger - Verified the login
+28 Mar 2021 17:46:02  INFO logger - user will select product now
+28 Mar 2021 17:46:06  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 17:46:08  INFO logger - clicked on commercial
+28 Mar 2021 17:46:08  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 17:46:13  INFO logger - verify total products listed
+28 Mar 2021 17:46:30  INFO logger - user enter postal code and radius
+28 Mar 2021 17:46:38  INFO logger - scroll and check if View more is displayed
+28 Mar 2021 17:46:42  INFO logger - verify whether address is selected or unselected
+28 Mar 2021 17:46:50  INFO logger - add the product to checkout
+28 Mar 2021 17:47:31  INFO logger - Shutting down driver
+28 Mar 2021 17:49:19  INFO logger - --------------------------------------
+28 Mar 2021 17:50:02  INFO logger - --------------------------------------
+28 Mar 2021 17:50:14  INFO logger - Android driver created
+28 Mar 2021 17:50:14  INFO logger - Running login test
+28 Mar 2021 17:50:33  INFO logger - Login Successful
+28 Mar 2021 17:50:42  INFO logger - Verified the login
+28 Mar 2021 17:50:42  INFO logger - user will select product now
+28 Mar 2021 17:50:59  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 17:51:03  INFO logger - clicked on commercial
+28 Mar 2021 17:51:03  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 17:51:14  INFO logger - verify total products listed
+28 Mar 2021 17:51:27  INFO logger - user enter postal code and radius
+28 Mar 2021 17:51:36  INFO logger - scroll and check if View more is displayed
+28 Mar 2021 17:51:41  INFO logger - ClassName :IntegrationTests.screens.android.LennoxScreensLocators
+28 Mar 2021 17:51:41  INFO logger - MethodName :findElement
+28 Mar 2021 17:51:41  INFO logger - Exception :Element not foundBy.xpath: //android.widget.Button[@text='VIEW MORE']
+28 Mar 2021 17:51:41  INFO logger - -----------------------------------------------------------------------------------
+28 Mar 2021 17:51:41  INFO logger - Shutting down driver
+28 Mar 2021 17:52:02  INFO logger - --------------------------------------
+28 Mar 2021 17:52:37  INFO logger - --------------------------------------
+28 Mar 2021 17:52:50  INFO logger - Android driver created
+28 Mar 2021 17:52:50  INFO logger - Running login test
+28 Mar 2021 17:53:09  INFO logger - Login Successful
+28 Mar 2021 17:53:20  INFO logger - Verified the login
+28 Mar 2021 17:53:20  INFO logger - user will select product now
+28 Mar 2021 17:53:30  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 17:53:33  INFO logger - clicked on commercial
+28 Mar 2021 17:53:33  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 17:54:09  INFO logger - verify total products listed
+28 Mar 2021 17:54:25  INFO logger - user enter postal code and radius
+28 Mar 2021 17:54:34  INFO logger - scroll and check if View more is displayed
+28 Mar 2021 17:54:39  INFO logger - ClassName :IntegrationTests.screens.android.LennoxScreensLocators
+28 Mar 2021 17:54:39  INFO logger - MethodName :findElement
+28 Mar 2021 17:54:39  INFO logger - Exception :Element not foundBy.xpath: //android.widget.Button[@text='VIEW MORE']
+28 Mar 2021 17:54:39  INFO logger - -----------------------------------------------------------------------------------
+28 Mar 2021 17:54:39  INFO logger - Shutting down driver
+28 Mar 2021 17:55:57  INFO logger - --------------------------------------
+28 Mar 2021 17:56:29  INFO logger - --------------------------------------
+28 Mar 2021 17:56:42  INFO logger - Android driver created
+28 Mar 2021 17:56:42  INFO logger - Running login test
+28 Mar 2021 17:57:01  INFO logger - Login Successful
+28 Mar 2021 17:57:10  INFO logger - Verified the login
+28 Mar 2021 17:57:10  INFO logger - user will select product now
+28 Mar 2021 17:57:21  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 17:57:24  INFO logger - clicked on commercial
+28 Mar 2021 17:57:24  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 17:57:34  INFO logger - verify total products listed
+28 Mar 2021 17:57:52  INFO logger - user enter postal code and radius
+28 Mar 2021 17:58:00  INFO logger - scroll and check if View more is displayed
+28 Mar 2021 17:58:05  INFO logger - verify whether address is selected or unselected
+28 Mar 2021 17:58:13  INFO logger - add the product to checkout
+28 Mar 2021 17:58:19  INFO logger - product added to cart
+28 Mar 2021 17:58:31  INFO logger - user proceed to checkout
+28 Mar 2021 17:58:36  INFO logger - user landed on checkout page
+28 Mar 2021 17:58:36  INFO logger - user will review the product and do the payment
+28 Mar 2021 17:58:36  INFO logger - user enter Po number and proceed to checkout
+28 Mar 2021 17:58:39  INFO logger - review order and view order status
+28 Mar 2021 17:59:07  INFO logger - iuser successfully ordered the product
+28 Mar 2021 17:59:07  INFO logger - Shutting down driver
+28 Mar 2021 20:21:31  INFO logger - --------------------------------------
+28 Mar 2021 20:23:04  INFO logger - --------------------------------------
+28 Mar 2021 20:23:15  INFO logger - Android driver created
+28 Mar 2021 20:25:26  INFO logger - --------------------------------------
+28 Mar 2021 20:25:59  INFO logger - --------------------------------------
+28 Mar 2021 20:26:11  INFO logger - Android driver created
+28 Mar 2021 20:40:25  INFO logger - --------------------------------------
+28 Mar 2021 20:41:00  INFO logger - --------------------------------------
+28 Mar 2021 20:41:12  INFO logger - Android driver created
+28 Mar 2021 20:54:38  INFO logger - --------------------------------------
+28 Mar 2021 20:55:25  INFO logger - --------------------------------------
+28 Mar 2021 20:55:38  INFO logger - Android driver created
+28 Mar 2021 21:02:28  INFO logger - --------------------------------------
+28 Mar 2021 21:03:03  INFO logger - --------------------------------------
+28 Mar 2021 21:03:15  INFO logger - Android driver created
+28 Mar 2021 22:03:08  INFO logger - --------------------------------------
+28 Mar 2021 22:03:51  INFO logger - --------------------------------------
+28 Mar 2021 22:04:03  INFO logger - Android driver created
+28 Mar 2021 22:35:07  INFO logger - --------------------------------------
+28 Mar 2021 22:44:02  INFO logger - --------------------------------------
+28 Mar 2021 22:46:54  INFO logger - --------------------------------------
+28 Mar 2021 22:47:59  INFO logger - --------------------------------------
+28 Mar 2021 22:48:53  INFO logger - Android driver created
+28 Mar 2021 23:12:03  INFO logger - --------------------------------------
+28 Mar 2021 23:12:37  INFO logger - Android driver created
+28 Mar 2021 23:12:37  INFO logger - Running login test
+28 Mar 2021 23:13:23  INFO logger - Shutting down driver
+28 Mar 2021 23:18:47  INFO logger - --------------------------------------
+28 Mar 2021 23:20:03  INFO logger - --------------------------------------
+28 Mar 2021 23:20:31  INFO logger - --------------------------------------
+28 Mar 2021 23:20:43  INFO logger - Android driver created
+28 Mar 2021 23:20:43  INFO logger - Running login test
+28 Mar 2021 23:21:37  INFO logger - --------------------------------------
+28 Mar 2021 23:22:28  INFO logger - --------------------------------------
+28 Mar 2021 23:22:40  INFO logger - Android driver created
+28 Mar 2021 23:22:40  INFO logger - Running login test
+28 Mar 2021 23:22:46  INFO logger - Verified the login
+28 Mar 2021 23:22:46  INFO logger - user will select product now
+28 Mar 2021 23:22:54  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 23:22:57  INFO logger - clicked on commercial
+28 Mar 2021 23:22:57  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 23:22:59  INFO logger - Shutting down driver
+28 Mar 2021 23:25:56  INFO logger - --------------------------------------
+28 Mar 2021 23:26:29  INFO logger - --------------------------------------
+28 Mar 2021 23:26:42  INFO logger - Android driver created
+28 Mar 2021 23:27:03  INFO logger - --------------------------------------
+28 Mar 2021 23:27:43  INFO logger - --------------------------------------
+28 Mar 2021 23:27:56  INFO logger - Android driver created
+28 Mar 2021 23:31:28  INFO logger - --------------------------------------
+28 Mar 2021 23:32:08  INFO logger - --------------------------------------
+28 Mar 2021 23:32:20  INFO logger - Android driver created
+28 Mar 2021 23:32:20  INFO logger - Running login test
+28 Mar 2021 23:32:26  INFO logger - Verified the login
+28 Mar 2021 23:32:26  INFO logger - user will select product now
+28 Mar 2021 23:32:36  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 23:32:40  INFO logger - clicked on commercial
+28 Mar 2021 23:32:40  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 23:32:50  INFO logger - Shutting down driver
+28 Mar 2021 23:35:53  INFO logger - --------------------------------------
+28 Mar 2021 23:36:28  INFO logger - --------------------------------------
+28 Mar 2021 23:36:41  INFO logger - Android driver created
+28 Mar 2021 23:36:41  INFO logger - Running login test
+28 Mar 2021 23:37:03  INFO logger - Login Successful
+28 Mar 2021 23:37:13  INFO logger - Verified the login
+28 Mar 2021 23:37:13  INFO logger - user will select product now
+28 Mar 2021 23:37:17  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+28 Mar 2021 23:37:20  INFO logger - clicked on commercial
+28 Mar 2021 23:37:20  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+28 Mar 2021 23:37:31  INFO logger - verify total products listed
+28 Mar 2021 23:38:46  INFO logger - user enter postal code and radius
+28 Mar 2021 23:39:27  INFO logger - Shutting down driver
+29 Mar 2021 09:32:46  INFO logger - --------------------------------------
+29 Mar 2021 09:34:13  INFO logger - --------------------------------------
+29 Mar 2021 09:34:25  INFO logger - Android driver created
+29 Mar 2021 09:34:25  INFO logger - Running login test
+29 Mar 2021 09:34:44  INFO logger - Login Successful
+29 Mar 2021 09:34:58  INFO logger - Verified the login
+29 Mar 2021 09:34:58  INFO logger - user will select product now
+29 Mar 2021 09:35:03  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 09:35:07  INFO logger - clicked on commercial
+29 Mar 2021 09:35:07  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 09:35:24  INFO logger - verify total products listed
+29 Mar 2021 09:35:40  INFO logger - user enter postal code and radius
+29 Mar 2021 09:35:47  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 09:35:47  INFO logger - Shutting down driver
+29 Mar 2021 09:37:37  INFO logger - --------------------------------------
+29 Mar 2021 09:38:09  INFO logger - --------------------------------------
+29 Mar 2021 09:38:21  INFO logger - Android driver created
+29 Mar 2021 09:38:21  INFO logger - Running login test
+29 Mar 2021 09:38:42  INFO logger - Login Successful
+29 Mar 2021 09:38:55  INFO logger - Verified the login
+29 Mar 2021 09:38:55  INFO logger - user will select product now
+29 Mar 2021 09:38:59  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 09:39:02  INFO logger - clicked on commercial
+29 Mar 2021 09:39:02  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 09:39:15  INFO logger - verify total products listed
+29 Mar 2021 09:39:28  INFO logger - user enter postal code and radius
+29 Mar 2021 09:39:34  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 09:39:49  INFO logger - verify whether address is selected or unselected
+29 Mar 2021 09:39:49  INFO logger - Shutting down driver
+29 Mar 2021 09:41:19  INFO logger - --------------------------------------
+29 Mar 2021 09:42:20  INFO logger - --------------------------------------
+29 Mar 2021 09:43:41  INFO logger - --------------------------------------
+29 Mar 2021 09:43:53  INFO logger - Android driver created
+29 Mar 2021 09:43:53  INFO logger - Running login test
+29 Mar 2021 09:44:15  INFO logger - Login Successful
+29 Mar 2021 09:44:27  INFO logger - Verified the login
+29 Mar 2021 09:44:27  INFO logger - user will select product now
+29 Mar 2021 09:44:31  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 09:44:35  INFO logger - clicked on commercial
+29 Mar 2021 09:44:35  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 09:44:46  INFO logger - verify total products listed
+29 Mar 2021 09:44:59  INFO logger - user enter postal code and radius
+29 Mar 2021 09:45:05  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 09:45:30  INFO logger - verify whether address is selected or unselected
+29 Mar 2021 09:45:53  INFO logger - add the product to checkout
+29 Mar 2021 09:46:03  INFO logger - product added to cart
+29 Mar 2021 09:46:10  INFO logger - user proceed to checkout
+29 Mar 2021 09:46:18  INFO logger - user landed on checkout page
+29 Mar 2021 09:46:18  INFO logger - user will review the product and do the payment
+29 Mar 2021 09:46:18  INFO logger - user enter Po number and proceed to checkout
+29 Mar 2021 09:46:20  INFO logger - review order and view order status
+29 Mar 2021 09:46:55  INFO logger - iuser successfully ordered the product
+29 Mar 2021 09:46:55  INFO logger - Shutting down driver
+29 Mar 2021 10:07:48  INFO logger - --------------------------------------
+29 Mar 2021 10:08:23  INFO logger - --------------------------------------
+29 Mar 2021 10:08:35  INFO logger - Android driver created
+29 Mar 2021 10:08:35  INFO logger - Running login test
+29 Mar 2021 10:08:54  INFO logger - Login Successful
+29 Mar 2021 10:09:07  INFO logger - Verified the login
+29 Mar 2021 10:09:07  INFO logger - user clear the cart
+29 Mar 2021 10:09:07  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 10:09:13  INFO logger - user cleared the cart
+29 Mar 2021 10:09:13  INFO logger - user will select product now
+29 Mar 2021 10:09:17  INFO logger - ClassName :IntegrationTests.screens.android.LennoxScreensLocators
+29 Mar 2021 10:09:17  INFO logger - MethodName :findElement
+29 Mar 2021 10:09:17  INFO logger - Exception :Element not foundBy.xpath: //android.view.View[@text='PRODUCTS']
+29 Mar 2021 10:09:17  INFO logger - -----------------------------------------------------------------------------------
+29 Mar 2021 10:09:17  INFO logger - Shutting down driver
+29 Mar 2021 10:19:07  INFO logger - --------------------------------------
+29 Mar 2021 10:19:40  INFO logger - --------------------------------------
+29 Mar 2021 10:19:52  INFO logger - Android driver created
+29 Mar 2021 10:19:52  INFO logger - Running login test
+29 Mar 2021 10:19:58  INFO logger - ClassName :IntegrationTests.screens.android.LennoxScreensLocators
+29 Mar 2021 10:19:58  INFO logger - MethodName :findElement
+29 Mar 2021 10:19:58  INFO logger - Exception :Element not foundBy.xpath: //android.widget.Image[@text='LennoxPros Logo']
+29 Mar 2021 10:19:58  INFO logger - -----------------------------------------------------------------------------------
+29 Mar 2021 10:19:58  INFO logger - Shutting down driver
+29 Mar 2021 10:21:36  INFO logger - --------------------------------------
+29 Mar 2021 10:22:04  INFO logger - --------------------------------------
+29 Mar 2021 10:22:16  INFO logger - Android driver created
+29 Mar 2021 10:22:16  INFO logger - Running login test
+29 Mar 2021 10:22:37  INFO logger - Login Successful
+29 Mar 2021 10:22:48  INFO logger - Verified the login
+29 Mar 2021 10:22:48  INFO logger - user clear the cart
+29 Mar 2021 10:22:48  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 10:23:17  INFO logger - Shutting down driver
+29 Mar 2021 10:23:53  INFO logger - --------------------------------------
+29 Mar 2021 10:24:35  INFO logger - --------------------------------------
+29 Mar 2021 10:24:47  INFO logger - Android driver created
+29 Mar 2021 10:24:47  INFO logger - Running login test
+29 Mar 2021 10:25:10  INFO logger - Login Successful
+29 Mar 2021 10:25:22  INFO logger - Verified the login
+29 Mar 2021 10:25:22  INFO logger - user clear the cart
+29 Mar 2021 10:25:22  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 10:50:49  INFO logger - --------------------------------------
+29 Mar 2021 10:51:25  INFO logger - --------------------------------------
+29 Mar 2021 10:51:38  INFO logger - Android driver created
+29 Mar 2021 10:51:38  INFO logger - Running login test
+29 Mar 2021 10:52:00  INFO logger - Login Successful
+29 Mar 2021 10:52:12  INFO logger - Verified the login
+29 Mar 2021 10:52:12  INFO logger - user clear the cart
+29 Mar 2021 10:52:13  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 10:52:19  INFO logger - user click on Yes button
+29 Mar 2021 10:52:21  INFO logger - user cleared the cart
+29 Mar 2021 10:52:21  INFO logger - user will select product now
+29 Mar 2021 10:52:25  INFO logger - ClassName :IntegrationTests.screens.android.LennoxScreensLocators
+29 Mar 2021 10:52:25  INFO logger - MethodName :findElement
+29 Mar 2021 10:52:25  INFO logger - Exception :Element not foundBy.xpath: //android.view.View[@text='PRODUCTS']
+29 Mar 2021 10:52:25  INFO logger - -----------------------------------------------------------------------------------
+29 Mar 2021 10:52:25  INFO logger - Shutting down driver
+29 Mar 2021 10:59:08  INFO logger - --------------------------------------
+29 Mar 2021 11:00:24  INFO logger - --------------------------------------
+29 Mar 2021 11:00:37  INFO logger - Android driver created
+29 Mar 2021 11:00:37  INFO logger - Running login test
+29 Mar 2021 11:00:59  INFO logger - Login Successful
+29 Mar 2021 11:01:12  INFO logger - Verified the login
+29 Mar 2021 11:01:12  INFO logger - user clear the cart
+29 Mar 2021 11:01:13  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 11:01:54  INFO logger - Shutting down driver
+29 Mar 2021 11:03:45  INFO logger - --------------------------------------
+29 Mar 2021 11:04:48  INFO logger - --------------------------------------
+29 Mar 2021 11:05:01  INFO logger - Android driver created
+29 Mar 2021 11:05:01  INFO logger - Running login test
+29 Mar 2021 11:05:21  INFO logger - Login Successful
+29 Mar 2021 11:05:35  INFO logger - Verified the login
+29 Mar 2021 11:05:35  INFO logger - user clear the cart
+29 Mar 2021 11:05:35  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 11:06:15  INFO logger - Shutting down driver
+29 Mar 2021 11:07:56  INFO logger - --------------------------------------
+29 Mar 2021 11:08:50  INFO logger - --------------------------------------
+29 Mar 2021 11:09:01  INFO logger - Android driver created
+29 Mar 2021 11:09:01  INFO logger - Running login test
+29 Mar 2021 11:09:23  INFO logger - Login Successful
+29 Mar 2021 11:09:33  INFO logger - Verified the login
+29 Mar 2021 11:09:33  INFO logger - user clear the cart
+29 Mar 2021 11:09:35  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 11:09:35  INFO logger - user will check if cart is empty or not
+29 Mar 2021 11:09:35  INFO logger - ClassName :IntegrationTests.screens.android.LennoxScreensLocators
+29 Mar 2021 11:09:35  INFO logger - MethodName :findElement
+29 Mar 2021 11:09:35  INFO logger - Exception :Element not foundBy.xpath: //android.view.View[@content-desc='cart#clear-cart-modal']
+29 Mar 2021 11:09:35  INFO logger - -----------------------------------------------------------------------------------
+29 Mar 2021 11:09:35  INFO logger - Shutting down driver
+29 Mar 2021 11:15:20  INFO logger - --------------------------------------
+29 Mar 2021 11:16:15  INFO logger - --------------------------------------
+29 Mar 2021 11:16:28  INFO logger - Android driver created
+29 Mar 2021 11:16:28  INFO logger - Running login test
+29 Mar 2021 11:16:47  INFO logger - Login Successful
+29 Mar 2021 11:16:58  INFO logger - Verified the login
+29 Mar 2021 11:16:58  INFO logger - user clear the cart
+29 Mar 2021 11:17:00  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 11:17:01  INFO logger - user will check if cart is empty or not
+29 Mar 2021 11:17:01  INFO logger - Shutting down driver
+29 Mar 2021 11:26:59  INFO logger - --------------------------------------
+29 Mar 2021 11:27:50  INFO logger - --------------------------------------
+29 Mar 2021 11:28:02  INFO logger - Android driver created
+29 Mar 2021 11:28:03  INFO logger - Running login test
+29 Mar 2021 11:28:22  INFO logger - Login Successful
+29 Mar 2021 11:28:36  INFO logger - Verified the login
+29 Mar 2021 11:28:36  INFO logger - user clear the cart
+29 Mar 2021 11:28:36  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 11:28:38  INFO logger - user will check if cart is empty or not
+29 Mar 2021 11:28:38  INFO logger - user will select product now
+29 Mar 2021 11:28:40  INFO logger - product list is listed in menu
+29 Mar 2021 11:28:41  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 11:28:44  INFO logger - clicked on commercial
+29 Mar 2021 11:28:44  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 11:28:56  INFO logger - verify total products listed
+29 Mar 2021 11:29:10  INFO logger - user enter postal code and radius
+29 Mar 2021 11:29:17  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 11:29:32  INFO logger - verify whether address is selected or unselected
+29 Mar 2021 11:30:05  INFO logger - ClassName :IntegrationTests.screens.android.LennoxScreensLocators
+29 Mar 2021 11:30:05  INFO logger - MethodName :findElement
+29 Mar 2021 11:30:05  INFO logger - Exception :Element not foundBy.xpath: //android.widget.Button[@text='DONE']
+29 Mar 2021 11:30:05  INFO logger - -----------------------------------------------------------------------------------
+29 Mar 2021 11:30:05  INFO logger - Shutting down driver
+29 Mar 2021 11:31:36  INFO logger - --------------------------------------
+29 Mar 2021 11:32:09  INFO logger - --------------------------------------
+29 Mar 2021 11:32:25  INFO logger - Android driver created
+29 Mar 2021 11:32:25  INFO logger - Running login test
+29 Mar 2021 11:32:45  INFO logger - Login Successful
+29 Mar 2021 11:32:53  INFO logger - Verified the login
+29 Mar 2021 11:32:53  INFO logger - user clear the cart
+29 Mar 2021 11:32:56  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 11:32:57  INFO logger - user will check if cart is empty or not
+29 Mar 2021 11:32:57  INFO logger - user will select product now
+29 Mar 2021 11:33:00  INFO logger - product list is listed in menu
+29 Mar 2021 11:33:02  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 11:33:05  INFO logger - clicked on commercial
+29 Mar 2021 11:33:05  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 11:33:17  INFO logger - verify total products listed
+29 Mar 2021 11:33:31  INFO logger - user enter postal code and radius
+29 Mar 2021 11:33:37  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 11:33:51  INFO logger - verify whether address is selected or unselected
+29 Mar 2021 11:34:24  INFO logger - add the product to checkout
+29 Mar 2021 11:34:35  INFO logger - product added to cart
+29 Mar 2021 11:34:41  INFO logger - user proceed to checkout
+29 Mar 2021 11:34:45  INFO logger - user landed on checkout page
+29 Mar 2021 11:34:45  INFO logger - user will review the product and do the payment
+29 Mar 2021 11:34:45  INFO logger - user enter Po number and proceed to checkout
+29 Mar 2021 11:34:48  INFO logger - review order and view order status
+29 Mar 2021 11:35:19  INFO logger - iuser successfully ordered the product
+29 Mar 2021 11:35:19  INFO logger - Shutting down driver
+29 Mar 2021 11:44:17  INFO logger - --------------------------------------
+29 Mar 2021 11:49:59  INFO logger - --------------------------------------
+29 Mar 2021 11:49:59  INFO logger -  https://null:null@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 11:49:59  INFO logger -  https://null:null@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 11:51:46  INFO logger - --------------------------------------
+29 Mar 2021 11:51:46  INFO logger -  https://null:null@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 11:51:46  INFO logger -  https://null:null@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 11:52:55  INFO logger - --------------------------------------
+29 Mar 2021 11:52:55  INFO logger -  https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 11:52:55  INFO logger -  https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 11:53:29  INFO logger - Android driver created
+29 Mar 2021 11:53:29  INFO logger - Running login test
+29 Mar 2021 11:53:57  INFO logger - Login Successful
+29 Mar 2021 11:54:08  INFO logger - Verified the login
+29 Mar 2021 11:54:08  INFO logger - user clear the cart
+29 Mar 2021 11:54:09  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 11:54:16  INFO logger - user will check if cart is empty or not
+29 Mar 2021 11:54:16  INFO logger - user will select product now
+29 Mar 2021 11:54:20  INFO logger - product list is listed in menu
+29 Mar 2021 11:54:22  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 11:54:26  INFO logger - clicked on commercial
+29 Mar 2021 11:54:26  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 11:54:40  INFO logger - verify total products listed
+29 Mar 2021 11:54:58  INFO logger - user enter postal code and radius
+29 Mar 2021 11:55:10  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 11:55:30  INFO logger - ClassName :IntegrationTests.screens.android.LennoxScreensLocators
+29 Mar 2021 11:55:30  INFO logger - MethodName :findElement
+29 Mar 2021 11:55:30  INFO logger - Exception :Element not foundBy.xpath: //android.widget.Button[@text='VIEW MORE']
+29 Mar 2021 11:55:30  INFO logger - --------------------------------------Test Started---------------------------------------------
+29 Mar 2021 11:55:30  INFO logger - Shutting down driver
+29 Mar 2021 12:01:11  INFO logger - --------------------------------------
+29 Mar 2021 12:01:11  INFO logger -  https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 12:01:11  INFO logger -  https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 12:01:59  INFO logger - Android driver created
+29 Mar 2021 12:01:59  INFO logger - Running login test
+29 Mar 2021 12:02:23  INFO logger - Login Successful
+29 Mar 2021 12:02:30  INFO logger - Verified the login
+29 Mar 2021 12:02:30  INFO logger - user clear the cart
+29 Mar 2021 12:02:32  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 12:02:33  INFO logger - user will check if cart is empty or not
+29 Mar 2021 12:02:33  INFO logger - user will select product now
+29 Mar 2021 12:02:36  INFO logger - product list is listed in menu
+29 Mar 2021 12:02:38  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 12:02:42  INFO logger - clicked on commercial
+29 Mar 2021 12:02:42  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 12:03:38  INFO logger - Shutting down driver
+29 Mar 2021 12:04:59  INFO logger - --------------------------------------
+29 Mar 2021 12:04:59  INFO logger -  https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 12:04:59  INFO logger -  https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 12:05:53  INFO logger - Android driver created
+29 Mar 2021 12:05:53  INFO logger - Running login test
+29 Mar 2021 12:06:19  INFO logger - Login Successful
+29 Mar 2021 12:06:36  INFO logger - Verified the login
+29 Mar 2021 12:06:36  INFO logger - user clear the cart
+29 Mar 2021 12:06:37  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 12:06:40  INFO logger - user will check if cart is empty or not
+29 Mar 2021 12:06:40  INFO logger - user will select product now
+29 Mar 2021 12:06:44  INFO logger - product list is listed in menu
+29 Mar 2021 12:06:47  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 12:06:51  INFO logger - clicked on commercial
+29 Mar 2021 12:06:51  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 12:07:05  INFO logger - verify total products listed
+29 Mar 2021 12:07:31  INFO logger - user enter postal code and radius
+29 Mar 2021 12:08:15  INFO logger - Shutting down driver
+29 Mar 2021 12:09:41  INFO logger - --------------------------------------
+29 Mar 2021 12:09:41  INFO logger -  https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 12:09:41  INFO logger -  https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 12:10:30  INFO logger - Android driver created
+29 Mar 2021 12:10:30  INFO logger - Running login test
+29 Mar 2021 12:10:58  INFO logger - Login Successful
+29 Mar 2021 12:11:05  INFO logger - Verified the login
+29 Mar 2021 12:11:05  INFO logger - user clear the cart
+29 Mar 2021 12:11:09  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 12:11:10  INFO logger - user will check if cart is empty or not
+29 Mar 2021 12:11:10  INFO logger - user will select product now
+29 Mar 2021 12:11:16  INFO logger - product list is listed in menu
+29 Mar 2021 12:11:17  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 12:11:21  INFO logger - clicked on commercial
+29 Mar 2021 12:11:21  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 12:12:15  INFO logger - Shutting down driver
+29 Mar 2021 12:13:03  INFO logger - --------------------------------------
+29 Mar 2021 12:13:03  INFO logger -  https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 12:13:03  INFO logger -  https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 12:13:48  INFO logger - Android driver created
+29 Mar 2021 12:13:48  INFO logger - Running login test
+29 Mar 2021 12:14:15  INFO logger - Login Successful
+29 Mar 2021 12:14:30  INFO logger - Verified the login
+29 Mar 2021 12:14:30  INFO logger - user clear the cart
+29 Mar 2021 12:14:30  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 12:14:32  INFO logger - user will check if cart is empty or not
+29 Mar 2021 12:14:32  INFO logger - user will select product now
+29 Mar 2021 12:14:36  INFO logger - product list is listed in menu
+29 Mar 2021 12:14:37  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 12:14:41  INFO logger - clicked on commercial
+29 Mar 2021 12:14:41  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 12:15:37  INFO logger - Shutting down driver
+29 Mar 2021 12:17:09  INFO logger - --------------------------------------
+29 Mar 2021 12:17:09  INFO logger -  https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 12:17:09  INFO logger -  https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 12:18:01  INFO logger - Android driver created
+29 Mar 2021 12:18:01  INFO logger - Running login test
+29 Mar 2021 12:18:30  INFO logger - Login Successful
+29 Mar 2021 12:18:37  INFO logger - Verified the login
+29 Mar 2021 12:18:37  INFO logger - user clear the cart
+29 Mar 2021 12:18:45  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 12:18:47  INFO logger - user will check if cart is empty or not
+29 Mar 2021 12:18:47  INFO logger - user will select product now
+29 Mar 2021 12:18:53  INFO logger - product list is listed in menu
+29 Mar 2021 12:18:54  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 12:18:58  INFO logger - clicked on commercial
+29 Mar 2021 12:18:58  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 12:19:18  INFO logger - verify total products listed
+29 Mar 2021 12:19:39  INFO logger - user enter postal code and radius
+29 Mar 2021 12:20:33  INFO logger - Shutting down driver
+29 Mar 2021 12:22:20  INFO logger - --------------------------------------
+29 Mar 2021 12:22:20  INFO logger -  https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 12:22:20  INFO logger -  https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 12:23:04  INFO logger - Android driver created
+29 Mar 2021 12:23:04  INFO logger - Running login test
+29 Mar 2021 12:23:29  INFO logger - Login Successful
+29 Mar 2021 12:23:39  INFO logger - Verified the login
+29 Mar 2021 12:23:39  INFO logger - user clear the cart
+29 Mar 2021 12:23:40  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 12:23:41  INFO logger - user will check if cart is empty or not
+29 Mar 2021 12:23:41  INFO logger - user will select product now
+29 Mar 2021 12:23:45  INFO logger - product list is listed in menu
+29 Mar 2021 12:23:47  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 12:23:51  INFO logger - clicked on commercial
+29 Mar 2021 12:23:51  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 12:24:13  INFO logger - verify total products listed
+29 Mar 2021 12:24:27  INFO logger - user enter postal code and radius
+29 Mar 2021 12:24:41  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 12:25:40  INFO logger - Shutting down driver
+29 Mar 2021 12:28:32  INFO logger - --------------------------------------
+29 Mar 2021 12:28:32  INFO logger -  https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 12:28:32  INFO logger -  https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 12:29:27  INFO logger - Android driver created
+29 Mar 2021 12:29:27  INFO logger - Running login test
+29 Mar 2021 12:29:55  INFO logger - Login Successful
+29 Mar 2021 12:30:06  INFO logger - Verified the login
+29 Mar 2021 12:30:06  INFO logger - user clear the cart
+29 Mar 2021 12:30:06  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 12:30:10  INFO logger - user will check if cart is empty or not
+29 Mar 2021 12:30:10  INFO logger - user will select product now
+29 Mar 2021 12:30:14  INFO logger - product list is listed in menu
+29 Mar 2021 12:30:15  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 12:30:20  INFO logger - clicked on commercial
+29 Mar 2021 12:30:20  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 12:30:40  INFO logger - verify total products listed
+29 Mar 2021 12:30:59  INFO logger - user enter postal code and radius
+29 Mar 2021 12:31:15  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 12:31:28  INFO logger - verify whether address is selected or unselected
+29 Mar 2021 12:32:47  INFO logger - Shutting down driver
+29 Mar 2021 12:33:23  INFO logger - --------------------------------------
+29 Mar 2021 12:33:23  INFO logger -  https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 12:33:23  INFO logger -  https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 12:34:06  INFO logger - Android driver created
+29 Mar 2021 12:34:06  INFO logger - Running login test
+29 Mar 2021 12:34:32  INFO logger - Login Successful
+29 Mar 2021 12:34:38  INFO logger - Verified the login
+29 Mar 2021 12:34:38  INFO logger - user clear the cart
+29 Mar 2021 12:34:41  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 12:34:42  INFO logger - user will check if cart is empty or not
+29 Mar 2021 12:34:42  INFO logger - user will select product now
+29 Mar 2021 12:34:46  INFO logger - product list is listed in menu
+29 Mar 2021 12:34:47  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 12:34:51  INFO logger - clicked on commercial
+29 Mar 2021 12:34:51  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 12:35:10  INFO logger - verify total products listed
+29 Mar 2021 12:35:28  INFO logger - user enter postal code and radius
+29 Mar 2021 12:35:43  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 12:35:58  INFO logger - verify whether address is selected or unselected
+29 Mar 2021 12:37:00  INFO logger - Shutting down driver
+29 Mar 2021 12:44:12  INFO logger - --------------------------------------
+29 Mar 2021 12:44:12  INFO logger -  https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 12:44:12  INFO logger -  https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 12:45:02  INFO logger - --------------------------------------
+29 Mar 2021 12:45:02  INFO logger -  https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 12:45:02  INFO logger -  https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 12:45:17  INFO logger - Android driver created
+29 Mar 2021 12:45:17  INFO logger - Running login test
+29 Mar 2021 12:45:38  INFO logger - Login Successful
+29 Mar 2021 12:45:47  INFO logger - Verified the login
+29 Mar 2021 12:45:47  INFO logger - user clear the cart
+29 Mar 2021 12:45:50  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 12:45:51  INFO logger - user will check if cart is empty or not
+29 Mar 2021 12:45:51  INFO logger - user will select product now
+29 Mar 2021 12:45:56  INFO logger - product list is listed in menu
+29 Mar 2021 12:45:58  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 12:46:01  INFO logger - clicked on commercial
+29 Mar 2021 12:46:01  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 12:46:16  INFO logger - verify total products listed
+29 Mar 2021 12:46:32  INFO logger - user enter postal code and radius
+29 Mar 2021 12:47:15  INFO logger - Shutting down driver
+29 Mar 2021 12:47:38  INFO logger - --------------------------------------
+29 Mar 2021 12:47:38  INFO logger -  https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 12:47:38  INFO logger -  https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 13:00:29  INFO logger - --------------------------------------
+29 Mar 2021 13:00:46  INFO logger - Android driver created
+29 Mar 2021 13:00:46  INFO logger - Running login test
+29 Mar 2021 13:01:09  INFO logger - Login Successful
+29 Mar 2021 13:01:18  INFO logger - Verified the login
+29 Mar 2021 13:01:18  INFO logger - user clear the cart
+29 Mar 2021 13:01:19  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 13:01:20  INFO logger - user will check if cart is empty or not
+29 Mar 2021 13:01:20  INFO logger - user will select product now
+29 Mar 2021 13:01:24  INFO logger - product list is listed in menu
+29 Mar 2021 13:01:26  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 13:01:29  INFO logger - clicked on commercial
+29 Mar 2021 13:01:29  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 13:01:44  INFO logger - verify total products listed
+29 Mar 2021 13:02:02  INFO logger - user enter postal code and radius
+29 Mar 2021 13:02:07  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 13:06:38  INFO logger - Shutting down driver
+29 Mar 2021 13:13:07  INFO logger - --------------------------------------
+29 Mar 2021 13:13:54  INFO logger - --------------------------------------
+29 Mar 2021 13:14:07  INFO logger - Android driver created
+29 Mar 2021 13:14:07  INFO logger - Running login test
+29 Mar 2021 13:14:29  INFO logger - Login Successful
+29 Mar 2021 13:14:46  INFO logger - Verified the login
+29 Mar 2021 13:14:46  INFO logger - user clear the cart
+29 Mar 2021 13:14:46  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 13:14:47  INFO logger - user will check if cart is empty or not
+29 Mar 2021 13:14:47  INFO logger - user will select product now
+29 Mar 2021 13:14:50  INFO logger - product list is listed in menu
+29 Mar 2021 13:14:52  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 13:14:55  INFO logger - clicked on commercial
+29 Mar 2021 13:14:55  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 13:15:10  INFO logger - verify total products listed
+29 Mar 2021 13:15:23  INFO logger - user enter postal code and radius
+29 Mar 2021 13:15:30  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 13:15:34  INFO logger - verify whether address is selected or unselected
+29 Mar 2021 13:16:25  INFO logger - add the product to checkout
+29 Mar 2021 13:16:35  INFO logger - product added to cart
+29 Mar 2021 13:16:41  INFO logger - user proceed to checkout
+29 Mar 2021 13:16:46  INFO logger - user landed on checkout page
+29 Mar 2021 13:16:46  INFO logger - user will review the product and do the payment
+29 Mar 2021 13:16:46  INFO logger - user enter Po number and proceed to checkout
+29 Mar 2021 13:16:49  INFO logger - review order and view order status
+29 Mar 2021 13:17:13  INFO logger - user successfully ordered the product
+29 Mar 2021 13:17:13  INFO logger - Shutting down driver
+29 Mar 2021 13:37:52  INFO logger - --------------------------------------
+29 Mar 2021 13:39:45  INFO logger - --------------------------------------
+29 Mar 2021 13:39:59  INFO logger - Android driver created
+29 Mar 2021 13:39:59  INFO logger - Running login test
+29 Mar 2021 13:40:23  INFO logger - Login Successful
+29 Mar 2021 13:40:31  INFO logger - Verified the login
+29 Mar 2021 13:40:31  INFO logger - user clear the cart
+29 Mar 2021 13:40:31  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 13:40:35  INFO logger - user will check if cart is empty or not
+29 Mar 2021 13:40:35  INFO logger - user will select product now
+29 Mar 2021 13:40:40  INFO logger - product list is listed in menu
+29 Mar 2021 13:40:41  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 13:40:44  INFO logger - clicked on commercial
+29 Mar 2021 13:40:44  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 13:40:49  INFO logger - verify total products listed
+29 Mar 2021 13:41:04  INFO logger - user enter postal code and radius
+29 Mar 2021 13:41:09  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 13:41:14  INFO logger - verify whether address is selected or unselected
+29 Mar 2021 13:41:25  INFO logger - add the product to checkout
+29 Mar 2021 13:41:38  INFO logger - product added to cart
+29 Mar 2021 13:41:43  INFO logger - user proceed to checkout
+29 Mar 2021 13:41:49  INFO logger - user landed on checkout page
+29 Mar 2021 13:41:49  INFO logger - user will review the product and do the payment
+29 Mar 2021 13:41:49  INFO logger - user enter Po number and proceed to checkout
+29 Mar 2021 13:41:53  INFO logger - review order and view order status
+29 Mar 2021 13:42:16  INFO logger - user successfully ordered the product
+29 Mar 2021 13:42:16  INFO logger - Shutting down driver
+29 Mar 2021 13:45:15  INFO logger - --------------------------------------
+29 Mar 2021 13:46:52  INFO logger - --------------------------------------
+29 Mar 2021 13:47:05  INFO logger - Android driver created
+29 Mar 2021 13:47:05  INFO logger - Running login test
+29 Mar 2021 13:47:25  INFO logger - Login Successful
+29 Mar 2021 13:47:33  INFO logger - Verified the login
+29 Mar 2021 13:47:33  INFO logger - user clear the cart
+29 Mar 2021 13:47:36  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 13:47:38  INFO logger - user will check if cart is empty or not
+29 Mar 2021 13:47:38  INFO logger - user will select product now
+29 Mar 2021 13:47:42  INFO logger - product list is listed in menu
+29 Mar 2021 13:47:44  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 13:47:47  INFO logger - clicked on commercial
+29 Mar 2021 13:47:47  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 13:47:51  INFO logger - verify total products listed
+29 Mar 2021 13:48:08  INFO logger - user enter postal code and radius
+29 Mar 2021 13:48:14  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 13:48:19  INFO logger - verify whether address is selected or unselected
+29 Mar 2021 13:48:30  INFO logger - add the product to checkout
+29 Mar 2021 13:48:42  INFO logger - product added to cart
+29 Mar 2021 13:48:47  INFO logger - user proceed to checkout
+29 Mar 2021 13:48:53  INFO logger - user landed on checkout page
+29 Mar 2021 13:48:53  INFO logger - user will review the product and do the payment
+29 Mar 2021 13:48:53  INFO logger - user enter Po number and proceed to checkout
+29 Mar 2021 13:48:56  INFO logger - review order and view order status
+29 Mar 2021 13:49:23  INFO logger - user successfully ordered the product
+29 Mar 2021 13:49:23  INFO logger - Shutting down driver
+29 Mar 2021 13:51:18  INFO logger - --------------------------------------
+29 Mar 2021 13:52:19  INFO logger - --------------------------------------
+29 Mar 2021 13:52:34  INFO logger - Android driver created
+29 Mar 2021 13:52:34  INFO logger - Running login test
+29 Mar 2021 13:52:58  INFO logger - Login Successful
+29 Mar 2021 13:53:09  INFO logger - Verified the login
+29 Mar 2021 13:53:09  INFO logger - user clear the cart
+29 Mar 2021 13:53:10  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 13:53:11  INFO logger - user will check if cart is empty or not
+29 Mar 2021 13:53:11  INFO logger - user will select product now
+29 Mar 2021 13:53:46  INFO logger - product list is listed in menu
+29 Mar 2021 13:53:48  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 13:53:51  INFO logger - clicked on commercial
+29 Mar 2021 13:53:51  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 13:53:55  INFO logger - verify total products listed
+29 Mar 2021 13:54:08  INFO logger - user enter postal code and radius
+29 Mar 2021 13:54:14  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 13:54:19  INFO logger - verify whether address is selected or unselected
+29 Mar 2021 13:54:29  INFO logger - add the product to checkout
+29 Mar 2021 13:54:40  INFO logger - product added to cart
+29 Mar 2021 13:54:45  INFO logger - user proceed to checkout
+29 Mar 2021 13:54:50  INFO logger - user landed on checkout page
+29 Mar 2021 13:54:50  INFO logger - user will review the product and do the payment
+29 Mar 2021 13:54:50  INFO logger - user enter Po number and proceed to checkout
+29 Mar 2021 13:54:54  INFO logger - review order and view order status
+29 Mar 2021 13:55:56  INFO logger - user successfully ordered the product
+29 Mar 2021 13:55:56  INFO logger - Shutting down driver
+29 Mar 2021 14:07:22  INFO logger - --------------------------------------
+29 Mar 2021 14:09:59  INFO logger - --------------------------------------
+29 Mar 2021 14:09:59  INFO logger - session with saucelab started: https://null:null@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 14:13:11  INFO logger - --------------------------------------
+29 Mar 2021 14:13:11  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 14:14:39  INFO logger - --------------------------------------
+29 Mar 2021 14:16:19  INFO logger - --------------------------------------
+29 Mar 2021 14:16:19  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 14:16:58  INFO logger - iOS driver created
+29 Mar 2021 14:16:58  INFO logger - Running login test
+29 Mar 2021 14:17:10  INFO logger - Shutting down driver
+29 Mar 2021 14:20:05  INFO logger - --------------------------------------
+29 Mar 2021 14:20:05  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 14:21:04  INFO logger - iOS driver created
+29 Mar 2021 14:21:04  INFO logger - Running login test
+29 Mar 2021 14:21:31  INFO logger - Login Successful
+29 Mar 2021 14:21:43  INFO logger - Verified the login
+29 Mar 2021 14:21:43  INFO logger - user clear the cart
+29 Mar 2021 14:21:44  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 14:21:47  INFO logger - user will check if cart is empty or not
+29 Mar 2021 14:21:47  INFO logger - user will select product now
+29 Mar 2021 14:21:52  INFO logger - product list is listed in menu
+29 Mar 2021 14:21:54  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 14:21:58  INFO logger - clicked on commercial
+29 Mar 2021 14:21:58  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 14:22:06  INFO logger - verify total products listed
+29 Mar 2021 14:22:23  INFO logger - user enter postal code and radius
+29 Mar 2021 14:23:11  INFO logger - Shutting down driver
+29 Mar 2021 14:26:04  INFO logger - --------------------------------------
+29 Mar 2021 14:26:04  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 14:26:58  INFO logger - iOS driver created
+29 Mar 2021 14:26:58  INFO logger - Running login test
+29 Mar 2021 14:27:25  INFO logger - Login Successful
+29 Mar 2021 14:27:42  INFO logger - Verified the login
+29 Mar 2021 14:27:42  INFO logger - user clear the cart
+29 Mar 2021 14:27:43  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 14:27:44  INFO logger - user will check if cart is empty or not
+29 Mar 2021 14:27:44  INFO logger - user will select product now
+29 Mar 2021 14:27:48  INFO logger - product list is listed in menu
+29 Mar 2021 14:27:50  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 14:27:54  INFO logger - clicked on commercial
+29 Mar 2021 14:27:54  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 14:28:03  INFO logger - verify total products listed
+29 Mar 2021 14:28:21  INFO logger - user enter postal code and radius
+29 Mar 2021 14:29:06  INFO logger - Shutting down driver
+29 Mar 2021 14:30:17  INFO logger - --------------------------------------
+29 Mar 2021 14:30:17  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 14:31:10  INFO logger - iOS driver created
+29 Mar 2021 14:31:10  INFO logger - Running login test
+29 Mar 2021 14:31:19  INFO logger - Shutting down driver
+29 Mar 2021 14:33:03  INFO logger - --------------------------------------
+29 Mar 2021 14:33:03  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 14:34:06  INFO logger - iOS driver created
+29 Mar 2021 14:34:06  INFO logger - Running login test
+29 Mar 2021 14:34:36  INFO logger - Login Successful
+29 Mar 2021 14:34:48  INFO logger - Verified the login
+29 Mar 2021 14:34:48  INFO logger - user clear the cart
+29 Mar 2021 14:34:49  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 14:34:50  INFO logger - user will check if cart is empty or not
+29 Mar 2021 14:34:50  INFO logger - user will select product now
+29 Mar 2021 14:34:55  INFO logger - product list is listed in menu
+29 Mar 2021 14:34:57  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 14:35:02  INFO logger - clicked on commercial
+29 Mar 2021 14:35:02  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 14:35:10  INFO logger - verify total products listed
+29 Mar 2021 14:35:33  INFO logger - user enter postal code and radius
+29 Mar 2021 14:35:56  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 14:36:13  INFO logger - verify whether address is selected or unselected
+29 Mar 2021 14:37:01  INFO logger - add the product to checkout
+29 Mar 2021 14:37:14  INFO logger - product added to cart
+29 Mar 2021 14:37:27  INFO logger - user proceed to checkout
+29 Mar 2021 14:37:32  INFO logger - user landed on checkout page
+29 Mar 2021 14:37:32  INFO logger - user will review the product and do the payment
+29 Mar 2021 14:37:32  INFO logger - user enter Po number and proceed to checkout
+29 Mar 2021 14:37:38  INFO logger - review order and view order status
+29 Mar 2021 14:37:56  INFO logger - user successfully ordered the product
+29 Mar 2021 14:37:56  INFO logger - Shutting down driver
+29 Mar 2021 14:50:30  INFO logger - --------------------------------------
+29 Mar 2021 14:50:30  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 14:52:50  INFO logger - --------------------------------------
+29 Mar 2021 14:52:51  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 15:02:53  INFO logger - --------------------------------------
+29 Mar 2021 15:02:53  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 15:05:54  INFO logger - --------------------------------------
+29 Mar 2021 15:05:54  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 15:12:30  INFO logger - --------------------------------------
+29 Mar 2021 15:12:30  INFO logger - session with saucelab started: https://lnx_demo_user1:6321cf5d-8537-41c7-a1e5-1a1c9b3970bd@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 15:16:29  INFO logger - --------------------------------------
+29 Mar 2021 15:16:29  INFO logger - session with saucelab started: https://lnx_demo_user1:6321cf5d-8537-41c7-a1e5-1a1c9b3970bd@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 15:19:53  INFO logger - --------------------------------------
+29 Mar 2021 15:19:53  INFO logger - session with saucelab started: https://lnx_demo_user1:6321cf5d-8537-41c7-a1e5-1a1c9b3970bd@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 15:21:59  INFO logger - --------------------------------------
+29 Mar 2021 15:22:00  INFO logger - session with saucelab started: https://lnx_demo_user1:6321cf5d-8537-41c7-a1e5-1a1c9b3970bd@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 15:23:08  INFO logger - --------------------------------------
+29 Mar 2021 15:23:08  INFO logger - session with saucelab started: https://lnx_demo_user1:6321cf5d-8537-41c7-a1e5-1a1c9b3970bd@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 15:25:28  INFO logger - --------------------------------------
+29 Mar 2021 15:25:28  INFO logger - session with saucelab started: https://lnx_demo_user1:6321cf5d-8537-41c7-a1e5-1a1c9b3970bd@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 15:45:33  INFO logger - --------------------------------------
+29 Mar 2021 15:45:33  INFO logger - session with saucelab started: https://lnx_demo_user1:6321cf5d-8537-41c7-a1e5-1a1c9b3970bd@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 15:47:28  INFO logger - --------------------------------------
+29 Mar 2021 15:47:28  INFO logger - session with saucelab started: https://lnx_demo_user1:6321cf5d-8537-41c7-a1e5-1a1c9b3970bd@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 16:03:47  INFO logger - --------------------------------------
+29 Mar 2021 16:05:23  INFO logger - --------------------------------------
+29 Mar 2021 16:06:01  INFO logger - --------------------------------------
+29 Mar 2021 16:06:54  INFO logger - --------------------------------------
+29 Mar 2021 16:07:10  INFO logger - Android driver created
+29 Mar 2021 16:07:10  INFO logger - Running login test
+29 Mar 2021 16:07:31  INFO logger - Login Successful
+29 Mar 2021 16:07:42  INFO logger - Verified the login
+29 Mar 2021 16:07:42  INFO logger - --------------------------------------
+29 Mar 2021 16:14:56  INFO logger - --------------------------------------
+29 Mar 2021 16:15:25  INFO logger - Android driver created
+29 Mar 2021 16:15:25  INFO logger - Running login test
+29 Mar 2021 16:15:49  INFO logger - Login Successful
+29 Mar 2021 16:15:59  INFO logger - Verified the login
+29 Mar 2021 16:15:59  INFO logger - --------------------------------------
+29 Mar 2021 17:00:19  INFO logger - --------------------------------------
+29 Mar 2021 17:01:27  INFO logger - --------------------------------------
+29 Mar 2021 17:01:42  INFO logger - Android driver created
+29 Mar 2021 17:01:42  INFO logger - Running login test
+29 Mar 2021 17:02:17  INFO logger - Login Successful
+29 Mar 2021 17:02:24  INFO logger - Verified the login
+29 Mar 2021 17:02:24  INFO logger - user clearing the cart
+29 Mar 2021 17:02:27  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 17:02:28  INFO logger - user will check if cart is empty or not
+29 Mar 2021 17:02:28  INFO logger - user will select product now
+29 Mar 2021 17:02:28  INFO logger - user search for the product from menu and add to the cart
+29 Mar 2021 17:02:32  INFO logger - product list is listed in menu
+29 Mar 2021 17:02:33  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 17:02:34  INFO logger - clicked on commercial
+29 Mar 2021 17:02:34  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 17:02:36  INFO logger - verify total products listed
+29 Mar 2021 17:02:48  INFO logger - user enter postal code and radius
+29 Mar 2021 17:02:53  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 17:02:59  INFO logger - verify whether address is selected or unselected
+29 Mar 2021 17:03:15  INFO logger - verified store name
+29 Mar 2021 17:03:19  INFO logger - Add product to cart
+29 Mar 2021 17:03:19  INFO logger - add the product to checkout
+29 Mar 2021 17:03:29  INFO logger - product added to cart
+29 Mar 2021 17:03:33  INFO logger - user proceed to checkout
+29 Mar 2021 17:03:38  INFO logger - product added to the cart
+29 Mar 2021 17:03:38  INFO logger - user landed on checkout page
+29 Mar 2021 17:03:38  INFO logger - user will review the product and do the payment
+29 Mar 2021 17:03:38  INFO logger - user enter Po number and proceed to checkout
+29 Mar 2021 17:03:40  INFO logger - review order and view order status
+29 Mar 2021 17:04:00  INFO logger - user successfully ordered the product
+29 Mar 2021 17:04:01  INFO logger - Shutting down driver
+29 Mar 2021 17:08:06  INFO logger - --------------------------------------
+29 Mar 2021 17:11:35  INFO logger - --------------------------------------
+29 Mar 2021 17:12:29  INFO logger - Android driver created
+29 Mar 2021 17:12:29  INFO logger - Running login test
+29 Mar 2021 17:12:44  INFO logger - Login Successful
+29 Mar 2021 17:12:56  INFO logger - Verified the login
+29 Mar 2021 17:12:56  INFO logger - user clearing the cart
+29 Mar 2021 17:12:56  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 17:12:56  INFO logger - user will check if cart is empty or not
+29 Mar 2021 17:12:56  INFO logger - user will select product now
+29 Mar 2021 17:12:56  INFO logger - user search for the product from menu and add to the cart
+29 Mar 2021 17:13:01  INFO logger - product list is listed in menu
+29 Mar 2021 17:13:02  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 17:13:02  INFO logger - clicked on commercial
+29 Mar 2021 17:13:02  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 17:13:06  INFO logger - verify total products listed
+29 Mar 2021 17:13:18  INFO logger - user enter postal code and radius
+29 Mar 2021 17:13:25  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 17:13:30  INFO logger - verify whether address is selected or unselected
+29 Mar 2021 17:13:31  INFO logger - element not found
+29 Mar 2021 17:13:31  INFO logger - element not found
+29 Mar 2021 17:13:31  INFO logger - element not found
+29 Mar 2021 17:13:32  INFO logger - element not found
+29 Mar 2021 17:13:32  INFO logger - element not found
+29 Mar 2021 17:13:32  INFO logger - element not found
+29 Mar 2021 17:13:32  INFO logger - element not found
+29 Mar 2021 17:13:32  INFO logger - element not found
+29 Mar 2021 17:13:32  INFO logger - element not found
+29 Mar 2021 17:13:32  INFO logger - element not found
+29 Mar 2021 17:13:32  INFO logger - element not found
+29 Mar 2021 17:13:33  INFO logger - element not found
+29 Mar 2021 17:13:33  INFO logger - element not found
+29 Mar 2021 17:13:33  INFO logger - element not found
+29 Mar 2021 17:13:33  INFO logger - element not found
+29 Mar 2021 17:13:34  INFO logger - element not found
+29 Mar 2021 17:13:34  INFO logger - element not found
+29 Mar 2021 17:13:34  INFO logger - element not found
+29 Mar 2021 17:13:34  INFO logger - element not found
+29 Mar 2021 17:13:34  INFO logger - element not found
+29 Mar 2021 17:13:34  INFO logger - element not found
+29 Mar 2021 17:13:35  INFO logger - element not found
+29 Mar 2021 17:13:35  INFO logger - element not found
+29 Mar 2021 17:13:35  INFO logger - element not found
+29 Mar 2021 17:13:36  INFO logger - element not found
+29 Mar 2021 17:13:37  INFO logger - element not found
+29 Mar 2021 17:13:37  INFO logger - element not found
+29 Mar 2021 17:13:37  INFO logger - element not found
+29 Mar 2021 17:13:37  INFO logger - element not found
+29 Mar 2021 17:13:37  INFO logger - element not found
+29 Mar 2021 17:13:37  INFO logger - element not found
+29 Mar 2021 17:13:37  INFO logger - element not found
+29 Mar 2021 17:13:37  INFO logger - element not found
+29 Mar 2021 17:13:38  INFO logger - element not found
+29 Mar 2021 17:13:38  INFO logger - element not found
+29 Mar 2021 17:13:38  INFO logger - element not found
+29 Mar 2021 17:13:38  INFO logger - element not found
+29 Mar 2021 17:13:38  INFO logger - element not found
+29 Mar 2021 17:13:38  INFO logger - element not found
+29 Mar 2021 17:13:38  INFO logger - element not found
+29 Mar 2021 17:13:39  INFO logger - element not found
+29 Mar 2021 17:13:39  INFO logger - element not found
+29 Mar 2021 17:13:39  INFO logger - element not found
+29 Mar 2021 17:13:40  INFO logger - element not found
+29 Mar 2021 17:13:40  INFO logger - element not found
+29 Mar 2021 17:13:40  INFO logger - element not found
+29 Mar 2021 17:13:40  INFO logger - element not found
+29 Mar 2021 17:13:40  INFO logger - element not found
+29 Mar 2021 17:13:41  INFO logger - element not found
+29 Mar 2021 17:13:41  INFO logger - element not found
+29 Mar 2021 17:13:41  INFO logger - element not found
+29 Mar 2021 17:13:43  INFO logger - element not found
+29 Mar 2021 17:13:43  INFO logger - element not found
+29 Mar 2021 17:13:43  INFO logger - element not found
+29 Mar 2021 17:13:43  INFO logger - element not found
+29 Mar 2021 17:13:43  INFO logger - element not found
+29 Mar 2021 17:13:44  INFO logger - element not found
+29 Mar 2021 17:13:44  INFO logger - element not found
+29 Mar 2021 17:13:44  INFO logger - element not found
+29 Mar 2021 17:13:44  INFO logger - element not found
+29 Mar 2021 17:13:44  INFO logger - element not found
+29 Mar 2021 17:13:44  INFO logger - element not found
+29 Mar 2021 17:13:44  INFO logger - element not found
+29 Mar 2021 17:13:44  INFO logger - element not found
+29 Mar 2021 17:13:45  INFO logger - element not found
+29 Mar 2021 17:13:45  INFO logger - element not found
+29 Mar 2021 17:13:45  INFO logger - element not found
+29 Mar 2021 17:13:45  INFO logger - element not found
+29 Mar 2021 17:13:46  INFO logger - element not found
+29 Mar 2021 17:13:46  INFO logger - element not found
+29 Mar 2021 17:13:46  INFO logger - element not found
+29 Mar 2021 17:13:46  INFO logger - element not found
+29 Mar 2021 17:13:46  INFO logger - element not found
+29 Mar 2021 17:13:46  INFO logger - element not found
+29 Mar 2021 17:13:46  INFO logger - element not found
+29 Mar 2021 17:13:47  INFO logger - element not found
+29 Mar 2021 17:13:47  INFO logger - element not found
+29 Mar 2021 17:13:47  INFO logger - element not found
+29 Mar 2021 17:13:47  INFO logger - element not found
+29 Mar 2021 17:13:47  INFO logger - element not found
+29 Mar 2021 17:13:47  INFO logger - element not found
+29 Mar 2021 17:13:47  INFO logger - element not found
+29 Mar 2021 17:13:49  INFO logger - element not found
+29 Mar 2021 17:13:49  INFO logger - element not found
+29 Mar 2021 17:13:49  INFO logger - element not found
+29 Mar 2021 17:13:49  INFO logger - element not found
+29 Mar 2021 17:13:49  INFO logger - element not found
+29 Mar 2021 17:13:49  INFO logger - element not found
+29 Mar 2021 17:13:49  INFO logger - element not found
+29 Mar 2021 17:13:49  INFO logger - element not found
+29 Mar 2021 17:13:50  INFO logger - element not found
+29 Mar 2021 17:13:50  INFO logger - element not found
+29 Mar 2021 17:13:50  INFO logger - element not found
+29 Mar 2021 17:13:50  INFO logger - element not found
+29 Mar 2021 17:13:50  INFO logger - element not found
+29 Mar 2021 17:13:50  INFO logger - element not found
+29 Mar 2021 17:13:50  INFO logger - element not found
+29 Mar 2021 17:13:50  INFO logger - element not found
+29 Mar 2021 17:13:50  INFO logger - element not found
+29 Mar 2021 17:13:51  INFO logger - element not found
+29 Mar 2021 17:13:51  INFO logger - element not found
+29 Mar 2021 17:13:51  INFO logger - element not found
+29 Mar 2021 17:13:52  INFO logger - element not found
+29 Mar 2021 17:13:52  INFO logger - element not found
+29 Mar 2021 17:13:52  INFO logger - element not found
+29 Mar 2021 17:13:52  INFO logger - element not found
+29 Mar 2021 17:13:52  INFO logger - element not found
+29 Mar 2021 17:13:52  INFO logger - element not found
+29 Mar 2021 17:13:52  INFO logger - element not found
+29 Mar 2021 17:13:52  INFO logger - element not found
+29 Mar 2021 17:13:52  INFO logger - element not found
+29 Mar 2021 17:13:53  INFO logger - element not found
+29 Mar 2021 17:13:53  INFO logger - element not found
+29 Mar 2021 17:13:53  INFO logger - element not found
+29 Mar 2021 17:13:53  INFO logger - element not found
+29 Mar 2021 17:13:53  INFO logger - element not found
+29 Mar 2021 17:16:18  INFO logger - --------------------------------------
+29 Mar 2021 17:21:05  INFO logger - --------------------------------------
+29 Mar 2021 17:21:22  INFO logger - Android driver created
+29 Mar 2021 17:21:22  INFO logger - Running login test
+29 Mar 2021 17:21:40  INFO logger - Login Successful
+29 Mar 2021 17:21:48  INFO logger - Verified the login
+29 Mar 2021 17:21:48  INFO logger - user clearing the cart
+29 Mar 2021 17:21:48  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 17:21:49  INFO logger - user will check if cart is empty or not
+29 Mar 2021 17:21:49  INFO logger - element not located in the page
+29 Mar 2021 17:21:49  INFO logger - active cart is already empty
+29 Mar 2021 17:21:49  INFO logger - user will select product now
+29 Mar 2021 17:21:49  INFO logger - user search for the product from menu and add to the cart
+29 Mar 2021 17:21:53  INFO logger - product list is listed in menu
+29 Mar 2021 17:21:56  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 17:21:56  INFO logger - clicked on commercial
+29 Mar 2021 17:21:56  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 17:22:01  INFO logger - verify total products listed
+29 Mar 2021 17:22:12  INFO logger - user enter postal code and radius
+29 Mar 2021 17:22:17  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 17:22:22  INFO logger - verify whether address is selected or unselected
+29 Mar 2021 17:22:28  INFO logger - verified store name
+29 Mar 2021 17:22:34  INFO logger - Add product to cart
+29 Mar 2021 17:22:34  INFO logger - add the product to checkout
+29 Mar 2021 17:22:45  INFO logger - product added to cart
+29 Mar 2021 17:22:50  INFO logger - user proceed to checkout
+29 Mar 2021 17:22:56  INFO logger - product added to the cart
+29 Mar 2021 17:22:56  INFO logger - user landed on checkout page
+29 Mar 2021 17:22:56  INFO logger - user will review the product and do the payment
+29 Mar 2021 17:22:56  INFO logger - user enter Po number and proceed to checkout
+29 Mar 2021 17:22:58  INFO logger - review order and view order status
+29 Mar 2021 17:23:18  INFO logger - user successfully ordered the product
+29 Mar 2021 17:23:18  INFO logger - Shutting down driver
+29 Mar 2021 18:10:09  INFO logger - --------------------------------------
+29 Mar 2021 18:14:15  INFO logger - --------------------------------------
+29 Mar 2021 18:14:30  INFO logger - Android driver created
+29 Mar 2021 18:14:30  INFO logger - Running login test
+29 Mar 2021 18:14:45  INFO logger - Login Successful
+29 Mar 2021 18:14:56  INFO logger - Verified the login
+29 Mar 2021 18:14:56  INFO logger - user clearing the cart
+29 Mar 2021 18:14:57  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 18:14:57  INFO logger - user will check if cart is empty or not
+29 Mar 2021 18:14:57  INFO logger - element not located in the page
+29 Mar 2021 18:14:57  INFO logger - active cart is already empty
+29 Mar 2021 18:14:57  INFO logger - user will select product now
+29 Mar 2021 18:14:57  INFO logger - user search for the product from menu and add to the cart
+29 Mar 2021 18:15:02  INFO logger - product list is listed in menu
+29 Mar 2021 18:15:05  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 18:15:05  INFO logger - clicked on commercial
+29 Mar 2021 18:15:05  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 18:15:07  INFO logger - verify total products listed
+29 Mar 2021 18:15:18  INFO logger - user enter postal code and radius
+29 Mar 2021 18:15:24  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 18:15:28  INFO logger - verify whether address is selected or unselected
+29 Mar 2021 18:15:34  INFO logger - verified store name
+29 Mar 2021 18:15:41  INFO logger - Add product to cart
+29 Mar 2021 18:15:44  INFO logger - Shutting down driver
+29 Mar 2021 18:47:27  INFO logger - --------------------------------------
+29 Mar 2021 18:48:53  INFO logger - --------------------------------------
+29 Mar 2021 18:49:13  INFO logger - Android driver created
+29 Mar 2021 18:49:13  INFO logger - Running login test
+29 Mar 2021 18:49:36  INFO logger - Login Successful
+29 Mar 2021 18:49:48  INFO logger - Verified the login
+29 Mar 2021 18:49:48  INFO logger - user clearing the cart
+29 Mar 2021 18:49:48  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 18:49:49  INFO logger - user will check if cart is empty or not
+29 Mar 2021 18:49:49  INFO logger - element not located in the page
+29 Mar 2021 18:49:49  INFO logger - active cart is already empty
+29 Mar 2021 18:49:49  INFO logger - user will select product now
+29 Mar 2021 18:49:49  INFO logger - user search for the product from menu and add to the cart
+29 Mar 2021 18:49:54  INFO logger - product list is listed in menu
+29 Mar 2021 18:49:55  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 18:49:56  INFO logger - clicked on commercial
+29 Mar 2021 18:49:56  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 18:50:00  INFO logger - verify total products listed
+29 Mar 2021 18:50:12  INFO logger - user enter postal code and radius
+29 Mar 2021 18:50:18  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 18:50:23  INFO logger - verify whether address is selected or unselected
+29 Mar 2021 18:50:29  INFO logger - verified store name
+29 Mar 2021 18:50:35  INFO logger - Add product to cart
+29 Mar 2021 18:50:45  INFO logger -  Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L
+29 Mar 2021 18:50:45  INFO logger - add the product to checkout
+29 Mar 2021 18:51:00  INFO logger - product adding to cart
+29 Mar 2021 18:51:00  INFO logger - productName verified again
+29 Mar 2021 18:51:10  INFO logger - productName verified
+29 Mar 2021 18:51:11  INFO logger - user proceed to checkout
+29 Mar 2021 18:51:15  INFO logger - product added to the cart
+29 Mar 2021 18:51:15  INFO logger - user landed on checkout page
+29 Mar 2021 18:51:15  INFO logger - user will review the product and do the payment
+29 Mar 2021 18:51:15  INFO logger - user enter Po number and proceed to checkout
+29 Mar 2021 18:51:18  INFO logger - review order and view order status
+29 Mar 2021 18:52:12  INFO logger - Shutting down driver
+29 Mar 2021 18:54:14  INFO logger - --------------------------------------
+29 Mar 2021 18:54:14  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 18:55:27  INFO logger - --------------------------------------
+29 Mar 2021 18:55:27  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 18:56:05  INFO logger - iOS driver created
+29 Mar 2021 18:56:05  INFO logger - Running login test
+29 Mar 2021 18:56:27  INFO logger - Login Successful
+29 Mar 2021 18:56:38  INFO logger - Verified the login
+29 Mar 2021 18:56:38  INFO logger - user clearing the cart
+29 Mar 2021 18:56:39  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 18:56:40  INFO logger - user will check if cart is empty or not
+29 Mar 2021 18:56:41  INFO logger - element not located in the page
+29 Mar 2021 18:56:41  INFO logger - active cart is already empty
+29 Mar 2021 18:56:41  INFO logger - user will select product now
+29 Mar 2021 18:56:41  INFO logger - user search for the product from menu and add to the cart
+29 Mar 2021 18:56:46  INFO logger - product list is listed in menu
+29 Mar 2021 18:56:48  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 18:56:50  INFO logger - clicked on commercial
+29 Mar 2021 18:56:50  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 18:56:56  INFO logger - verify total products listed
+29 Mar 2021 18:57:11  INFO logger - user enter postal code and radius
+29 Mar 2021 18:57:24  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 18:57:38  INFO logger - verify whether address is selected or unselected
+29 Mar 2021 18:57:54  INFO logger - verified store name
+29 Mar 2021 18:58:18  INFO logger - Add product to cart
+29 Mar 2021 18:58:30  INFO logger -  Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L
+29 Mar 2021 18:58:30  INFO logger - add the product to checkout
+29 Mar 2021 18:58:42  INFO logger - product adding to cart
+29 Mar 2021 18:58:43  INFO logger - productName verified again
+29 Mar 2021 18:58:46  INFO logger - Shutting down driver
+29 Mar 2021 19:00:56  INFO logger - --------------------------------------
+29 Mar 2021 19:00:56  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 19:01:55  INFO logger - iOS driver created
+29 Mar 2021 19:01:55  INFO logger - Running login test
+29 Mar 2021 19:02:19  INFO logger - Login Successful
+29 Mar 2021 19:02:41  INFO logger - Verified the login
+29 Mar 2021 19:02:41  INFO logger - user clearing the cart
+29 Mar 2021 19:02:42  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 19:02:46  INFO logger - user will check if cart is empty or not
+29 Mar 2021 19:02:47  INFO logger - element not located in the page
+29 Mar 2021 19:02:47  INFO logger - active cart is already empty
+29 Mar 2021 19:02:47  INFO logger - user will select product now
+29 Mar 2021 19:02:47  INFO logger - user search for the product from menu and add to the cart
+29 Mar 2021 19:02:51  INFO logger - product list is listed in menu
+29 Mar 2021 19:02:53  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 19:02:56  INFO logger - clicked on commercial
+29 Mar 2021 19:02:56  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 19:03:03  INFO logger - verify total products listed
+29 Mar 2021 19:03:19  INFO logger - user enter postal code and radius
+29 Mar 2021 19:04:05  INFO logger - Shutting down driver
+29 Mar 2021 19:20:37  INFO logger - --------------------------------------
+29 Mar 2021 19:20:37  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 19:21:17  INFO logger - iOS driver created
+29 Mar 2021 19:21:17  INFO logger - Running login test
+29 Mar 2021 19:21:40  INFO logger - Login Successful
+29 Mar 2021 19:21:54  INFO logger - Verified the login
+29 Mar 2021 19:21:54  INFO logger - user clearing the cart
+29 Mar 2021 19:21:56  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 19:21:57  INFO logger - user will check if cart is empty or not
+29 Mar 2021 19:21:59  INFO logger - element not located in the page
+29 Mar 2021 19:21:59  INFO logger - active cart is already empty
+29 Mar 2021 19:21:59  INFO logger - user will select product now
+29 Mar 2021 19:21:59  INFO logger - user search for the product from menu and add to the cart
+29 Mar 2021 19:22:02  INFO logger - product list is listed in menu
+29 Mar 2021 19:22:05  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 19:22:07  INFO logger - clicked on commercial
+29 Mar 2021 19:22:07  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 19:22:14  INFO logger - verify total products listed
+29 Mar 2021 19:22:28  INFO logger - user enter postal code and radius
+29 Mar 2021 19:22:41  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 19:22:54  INFO logger - verify whether address is selected or unselected
+29 Mar 2021 19:23:12  INFO logger - verified store name
+29 Mar 2021 19:23:27  INFO logger - Add product to cart
+29 Mar 2021 19:23:30  INFO logger -  Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L
+29 Mar 2021 19:23:30  INFO logger - add the product to checkout
+29 Mar 2021 19:24:21  INFO logger - Shutting down driver
+29 Mar 2021 19:57:45  INFO logger - --------------------------------------
+29 Mar 2021 19:57:45  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 19:58:19  INFO logger - iOS driver created
+29 Mar 2021 19:58:19  INFO logger - Running login test
+29 Mar 2021 19:58:41  INFO logger - Login Successful
+29 Mar 2021 19:58:56  INFO logger - Verified the login
+29 Mar 2021 19:58:56  INFO logger - user clearing the cart
+29 Mar 2021 19:58:57  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 19:58:58  INFO logger - user will check if cart is empty or not
+29 Mar 2021 19:58:59  INFO logger - element not located in the page
+29 Mar 2021 19:58:59  INFO logger - active cart is already empty
+29 Mar 2021 19:58:59  INFO logger - user will select product now
+29 Mar 2021 19:58:59  INFO logger - user search for the product from menu and add to the cart
+29 Mar 2021 19:59:04  INFO logger - product list is listed in menu
+29 Mar 2021 19:59:06  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 19:59:08  INFO logger - clicked on commercial
+29 Mar 2021 19:59:08  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 19:59:15  INFO logger - verify total products listed
+29 Mar 2021 19:59:28  INFO logger - user enter postal code and radius
+29 Mar 2021 19:59:49  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 19:59:59  INFO logger - verify whether address is selected or unselected
+29 Mar 2021 20:00:17  INFO logger - verified store name
+29 Mar 2021 20:00:30  INFO logger - Add product to cart
+29 Mar 2021 20:00:41  INFO logger -  Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L
+29 Mar 2021 20:00:41  INFO logger - add the product to checkout
+29 Mar 2021 20:00:58  INFO logger - product adding to cart
+29 Mar 2021 20:00:59  INFO logger - productName verified again
+29 Mar 2021 20:01:20  INFO logger - productName verified
+29 Mar 2021 20:01:22  INFO logger - user proceed to checkout
+29 Mar 2021 20:01:27  INFO logger - product added to the cart
+29 Mar 2021 20:01:27  INFO logger - user landed on checkout page
+29 Mar 2021 20:01:27  INFO logger - user will review the product and do the payment
+29 Mar 2021 20:01:27  INFO logger - user enter Po number and proceed to checkout
+29 Mar 2021 20:02:07  INFO logger - Shutting down driver
+29 Mar 2021 20:04:29  INFO logger - --------------------------------------
+29 Mar 2021 20:04:29  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 20:05:23  INFO logger - iOS driver created
+29 Mar 2021 20:05:23  INFO logger - Running login test
+29 Mar 2021 20:05:46  INFO logger - Login Successful
+29 Mar 2021 20:05:59  INFO logger - Verified the login
+29 Mar 2021 20:05:59  INFO logger - user clearing the cart
+29 Mar 2021 20:06:01  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 20:06:02  INFO logger - user will check if cart is empty or not
+29 Mar 2021 20:06:04  INFO logger - element not located in the page
+29 Mar 2021 20:06:04  INFO logger - active cart is already empty
+29 Mar 2021 20:06:04  INFO logger - user will select product now
+29 Mar 2021 20:06:04  INFO logger - user search for the product from menu and add to the cart
+29 Mar 2021 20:06:07  INFO logger - product list is listed in menu
+29 Mar 2021 20:06:10  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 20:06:12  INFO logger - clicked on commercial
+29 Mar 2021 20:06:12  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 20:06:19  INFO logger - verify total products listed
+29 Mar 2021 20:06:33  INFO logger - user enter postal code and radius
+29 Mar 2021 20:06:47  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 20:07:04  INFO logger - verify whether address is selected or unselected
+29 Mar 2021 20:07:32  INFO logger - verified store name
+29 Mar 2021 20:07:51  INFO logger - Add product to cart
+29 Mar 2021 20:07:54  INFO logger -  Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L
+29 Mar 2021 20:07:54  INFO logger - add the product to checkout
+29 Mar 2021 20:08:52  INFO logger - Shutting down driver
+29 Mar 2021 20:12:26  INFO logger - --------------------------------------
+29 Mar 2021 20:12:26  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 20:13:26  INFO logger - iOS driver created
+29 Mar 2021 20:13:26  INFO logger - Running login test
+29 Mar 2021 20:13:34  INFO logger - Shutting down driver
+29 Mar 2021 20:15:39  INFO logger - --------------------------------------
+29 Mar 2021 20:15:39  INFO logger - session with saucelab started: https://ibatra30:1e73f58d-1d60-40e6-90b5-41cac2801453@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 20:17:11  INFO logger - --------------------------------------
+29 Mar 2021 20:17:11  INFO logger - session with saucelab started: https://ibatra30:1e73f58d-1d60-40e6-90b5-41cac2801453@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 20:17:44  INFO logger - iOS driver created
+29 Mar 2021 20:17:44  INFO logger - Running login test
+29 Mar 2021 20:18:07  INFO logger - Login Successful
+29 Mar 2021 20:18:48  INFO logger - Shutting down driver
+29 Mar 2021 20:20:22  INFO logger - --------------------------------------
+29 Mar 2021 20:20:22  INFO logger - session with saucelab started: https://ibatra30:1e73f58d-1d60-40e6-90b5-41cac2801453@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 20:21:11  INFO logger - iOS driver created
+29 Mar 2021 20:21:11  INFO logger - Running login test
+29 Mar 2021 20:21:33  INFO logger - Login Successful
+29 Mar 2021 20:22:16  INFO logger - Shutting down driver
+29 Mar 2021 20:23:45  INFO logger - --------------------------------------
+29 Mar 2021 20:23:45  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 20:24:34  INFO logger - --------------------------------------
+29 Mar 2021 20:24:34  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 20:25:28  INFO logger - iOS driver created
+29 Mar 2021 20:25:28  INFO logger - Running login test
+29 Mar 2021 20:25:50  INFO logger - Login Successful
+29 Mar 2021 20:26:06  INFO logger - Verified the login
+29 Mar 2021 20:26:06  INFO logger - user clearing the cart
+29 Mar 2021 20:26:07  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 20:26:08  INFO logger - user will check if cart is empty or not
+29 Mar 2021 20:26:10  INFO logger - element not located in the page
+29 Mar 2021 20:26:10  INFO logger - active cart is already empty
+29 Mar 2021 20:26:10  INFO logger - user will select product now
+29 Mar 2021 20:26:10  INFO logger - user search for the product from menu and add to the cart
+29 Mar 2021 20:26:14  INFO logger - product list is listed in menu
+29 Mar 2021 20:26:17  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 20:26:19  INFO logger - clicked on commercial
+29 Mar 2021 20:26:19  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 20:26:25  INFO logger - verify total products listed
+29 Mar 2021 20:26:37  INFO logger - user enter postal code and radius
+29 Mar 2021 20:27:27  INFO logger - Shutting down driver
+29 Mar 2021 20:30:14  INFO logger - --------------------------------------
+29 Mar 2021 20:30:14  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 20:30:53  INFO logger - iOS driver created
+29 Mar 2021 20:30:53  INFO logger - Running login test
+29 Mar 2021 20:31:15  INFO logger - Login Successful
+29 Mar 2021 20:31:41  INFO logger - Verified the login
+29 Mar 2021 20:31:41  INFO logger - user clearing the cart
+29 Mar 2021 20:31:42  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 20:31:43  INFO logger - user will check if cart is empty or not
+29 Mar 2021 20:31:44  INFO logger - element not located in the page
+29 Mar 2021 20:31:44  INFO logger - active cart is already empty
+29 Mar 2021 20:31:44  INFO logger - user will select product now
+29 Mar 2021 20:31:44  INFO logger - user search for the product from menu and add to the cart
+29 Mar 2021 20:31:50  INFO logger - product list is listed in menu
+29 Mar 2021 20:31:53  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 20:31:55  INFO logger - clicked on commercial
+29 Mar 2021 20:31:55  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 20:32:02  INFO logger - verify total products listed
+29 Mar 2021 20:32:16  INFO logger - user enter postal code and radius
+29 Mar 2021 20:33:01  INFO logger - Shutting down driver
+29 Mar 2021 20:34:18  INFO logger - --------------------------------------
+29 Mar 2021 20:34:18  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 20:34:52  INFO logger - iOS driver created
+29 Mar 2021 20:34:52  INFO logger - Running login test
+29 Mar 2021 20:35:14  INFO logger - Login Successful
+29 Mar 2021 20:35:41  INFO logger - Verified the login
+29 Mar 2021 20:35:41  INFO logger - user clearing the cart
+29 Mar 2021 20:35:42  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 20:35:43  INFO logger - user will check if cart is empty or not
+29 Mar 2021 20:35:45  INFO logger - element not located in the page
+29 Mar 2021 20:35:45  INFO logger - active cart is already empty
+29 Mar 2021 20:35:45  INFO logger - user will select product now
+29 Mar 2021 20:35:45  INFO logger - user search for the product from menu and add to the cart
+29 Mar 2021 20:35:49  INFO logger - product list is listed in menu
+29 Mar 2021 20:35:51  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 20:35:53  INFO logger - clicked on commercial
+29 Mar 2021 20:35:53  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 20:36:00  INFO logger - verify total products listed
+29 Mar 2021 20:36:16  INFO logger - user enter postal code and radius
+29 Mar 2021 20:36:36  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 20:36:44  INFO logger - verify whether address is selected or unselected
+29 Mar 2021 20:37:00  INFO logger - verified store name
+29 Mar 2021 20:37:12  INFO logger - Add product to cart
+29 Mar 2021 20:37:31  INFO logger -  Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L
+29 Mar 2021 20:37:31  INFO logger - add the product to checkout
+29 Mar 2021 20:37:50  INFO logger - product adding to cart
+29 Mar 2021 20:37:51  INFO logger - productName verified again
+29 Mar 2021 20:38:00  INFO logger - productName verified
+29 Mar 2021 20:38:02  INFO logger - user proceed to checkout
+29 Mar 2021 20:38:07  INFO logger - product added to the cart
+29 Mar 2021 20:38:07  INFO logger - user landed on checkout page
+29 Mar 2021 20:38:07  INFO logger - user will review the product and do the payment
+29 Mar 2021 20:38:08  INFO logger - user enter Po number and proceed to checkout
+29 Mar 2021 20:38:49  INFO logger - Shutting down driver
+29 Mar 2021 20:41:06  INFO logger - --------------------------------------
+29 Mar 2021 20:41:06  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 20:42:00  INFO logger - iOS driver created
+29 Mar 2021 20:42:00  INFO logger - Running login test
+29 Mar 2021 20:42:08  INFO logger - Shutting down driver
+29 Mar 2021 20:42:52  INFO logger - --------------------------------------
+29 Mar 2021 20:42:52  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 20:43:47  INFO logger - iOS driver created
+29 Mar 2021 20:43:47  INFO logger - Running login test
+29 Mar 2021 20:44:10  INFO logger - Login Successful
+29 Mar 2021 20:44:33  INFO logger - Verified the login
+29 Mar 2021 20:44:33  INFO logger - user clearing the cart
+29 Mar 2021 20:44:34  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 20:44:35  INFO logger - user will check if cart is empty or not
+29 Mar 2021 20:44:37  INFO logger - element not located in the page
+29 Mar 2021 20:44:37  INFO logger - active cart is already empty
+29 Mar 2021 20:44:37  INFO logger - user will select product now
+29 Mar 2021 20:44:37  INFO logger - user search for the product from menu and add to the cart
+29 Mar 2021 20:44:40  INFO logger - product list is listed in menu
+29 Mar 2021 20:44:43  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 20:44:44  INFO logger - clicked on commercial
+29 Mar 2021 20:44:44  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 20:44:51  INFO logger - verify total products listed
+29 Mar 2021 20:45:05  INFO logger - user enter postal code and radius
+29 Mar 2021 20:45:20  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 20:45:34  INFO logger - verify whether address is selected or unselected
+29 Mar 2021 20:45:47  INFO logger - verified store name
+29 Mar 2021 20:46:06  INFO logger - Add product to cart
+29 Mar 2021 20:46:19  INFO logger -  Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L
+29 Mar 2021 20:46:19  INFO logger - add the product to checkout
+29 Mar 2021 20:46:45  INFO logger - product adding to cart
+29 Mar 2021 20:46:46  INFO logger - productName verified again
+29 Mar 2021 20:47:13  INFO logger - productName verified
+29 Mar 2021 20:47:15  INFO logger - user proceed to checkout
+29 Mar 2021 20:47:21  INFO logger - product added to the cart
+29 Mar 2021 20:47:21  INFO logger - user landed on checkout page
+29 Mar 2021 20:47:21  INFO logger - user will review the product and do the payment
+29 Mar 2021 20:47:24  INFO logger - user enter Po number and proceed to checkout
+29 Mar 2021 20:48:04  INFO logger - Shutting down driver
+29 Mar 2021 20:49:29  INFO logger - --------------------------------------
+29 Mar 2021 20:49:29  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+29 Mar 2021 20:50:23  INFO logger - iOS driver created
+29 Mar 2021 20:50:23  INFO logger - Running login test
+29 Mar 2021 20:50:45  INFO logger - Login Successful
+29 Mar 2021 20:50:56  INFO logger - Verified the login
+29 Mar 2021 20:50:56  INFO logger - user clearing the cart
+29 Mar 2021 20:50:57  INFO logger - user clicking on existing cart on dashboard
+29 Mar 2021 20:50:58  INFO logger - user will check if cart is empty or not
+29 Mar 2021 20:51:01  INFO logger - element not located in the page
+29 Mar 2021 20:51:01  INFO logger - active cart is already empty
+29 Mar 2021 20:51:01  INFO logger - user will select product now
+29 Mar 2021 20:51:01  INFO logger - user search for the product from menu and add to the cart
+29 Mar 2021 20:51:03  INFO logger - product list is listed in menu
+29 Mar 2021 20:51:06  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+29 Mar 2021 20:51:07  INFO logger - clicked on commercial
+29 Mar 2021 20:51:07  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+29 Mar 2021 20:51:14  INFO logger - verify total products listed
+29 Mar 2021 20:51:33  INFO logger - user enter postal code and radius
+29 Mar 2021 20:51:51  INFO logger - scroll and check if View more is displayed
+29 Mar 2021 20:52:02  INFO logger - verify whether address is selected or unselected
+29 Mar 2021 20:52:30  INFO logger - verified store name
+29 Mar 2021 20:52:48  INFO logger - Add product to cart
+29 Mar 2021 20:53:00  INFO logger -  Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L
+29 Mar 2021 20:53:00  INFO logger - add the product to checkout
+29 Mar 2021 20:53:22  INFO logger - product adding to cart
+29 Mar 2021 20:53:23  INFO logger - productName verified again
+29 Mar 2021 20:53:32  INFO logger - productName verified
+29 Mar 2021 20:53:35  INFO logger - user proceed to checkout
+29 Mar 2021 20:53:40  INFO logger - product added to the cart
+29 Mar 2021 20:53:40  INFO logger - user landed on checkout page
+29 Mar 2021 20:53:40  INFO logger - user will review the product and do the payment
+29 Mar 2021 20:53:43  INFO logger - user enter Po number and proceed to checkout
+29 Mar 2021 20:53:47  INFO logger - review order and view order status
+29 Mar 2021 20:54:05  INFO logger - user successfully ordered the product
+29 Mar 2021 20:54:05  INFO logger - Shutting down driver
+30 Mar 2021 09:49:09  INFO logger - --------------------------------------
+30 Mar 2021 09:49:09  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 09:49:54  INFO logger - iOS driver created
+30 Mar 2021 09:49:54  INFO logger - Running login test
+30 Mar 2021 09:49:54  INFO logger - Verified the login
+30 Mar 2021 09:49:54  INFO logger - user clearing the cart
+30 Mar 2021 09:49:54  INFO logger - user will select product now
+30 Mar 2021 09:49:54  INFO logger - user search for the product from menu and add to the cart
+30 Mar 2021 09:49:54  INFO logger - Add product to cart
+30 Mar 2021 09:49:54  INFO logger - product added to the cart
+30 Mar 2021 09:49:54  INFO logger - user landed on checkout page
+30 Mar 2021 09:49:54  INFO logger - user will review the product and do the payment
+30 Mar 2021 09:49:54  INFO logger - user successfully ordered the product
+30 Mar 2021 09:49:54  INFO logger - Shutting down driver
+30 Mar 2021 10:17:24  INFO logger - --------------------------------------
+30 Mar 2021 10:17:24  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 10:18:13  INFO logger - iOS driver created
+30 Mar 2021 10:18:13  INFO logger - Running login test
+30 Mar 2021 10:19:02  INFO logger - Shutting down driver
+30 Mar 2021 10:58:04  INFO logger - --------------------------------------
+30 Mar 2021 10:58:04  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 10:58:49  INFO logger - iOS driver created
+30 Mar 2021 10:58:49  INFO logger - Running login test
+30 Mar 2021 10:58:58  INFO logger - element not located in the page
+30 Mar 2021 10:58:58  INFO logger - No Bluetooth pop up displayed
+30 Mar 2021 10:59:39  INFO logger - Shutting down driver
+30 Mar 2021 11:10:44  INFO logger - --------------------------------------
+30 Mar 2021 11:10:44  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 11:11:23  INFO logger - iOS driver created
+30 Mar 2021 11:11:23  INFO logger - Running login test
+30 Mar 2021 11:11:32  INFO logger - element not located in the page
+30 Mar 2021 11:11:32  INFO logger - No Bluetooth pop up displayed
+30 Mar 2021 11:12:12  INFO logger - Shutting down driver
+30 Mar 2021 11:23:59  INFO logger - --------------------------------------
+30 Mar 2021 11:23:59  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 11:24:38  INFO logger - iOS driver created
+30 Mar 2021 11:24:38  INFO logger - Running login test
+30 Mar 2021 11:25:27  INFO logger - Shutting down driver
+30 Mar 2021 11:27:13  INFO logger - --------------------------------------
+30 Mar 2021 11:27:13  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 11:27:52  INFO logger - iOS driver created
+30 Mar 2021 11:27:52  INFO logger - Running login test
+30 Mar 2021 11:28:39  INFO logger - Shutting down driver
+30 Mar 2021 11:31:03  INFO logger - --------------------------------------
+30 Mar 2021 11:31:03  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 11:32:12  INFO logger - iOS driver created
+30 Mar 2021 11:32:12  INFO logger - Running login test
+30 Mar 2021 11:33:03  INFO logger - Shutting down driver
+30 Mar 2021 11:35:21  INFO logger - --------------------------------------
+30 Mar 2021 11:35:21  INFO logger - session with saucelab started: https://lnx_demo_user1:6321cf5d-8537-41c7-a1e5-1a1c9b3970bd@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 11:37:35  INFO logger - iOS driver created
+30 Mar 2021 11:37:35  INFO logger - Running login test
+30 Mar 2021 11:37:40  INFO logger - Handline alert
+30 Mar 2021 11:39:02  INFO logger - Shutting down driver
+30 Mar 2021 11:44:49  INFO logger - --------------------------------------
+30 Mar 2021 11:44:49  INFO logger - session with saucelab started: https://lnx_demo_user1:6321cf5d-8537-41c7-a1e5-1a1c9b3970bd@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 11:45:38  INFO logger - iOS driver created
+30 Mar 2021 11:45:38  INFO logger - Running login test
+30 Mar 2021 11:45:43  INFO logger - Handline alert
+30 Mar 2021 11:46:31  INFO logger - Shutting down driver
+30 Mar 2021 11:51:31  INFO logger - --------------------------------------
+30 Mar 2021 11:51:31  INFO logger - session with saucelab started: https://lnx_demo_user1:6321cf5d-8537-41c7-a1e5-1a1c9b3970bd@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 11:52:15  INFO logger - iOS driver created
+30 Mar 2021 11:52:15  INFO logger - Running login test
+30 Mar 2021 11:52:20  INFO logger - Handline alert
+30 Mar 2021 11:53:50  INFO logger - Shutting down driver
+30 Mar 2021 12:12:53  INFO logger - --------------------------------------
+30 Mar 2021 12:12:53  INFO logger - session with saucelab started: https://lnx_demo_user1:6321cf5d-8537-41c7-a1e5-1a1c9b3970bd@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 12:13:42  INFO logger - iOS driver created
+30 Mar 2021 12:13:42  INFO logger - Running login test
+30 Mar 2021 12:14:05  INFO logger - Login Successful
+30 Mar 2021 12:14:12  INFO logger - Verified the login
+30 Mar 2021 12:14:12  INFO logger - user clearing the cart
+30 Mar 2021 12:14:13  INFO logger - user clicking on existing cart on dashboard
+30 Mar 2021 12:14:14  INFO logger - user will check if cart is empty or not
+30 Mar 2021 12:14:15  INFO logger - element not located in the page
+30 Mar 2021 12:14:15  INFO logger - active cart is already empty
+30 Mar 2021 12:14:15  INFO logger - user will select product now
+30 Mar 2021 12:14:15  INFO logger - user search for the product from menu and add to the cart
+30 Mar 2021 12:14:20  INFO logger - product list is listed in menu
+30 Mar 2021 12:14:22  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+30 Mar 2021 12:14:24  INFO logger - clicked on commercial
+30 Mar 2021 12:14:24  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+30 Mar 2021 12:14:31  INFO logger - verify total products listed
+30 Mar 2021 12:14:40  INFO logger - user enter postal code and radius
+30 Mar 2021 12:14:58  INFO logger - Shutting down driver
+30 Mar 2021 12:18:52  INFO logger - --------------------------------------
+30 Mar 2021 12:18:52  INFO logger - session with saucelab started: https://lnx_demo_user1:6321cf5d-8537-41c7-a1e5-1a1c9b3970bd@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 12:20:06  INFO logger - iOS driver created
+30 Mar 2021 12:20:06  INFO logger - Running login test
+30 Mar 2021 12:20:30  INFO logger - Login Successful
+30 Mar 2021 12:20:51  INFO logger - Verified the login
+30 Mar 2021 12:20:51  INFO logger - user clearing the cart
+30 Mar 2021 12:20:53  INFO logger - user clicking on existing cart on dashboard
+30 Mar 2021 12:20:54  INFO logger - user will check if cart is empty or not
+30 Mar 2021 12:20:56  INFO logger - element not located in the page
+30 Mar 2021 12:20:56  INFO logger - active cart is already empty
+30 Mar 2021 12:20:56  INFO logger - user will select product now
+30 Mar 2021 12:20:56  INFO logger - user search for the product from menu and add to the cart
+30 Mar 2021 12:21:01  INFO logger - product list is listed in menu
+30 Mar 2021 12:21:04  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+30 Mar 2021 12:21:07  INFO logger - clicked on commercial
+30 Mar 2021 12:21:07  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+30 Mar 2021 12:21:15  INFO logger - verify total products listed
+30 Mar 2021 12:21:30  INFO logger - user enter postal code and radius
+30 Mar 2021 12:22:16  INFO logger - Shutting down driver
+30 Mar 2021 12:22:50  INFO logger - --------------------------------------
+30 Mar 2021 12:22:50  INFO logger - session with saucelab started: https://lnx_demo_user1:6321cf5d-8537-41c7-a1e5-1a1c9b3970bd@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 12:23:44  INFO logger - iOS driver created
+30 Mar 2021 12:23:44  INFO logger - Running login test
+30 Mar 2021 12:24:11  INFO logger - Login Successful
+30 Mar 2021 12:24:31  INFO logger - Verified the login
+30 Mar 2021 12:24:31  INFO logger - user clearing the cart
+30 Mar 2021 12:24:33  INFO logger - user clicking on existing cart on dashboard
+30 Mar 2021 12:24:34  INFO logger - user will check if cart is empty or not
+30 Mar 2021 12:24:35  INFO logger - element not located in the page
+30 Mar 2021 12:24:35  INFO logger - active cart is already empty
+30 Mar 2021 12:24:35  INFO logger - user will select product now
+30 Mar 2021 12:24:35  INFO logger - user search for the product from menu and add to the cart
+30 Mar 2021 12:24:40  INFO logger - product list is listed in menu
+30 Mar 2021 12:24:43  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+30 Mar 2021 12:24:45  INFO logger - clicked on commercial
+30 Mar 2021 12:24:45  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+30 Mar 2021 12:24:51  INFO logger - verify total products listed
+30 Mar 2021 12:25:15  INFO logger - user enter postal code and radius
+30 Mar 2021 12:26:01  INFO logger - Shutting down driver
+30 Mar 2021 12:27:01  INFO logger - --------------------------------------
+30 Mar 2021 12:27:01  INFO logger - session with saucelab started: https://lnx_demo_user1:6321cf5d-8537-41c7-a1e5-1a1c9b3970bd@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 12:28:30  INFO logger - iOS driver created
+30 Mar 2021 12:28:30  INFO logger - Running login test
+30 Mar 2021 12:28:55  INFO logger - Login Successful
+30 Mar 2021 12:29:04  INFO logger - Verified the login
+30 Mar 2021 12:29:04  INFO logger - user clearing the cart
+30 Mar 2021 12:29:05  INFO logger - user clicking on existing cart on dashboard
+30 Mar 2021 12:29:06  INFO logger - user will check if cart is empty or not
+30 Mar 2021 12:29:08  INFO logger - element not located in the page
+30 Mar 2021 12:29:08  INFO logger - active cart is already empty
+30 Mar 2021 12:29:08  INFO logger - user will select product now
+30 Mar 2021 12:29:08  INFO logger - user search for the product from menu and add to the cart
+30 Mar 2021 12:29:12  INFO logger - product list is listed in menu
+30 Mar 2021 12:29:14  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+30 Mar 2021 12:29:16  INFO logger - clicked on commercial
+30 Mar 2021 12:29:16  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+30 Mar 2021 12:29:26  INFO logger - verify total products listed
+30 Mar 2021 12:29:36  INFO logger - user enter postal code and radius
+30 Mar 2021 12:30:21  INFO logger - Shutting down driver
+30 Mar 2021 12:36:28  INFO logger - --------------------------------------
+30 Mar 2021 12:36:28  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 12:37:21  INFO logger - iOS driver created
+30 Mar 2021 12:37:22  INFO logger - Running login test
+30 Mar 2021 12:37:44  INFO logger - Login Successful
+30 Mar 2021 12:37:57  INFO logger - Verified the login
+30 Mar 2021 12:37:57  INFO logger - user clearing the cart
+30 Mar 2021 12:38:00  INFO logger - user clicking on existing cart on dashboard
+30 Mar 2021 12:38:00  INFO logger - user will check if cart is empty or not
+30 Mar 2021 12:38:03  INFO logger - element not located in the page
+30 Mar 2021 12:38:03  INFO logger - active cart is already empty
+30 Mar 2021 12:38:03  INFO logger - user will select product now
+30 Mar 2021 12:38:03  INFO logger - user search for the product from menu and add to the cart
+30 Mar 2021 12:38:05  INFO logger - product list is listed in menu
+30 Mar 2021 12:38:07  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+30 Mar 2021 12:38:09  INFO logger - clicked on commercial
+30 Mar 2021 12:38:09  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+30 Mar 2021 12:38:13  INFO logger - verify total products listed
+30 Mar 2021 12:38:26  INFO logger - user enter postal code and radius
+30 Mar 2021 12:38:42  INFO logger - scroll and check if View more is displayed
+30 Mar 2021 12:38:49  INFO logger - verify whether address is selected or unselected
+30 Mar 2021 12:39:07  INFO logger - verified store name
+30 Mar 2021 12:39:17  INFO logger - Add product to cart
+30 Mar 2021 12:39:24  INFO logger -  Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L
+30 Mar 2021 12:39:24  INFO logger - add the product to checkout
+30 Mar 2021 12:40:01  INFO logger - product adding to cart
+30 Mar 2021 12:40:02  INFO logger - productName verified again
+30 Mar 2021 12:40:23  INFO logger - productName verified
+30 Mar 2021 12:40:25  INFO logger - user proceed to checkout
+30 Mar 2021 12:40:31  INFO logger - product added to the cart
+30 Mar 2021 12:40:31  INFO logger - user landed on checkout page
+30 Mar 2021 12:40:31  INFO logger - user will review the product and do the payment
+30 Mar 2021 12:40:34  INFO logger - user enter Po number and proceed to checkout
+30 Mar 2021 12:40:38  INFO logger - review order and view order status
+30 Mar 2021 12:41:00  INFO logger - user successfully ordered the product
+30 Mar 2021 12:41:00  INFO logger - Shutting down driver
+30 Mar 2021 13:08:04  INFO logger - --------------------------------------
+30 Mar 2021 13:08:04  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 13:09:03  INFO logger - iOS driver created
+30 Mar 2021 13:13:59  INFO logger - --------------------------------------
+30 Mar 2021 13:13:59  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 13:14:57  INFO logger - iOS driver created
+30 Mar 2021 13:17:46  INFO logger - --------------------------------------
+30 Mar 2021 13:17:46  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 13:18:40  INFO logger - iOS driver created
+30 Mar 2021 13:20:51  INFO logger - --------------------------------------
+30 Mar 2021 13:20:51  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 13:21:50  INFO logger - iOS driver created
+30 Mar 2021 13:21:50  INFO logger - Running login test
+30 Mar 2021 13:22:13  INFO logger - Login Successful
+30 Mar 2021 13:22:30  INFO logger - Verified the login
+30 Mar 2021 13:22:30  INFO logger - user clearing the cart
+30 Mar 2021 13:22:31  INFO logger - user clicking on existing cart on dashboard
+30 Mar 2021 13:22:33  INFO logger - user will check if cart is empty or not
+30 Mar 2021 13:22:36  INFO logger - element not located in the page
+30 Mar 2021 13:22:36  INFO logger - active cart is already empty
+30 Mar 2021 13:22:36  INFO logger - user will select product now
+30 Mar 2021 13:22:36  INFO logger - user search for the product from menu and add to the cart
+30 Mar 2021 13:22:38  INFO logger - product list is listed in menu
+30 Mar 2021 13:22:40  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+30 Mar 2021 13:22:42  INFO logger - clicked on commercial
+30 Mar 2021 13:22:42  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+30 Mar 2021 13:22:46  INFO logger - verify total products listed
+30 Mar 2021 13:23:00  INFO logger - user enter postal code and radius
+30 Mar 2021 13:23:12  INFO logger - scroll and check if View more is displayed
+30 Mar 2021 13:23:19  INFO logger - verify whether address is selected or unselected
+30 Mar 2021 13:23:30  INFO logger - verified store name
+30 Mar 2021 13:23:39  INFO logger - Add product to cart
+30 Mar 2021 13:23:51  INFO logger -  Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L
+30 Mar 2021 13:23:51  INFO logger - add the product to checkout
+30 Mar 2021 13:24:42  INFO logger - product adding to cart
+30 Mar 2021 13:25:01  INFO logger - productName verified again
+30 Mar 2021 13:25:34  INFO logger - productName verified
+30 Mar 2021 13:25:36  INFO logger - user proceed to checkout
+30 Mar 2021 13:25:42  INFO logger - product added to the cart
+30 Mar 2021 13:25:42  INFO logger - user landed on checkout page
+30 Mar 2021 13:25:42  INFO logger - user will review the product and do the payment
+30 Mar 2021 13:25:45  INFO logger - user enter Po number and proceed to checkout
+30 Mar 2021 13:25:49  INFO logger - review order and view order status
+30 Mar 2021 13:26:07  INFO logger - user successfully ordered the product
+30 Mar 2021 13:26:07  INFO logger - Shutting down driver
+30 Mar 2021 13:35:55  INFO logger - --------------------------------------
+30 Mar 2021 13:35:55  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 13:36:48  INFO logger - iOS driver created
+30 Mar 2021 13:36:49  INFO logger - Running login test
+30 Mar 2021 13:37:13  INFO logger - Login Successful
+30 Mar 2021 13:37:26  INFO logger - Verified the login
+30 Mar 2021 13:37:26  INFO logger - user clearing the cart
+30 Mar 2021 13:37:27  INFO logger - user clicking on existing cart on dashboard
+30 Mar 2021 13:37:29  INFO logger - user will check if cart is empty or not
+30 Mar 2021 13:37:30  INFO logger - element not located in the page
+30 Mar 2021 13:37:30  INFO logger - active cart is already empty
+30 Mar 2021 13:37:30  INFO logger - user will select product now
+30 Mar 2021 13:37:30  INFO logger - user search for the product from menu and add to the cart
+30 Mar 2021 13:37:34  INFO logger - product list is listed in menu
+30 Mar 2021 13:37:36  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+30 Mar 2021 13:37:38  INFO logger - clicked on commercial
+30 Mar 2021 13:37:38  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+30 Mar 2021 13:37:44  INFO logger - verify total products listed
+30 Mar 2021 13:37:57  INFO logger - user enter postal code and radius
+30 Mar 2021 13:38:47  INFO logger - Shutting down driver
+30 Mar 2021 13:41:07  INFO logger - --------------------------------------
+30 Mar 2021 13:41:07  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 13:42:06  INFO logger - iOS driver created
+30 Mar 2021 13:42:06  INFO logger - Running login test
+30 Mar 2021 13:42:51  INFO logger - --------------------------------------
+30 Mar 2021 13:42:51  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 13:44:35  INFO logger - iOS driver created
+30 Mar 2021 13:44:38  INFO logger - Running login test
+30 Mar 2021 13:45:02  INFO logger - Login Successful
+30 Mar 2021 13:45:12  INFO logger - Verified the login
+30 Mar 2021 13:45:12  INFO logger - user clearing the cart
+30 Mar 2021 13:45:13  INFO logger - user clicking on existing cart on dashboard
+30 Mar 2021 13:45:14  INFO logger - user will check if cart is empty or not
+30 Mar 2021 13:45:17  INFO logger - element not located in the page
+30 Mar 2021 13:45:17  INFO logger - active cart is already empty
+30 Mar 2021 13:45:17  INFO logger - user will select product now
+30 Mar 2021 13:45:17  INFO logger - user search for the product from menu and add to the cart
+30 Mar 2021 13:45:19  INFO logger - product list is listed in menu
+30 Mar 2021 13:45:21  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+30 Mar 2021 13:45:23  INFO logger - clicked on commercial
+30 Mar 2021 13:45:23  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+30 Mar 2021 13:45:30  INFO logger - verify total products listed
+30 Mar 2021 13:45:43  INFO logger - user enter postal code and radius
+30 Mar 2021 13:45:55  INFO logger - scroll and check if View more is displayed
+30 Mar 2021 13:46:03  INFO logger - verify whether address is selected or unselected
+30 Mar 2021 13:46:13  INFO logger - verified store name
+30 Mar 2021 13:46:22  INFO logger - Add product to cart
+30 Mar 2021 13:46:32  INFO logger -  Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L
+30 Mar 2021 13:46:32  INFO logger - add the product to checkout
+30 Mar 2021 13:46:57  INFO logger - product adding to cart
+30 Mar 2021 13:46:59  INFO logger - productName verified again
+30 Mar 2021 13:47:06  INFO logger - productName verified
+30 Mar 2021 13:47:08  INFO logger - user proceed to checkout
+30 Mar 2021 13:47:14  INFO logger - product added to the cart
+30 Mar 2021 13:47:14  INFO logger - user landed on checkout page
+30 Mar 2021 13:47:14  INFO logger - user will review the product and do the payment
+30 Mar 2021 13:47:17  INFO logger - user enter Po number and proceed to checkout
+30 Mar 2021 13:47:21  INFO logger - review order and view order status
+30 Mar 2021 13:47:38  INFO logger - user successfully ordered the product
+30 Mar 2021 13:47:38  INFO logger - Shutting down driver
+30 Mar 2021 13:50:30  INFO logger - --------------------------------------
+30 Mar 2021 13:50:30  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 13:51:09  INFO logger - Android driver created
+30 Mar 2021 13:51:11  INFO logger - Running login test
+30 Mar 2021 13:51:34  INFO logger - Login Successful
+30 Mar 2021 13:51:44  INFO logger - Shutting down driver
+30 Mar 2021 14:12:42  INFO logger - --------------------------------------
+30 Mar 2021 14:12:42  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 14:13:36  INFO logger - Android driver created
+30 Mar 2021 14:13:36  INFO logger - Running login test
+30 Mar 2021 14:13:58  INFO logger - Login Successful
+30 Mar 2021 14:14:18  INFO logger - Shutting down driver
+30 Mar 2021 14:41:12  INFO logger - --------------------------------------
+30 Mar 2021 14:41:12  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 14:41:44  INFO logger - --------------------------------------
+30 Mar 2021 14:41:44  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 14:42:44  INFO logger - Android driver created
+30 Mar 2021 14:42:45  INFO logger - Running login test
+30 Mar 2021 14:43:10  INFO logger - Login Successful
+30 Mar 2021 14:43:28  INFO logger - Shutting down driver
+30 Mar 2021 15:14:34  INFO logger - --------------------------------------
+30 Mar 2021 15:14:34  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 15:15:09  INFO logger - Android driver created
+30 Mar 2021 15:15:09  INFO logger - Running login test
+30 Mar 2021 15:15:33  INFO logger - Login Successful
+30 Mar 2021 15:15:43  INFO logger - Shutting down driver
+30 Mar 2021 15:28:18  INFO logger - --------------------------------------
+30 Mar 2021 15:28:18  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 15:29:17  INFO logger - Android driver created
+30 Mar 2021 15:29:17  INFO logger - Running login test
+30 Mar 2021 15:29:43  INFO logger - Login Successful
+30 Mar 2021 15:29:58  INFO logger - Shutting down driver
+30 Mar 2021 15:31:02  INFO logger - --------------------------------------
+30 Mar 2021 15:31:02  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 15:31:41  INFO logger - Android driver created
+30 Mar 2021 15:31:41  INFO logger - Running login test
+30 Mar 2021 15:32:06  INFO logger - Login Successful
+30 Mar 2021 15:32:23  INFO logger - Shutting down driver
+30 Mar 2021 15:44:24  INFO logger - --------------------------------------
+30 Mar 2021 15:44:24  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 15:45:14  INFO logger - Android driver created
+30 Mar 2021 15:45:15  INFO logger - Running login test
+30 Mar 2021 15:45:40  INFO logger - Login Successful
+30 Mar 2021 15:45:52  INFO logger - Shutting down driver
+30 Mar 2021 15:46:22  INFO logger - --------------------------------------
+30 Mar 2021 15:46:22  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 15:46:56  INFO logger - Android driver created
+30 Mar 2021 15:46:56  INFO logger - Running login test
+30 Mar 2021 15:47:20  INFO logger - Login Successful
+30 Mar 2021 15:47:32  INFO logger - Shutting down driver
+30 Mar 2021 15:53:09  INFO logger - --------------------------------------
+30 Mar 2021 15:53:10  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 15:53:59  INFO logger - Android driver created
+30 Mar 2021 15:53:59  INFO logger - Running login test
+30 Mar 2021 15:54:24  INFO logger - Login Successful
+30 Mar 2021 15:54:36  INFO logger - Verified the login
+30 Mar 2021 15:54:36  INFO logger - user clearing the cart
+30 Mar 2021 15:54:37  INFO logger - user clicking on existing cart on dashboard
+30 Mar 2021 15:54:38  INFO logger - user will check if cart is empty or not
+30 Mar 2021 15:54:41  INFO logger - element not located in the page
+30 Mar 2021 15:54:41  INFO logger - active cart is already empty
+30 Mar 2021 15:54:41  INFO logger - user will select product now
+30 Mar 2021 15:54:41  INFO logger - user search for the product from menu and add to the cart
+30 Mar 2021 15:54:43  INFO logger - product list is listed in menu
+30 Mar 2021 15:54:45  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+30 Mar 2021 15:54:48  INFO logger - clicked on commercial
+30 Mar 2021 15:54:48  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+30 Mar 2021 15:54:55  INFO logger - verify total products listed
+30 Mar 2021 15:55:09  INFO logger - user enter postal code and radius
+30 Mar 2021 15:55:30  INFO logger - scroll and check if View more is displayed
+30 Mar 2021 15:55:49  INFO logger - verify whether address is selected or unselected
+30 Mar 2021 15:56:09  INFO logger - verified store name
+30 Mar 2021 15:56:19  INFO logger - Add product to cart
+30 Mar 2021 15:56:31  INFO logger -  Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L
+30 Mar 2021 15:56:31  INFO logger - add the product to checkout
+30 Mar 2021 15:56:51  INFO logger - product adding to cart
+30 Mar 2021 15:56:53  INFO logger - productName verified again
+30 Mar 2021 15:57:01  INFO logger - productName verified
+30 Mar 2021 15:57:03  INFO logger - user proceed to checkout
+30 Mar 2021 15:57:08  INFO logger - product added to the cart
+30 Mar 2021 15:57:08  INFO logger - user landed on checkout page
+30 Mar 2021 15:57:08  INFO logger - user will review the product and do the payment
+30 Mar 2021 15:57:11  INFO logger - user enter Po number and proceed to checkout
+30 Mar 2021 15:57:15  INFO logger - review order and view order status
+30 Mar 2021 15:57:36  INFO logger - user successfully ordered the product
+30 Mar 2021 15:57:36  INFO logger - Shutting down driver
+30 Mar 2021 16:36:14  INFO logger - --------------------------------------
+30 Mar 2021 16:36:14  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 16:37:03  INFO logger - Android driver created
+30 Mar 2021 16:37:03  INFO logger - Running login test
+30 Mar 2021 16:37:28  INFO logger - Login Successful
+30 Mar 2021 16:37:39  INFO logger - Verified the login
+30 Mar 2021 16:37:39  INFO logger - user clearing the cart
+30 Mar 2021 16:37:40  INFO logger - user clicking on existing cart on dashboard
+30 Mar 2021 16:37:43  INFO logger - user will check if cart is empty or not
+30 Mar 2021 16:37:45  INFO logger - element not located in the page
+30 Mar 2021 16:37:45  INFO logger - active cart is already empty
+30 Mar 2021 16:37:45  INFO logger - user will select product now
+30 Mar 2021 16:37:45  INFO logger - user search for the product from menu and add to the cart
+30 Mar 2021 16:37:48  INFO logger - product list is listed in menu
+30 Mar 2021 16:37:50  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+30 Mar 2021 16:37:52  INFO logger - clicked on commercial
+30 Mar 2021 16:37:52  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+30 Mar 2021 16:37:57  INFO logger - verify total products listed
+30 Mar 2021 16:38:11  INFO logger - user enter postal code and radius
+30 Mar 2021 16:38:26  INFO logger - scroll and check if View more is displayed
+30 Mar 2021 16:38:36  INFO logger - verify whether address is selected or unselected
+30 Mar 2021 16:38:51  INFO logger - verified store name
+30 Mar 2021 16:39:00  INFO logger - Add product to cart
+30 Mar 2021 16:39:12  INFO logger -  Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L
+30 Mar 2021 16:39:12  INFO logger - add the product to checkout
+30 Mar 2021 16:40:08  INFO logger - Shutting down driver
+30 Mar 2021 17:01:02  INFO logger - --------------------------------------
+30 Mar 2021 17:01:03  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 17:01:59  INFO logger - Android driver created
+30 Mar 2021 17:02:01  INFO logger - Running login test
+30 Mar 2021 17:02:26  INFO logger - Login Successful
+30 Mar 2021 17:02:43  INFO logger - Verified the login
+30 Mar 2021 17:02:43  INFO logger - user clearing the cart
+30 Mar 2021 17:02:44  INFO logger - user clicking on existing cart on dashboard
+30 Mar 2021 17:02:46  INFO logger - user will check if cart is empty or not
+30 Mar 2021 17:02:48  INFO logger - element not located in the page
+30 Mar 2021 17:02:48  INFO logger - active cart is already empty
+30 Mar 2021 17:02:48  INFO logger - user will select product now
+30 Mar 2021 17:02:48  INFO logger - user search for the product from menu and add to the cart
+30 Mar 2021 17:02:50  INFO logger - product list is listed in menu
+30 Mar 2021 17:02:53  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+30 Mar 2021 17:02:55  INFO logger - clicked on commercial
+30 Mar 2021 17:02:55  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+30 Mar 2021 17:03:02  INFO logger - verify total products listed
+30 Mar 2021 17:03:14  INFO logger - user enter postal code and radius
+30 Mar 2021 17:03:27  INFO logger - scroll and check if View more is displayed
+30 Mar 2021 17:03:42  INFO logger - verify whether address is selected or unselected
+30 Mar 2021 17:04:05  INFO logger - verified store name
+30 Mar 2021 17:04:21  INFO logger - Add product to cart
+30 Mar 2021 17:04:32  INFO logger -  Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L
+30 Mar 2021 17:04:32  INFO logger - add the product to checkout
+30 Mar 2021 17:05:35  INFO logger - Shutting down driver
+30 Mar 2021 18:12:38  INFO logger - --------------------------------------
+30 Mar 2021 18:12:38  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 18:13:33  INFO logger - Android driver created
+30 Mar 2021 18:13:33  INFO logger - Running login test
+30 Mar 2021 18:13:59  INFO logger - Login Successful
+30 Mar 2021 18:14:12  INFO logger - Verified the login
+30 Mar 2021 18:14:12  INFO logger - user clearing the cart
+30 Mar 2021 18:14:13  INFO logger - user clicking on existing cart on dashboard
+30 Mar 2021 18:14:17  INFO logger - user will check if cart is empty or not
+30 Mar 2021 18:14:19  INFO logger - element not located in the page
+30 Mar 2021 18:14:19  INFO logger - active cart is already empty
+30 Mar 2021 18:14:19  INFO logger - user will select product now
+30 Mar 2021 18:14:19  INFO logger - user search for the product from menu and add to the cart
+30 Mar 2021 18:14:21  INFO logger - product list is listed in menu
+30 Mar 2021 18:14:24  INFO logger - user find and select the product PRODUCTS in dashboard catalog
+30 Mar 2021 18:14:27  INFO logger - clicked on commercial
+30 Mar 2021 18:14:27  INFO logger - user scroll to view Mini-Split Single Zone Heat Pumps
+30 Mar 2021 18:14:34  INFO logger - verify total products listed
+30 Mar 2021 18:14:47  INFO logger - user enter postal code and radius
+30 Mar 2021 18:15:37  INFO logger - Shutting down driver
+30 Mar 2021 18:17:53  INFO logger - --------------------------------------
+30 Mar 2021 18:17:53  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 18:18:27  INFO logger - Android driver created
+30 Mar 2021 18:18:27  INFO logger - Running login test
+30 Mar 2021 18:18:51  INFO logger - Login Successful
+30 Mar 2021 18:19:12  INFO logger - Verified the login
+30 Mar 2021 18:19:12  INFO logger - Shutting down driver
+30 Mar 2021 18:20:22  INFO logger - --------------------------------------
+30 Mar 2021 18:20:22  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 18:21:16  INFO logger - Android driver created
+30 Mar 2021 18:49:24  INFO logger - --------------------------------------
+30 Mar 2021 18:49:24  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 18:50:03  INFO logger - Android driver created
+30 Mar 2021 18:50:04  INFO logger - Running login test
+30 Mar 2021 18:50:26  INFO logger - Login Successful
+30 Mar 2021 18:50:54  INFO logger - Verified the login
+30 Mar 2021 18:50:54  INFO logger - Shutting down driver
+30 Mar 2021 18:54:49  INFO logger - --------------------------------------
+30 Mar 2021 18:54:49  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+30 Mar 2021 18:55:44  INFO logger - Android driver created
+30 Mar 2021 18:55:44  INFO logger - Running login test
+30 Mar 2021 18:56:09  INFO logger - Login Successful
+30 Mar 2021 18:56:33  INFO logger - Verified the login
+30 Mar 2021 18:56:33  INFO logger - Shutting down driver
