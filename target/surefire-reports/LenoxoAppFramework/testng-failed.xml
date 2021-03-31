@@ -10,4 +10,16 @@
       <class name="tests.testngTests.LennoxTest"/>
     </classes>
   </test> <!-- lenoxo-App-Test -->
+  <test name="lenoxo-App-Test(failed)">
+    <classes>
+      <class name="tests.testngTests.LennoxTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="UserCheckOutMiniHeaterProduct" invocation-numbers="0"/>
+          <include name="instantiateHelpers"/>
+          <include name="createDriver"/>
+        </methods>
+      </class> <!-- tests.testngTests.LennoxTest -->
+    </classes>
+  </test> <!-- lenoxo-App-Test(failed) -->
 </suite> <!-- Failed suite [LenoxoAppFramework] -->

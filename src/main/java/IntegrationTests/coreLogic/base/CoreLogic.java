@@ -6,16 +6,19 @@ package IntegrationTests.coreLogic.base;
  */
 public abstract class CoreLogic {
 
-    public abstract void verifyLoginFlow(String userName, String password, String logo, String txtUsername, String repair)
+    public abstract void verifyLoginFlow(String userName, String password, String logo)
             throws InterruptedException;
 
     public abstract void clearCheckoutCart()
             throws InterruptedException;
 
-    public abstract void selectProductFromProductList(String postalCode, String product, String results, String miles, String heaterProduct, String storeName)
+    public abstract void selectProductFromMenu(String results, String heaterProduct)
             throws InterruptedException;
 
-    public abstract void addProductToCart(String qty)
+    public abstract void userChangeTheStorePickup(String postalCode, String defaultDeliverTo, String defaultPickup, String miles, String storeName)
+            throws InterruptedException;
+
+    public abstract void addProductToCart(String qty, String productName, String CatNo, String modelNo, String price)
             throws InterruptedException;
 
     public abstract void checkOutProduct(String poNumber)
