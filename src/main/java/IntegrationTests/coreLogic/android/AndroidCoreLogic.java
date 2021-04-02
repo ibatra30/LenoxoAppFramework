@@ -17,12 +17,12 @@ import static utils.InitMethod.qtyNo;
  * contains all methods to login on android app
  */
 public class AndroidCoreLogic extends CoreLogic {
-    LoginScreen loginScreenAosLocators;
+    LoginScreen loginScreen;
     CheckOutScreen checkOutScreen;
     DashBoardScreen dashBoardScreen;
 
     public AndroidCoreLogic(WebDriver driver) {
-        loginScreenAosLocators = new LoginScreen(driver);
+        loginScreen = new LoginScreen(driver);
         checkOutScreen = new CheckOutScreen(driver);
         dashBoardScreen = new DashBoardScreen(driver);
     }
@@ -31,14 +31,14 @@ public class AndroidCoreLogic extends CoreLogic {
     @Override
     public void verifyLoginFlow(String userName, String password, String logo) throws InterruptedException {
         Log.info("check if any alert present");
-        loginScreenAosLocators.alertHandle();
-        loginScreenAosLocators.checkIfLogoIsVisible(logo);
+        loginScreen.alertHandle();
+        loginScreen.checkIfLogoIsVisible(logo);
         Log.info("user click on Sign In link");
-        loginScreenAosLocators.clickSignIn();
-        loginScreenAosLocators.checkUserNameLabelDisplayed();
-        loginScreenAosLocators.enterUsername(userName);
-        loginScreenAosLocators.enterPassword(password);
-        loginScreenAosLocators.submitSignIn();
+        loginScreen.clickSignIn();
+        loginScreen.checkUserNameLabelDisplayed();
+        loginScreen.enterUsername(userName);
+        loginScreen.enterPassword(password);
+        loginScreen.submitSignIn();
         Log.info("Login Successful");
     }
 
@@ -60,8 +60,8 @@ public class AndroidCoreLogic extends CoreLogic {
         dashBoardScreen.selectCommercialFromMenu();
         Log.info("user scroll and select " + heaterProduct + " from the commercial list");
         dashBoardScreen.scrollAndSelectProduct(heaterProduct);
-        Log.info("user is shown " + results);
         dashBoardScreen.verifyProductsListed(results);
+        Log.info("user is shown " + results);
     }
 
     @Override

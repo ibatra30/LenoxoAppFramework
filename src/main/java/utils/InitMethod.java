@@ -25,7 +25,9 @@ public class InitMethod {
     static JSONObject testData;
 
     public static String SUITE_NAME = null;
+    public static final String LOG_FOLDER = "./src/main/java/log4j.properties";
     public static final String OUTPUT_FOLDER = "./src/test/resources/Reports/";
+    public static final String SCREENSHOT_FOLDER = "./src/test/resources/Screenshots/";
     public static final String FILE_NAME = "Extent Report.html";
     public static final String REPORT_CONFIG_FILE = "./src/main/java/utils/extent-config.xml";
     public static final String TEST_OUTPUT_PATH = "test-output/";
@@ -34,8 +36,6 @@ public class InitMethod {
     public ExtentTest test;
 
     public static String logo = localeConfigProp.getProperty("logo");
-    public static String txtUsername = localeConfigProp.getProperty("txtUsername");
-    public static String repair = localeConfigProp.getProperty("repair");
     public static String postalCode = localeConfigProp.getProperty("postalCode");
     public static String totalresults = localeConfigProp.getProperty("totalresults");
     public static String miles = localeConfigProp.getProperty("miles");

@@ -53,6 +53,9 @@ public class CheckOutScreen extends GenericMethods {
     @FindBy(xpath = "//android.view.View[@content-desc=\"(0)\"]")
     List<WebElement> empty_Cart;
 
+    @FindBy(xpath = "//android.widget.TextView[2]")
+    List<WebElement> cart_value;
+
     @FindBy(xpath = "//android.view.View[1]/android.view.View[2]/android.view.View[4]")
     WebElement cart_xpath;
 
@@ -81,8 +84,14 @@ public class CheckOutScreen extends GenericMethods {
     }
 
     public boolean VerifyCartIsEmpty() {
-        element = findElements(empty_Cart).get(0);
-        return element.isDisplayed();
+        text = findElements(cart_value).get(1).getText();
+       if(text.equalsIgnoreCase("0")){
+           return true;
+       }
+       else{
+           Log.info("cart is not empty");
+           return false;
+       }
     }
 
     public void enterPoNumber(String poNumber) {

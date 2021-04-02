@@ -3323,3 +3323,1333 @@
 31 Mar 2021 22:24:56  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
 31 Mar 2021 22:25:00  INFO logger - user clicked to modify store pickup
 31 Mar 2021 22:26:48  INFO logger - Shutting down driver
+31 Mar 2021 22:29:41  INFO logger - --------------------------------------
+31 Mar 2021 22:29:41  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+31 Mar 2021 22:30:36  INFO logger - Android driver created
+31 Mar 2021 22:30:36  INFO logger - Running login test
+31 Mar 2021 22:30:36  INFO logger - check if any alert present
+31 Mar 2021 22:30:39  INFO logger - Shutting down driver
+31 Mar 2021 22:33:58  INFO logger - --------------------------------------
+31 Mar 2021 22:33:58  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+31 Mar 2021 22:34:48  INFO logger - Android driver created
+31 Mar 2021 22:34:48  INFO logger - Running login test
+31 Mar 2021 22:34:48  INFO logger - check if any alert present
+31 Mar 2021 22:34:54  INFO logger - Logo is displayed
+31 Mar 2021 22:34:54  INFO logger - user click on Sign In link
+31 Mar 2021 22:35:09  INFO logger - Login Successful
+31 Mar 2021 22:35:12  INFO logger - user clear the cart first
+31 Mar 2021 22:35:26  INFO logger - Cart Logo is displayed
+31 Mar 2021 22:35:27  INFO logger - cart is already empty
+31 Mar 2021 22:35:27  INFO logger - cart is empty now
+31 Mar 2021 22:35:27  INFO logger - user click on Menu Icon
+31 Mar 2021 22:35:37  INFO logger - user select commercial option from Menu
+31 Mar 2021 22:35:42  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+31 Mar 2021 22:35:50  INFO logger - user is shown 14 results
+31 Mar 2021 22:36:05  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+31 Mar 2021 22:36:10  INFO logger - user clicked to modify store pickup
+31 Mar 2021 22:36:17  INFO logger - user select 120 miles
+31 Mar 2021 22:36:20  INFO logger - click On Go button and unselect default store
+31 Mar 2021 22:36:23  INFO logger - user scroll and check if View More is avaialble
+31 Mar 2021 22:36:30  INFO logger - user scroll and search for Grand Prairie, and select the store if not select
+31 Mar 2021 22:36:32  INFO logger - user click on Done Button
+31 Mar 2021 22:37:02  INFO logger - user is on product list page
+31 Mar 2021 22:37:02  INFO logger - storing product details to verify on next screen
+31 Mar 2021 22:37:05  INFO logger - user increased the  product qty
+31 Mar 2021 22:37:37  INFO logger - user is shown item added to dashboard
+31 Mar 2021 22:37:37  INFO logger - user verify product details
+31 Mar 2021 22:37:38  INFO logger - Shutting down driver
+31 Mar 2021 22:39:24  INFO logger - --------------------------------------
+31 Mar 2021 22:39:24  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+31 Mar 2021 22:40:08  INFO logger - Android driver created
+31 Mar 2021 22:40:08  INFO logger - Running login test
+31 Mar 2021 22:40:08  INFO logger - check if any alert present
+31 Mar 2021 22:40:15  INFO logger - Logo is displayed
+31 Mar 2021 22:40:15  INFO logger - user click on Sign In link
+31 Mar 2021 22:40:31  INFO logger - Login Successful
+31 Mar 2021 22:40:34  INFO logger - user clear the cart first
+31 Mar 2021 22:40:43  INFO logger - Cart Logo is displayed
+31 Mar 2021 22:40:48  INFO logger - cart is already empty
+31 Mar 2021 22:40:48  INFO logger - cart is empty now
+31 Mar 2021 22:40:59  INFO logger - user click on Menu Icon
+31 Mar 2021 22:41:12  INFO logger - user select commercial option from Menu
+31 Mar 2021 22:41:17  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+31 Mar 2021 22:41:37  INFO logger - user is shown 14 results
+31 Mar 2021 22:41:53  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+31 Mar 2021 22:41:57  INFO logger - user clicked to modify store pickup
+31 Mar 2021 22:43:46  INFO logger - Shutting down driver
+31 Mar 2021 22:45:04  INFO logger - --------------------------------------
+31 Mar 2021 22:45:04  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+31 Mar 2021 22:45:43  INFO logger - Android driver created
+31 Mar 2021 22:45:43  INFO logger - Running login test
+31 Mar 2021 22:45:43  INFO logger - check if any alert present
+31 Mar 2021 22:45:51  INFO logger - Logo is displayed
+31 Mar 2021 22:45:51  INFO logger - user click on Sign In link
+31 Mar 2021 22:46:08  INFO logger - Login Successful
+31 Mar 2021 22:46:11  INFO logger - user clear the cart first
+31 Mar 2021 22:46:21  INFO logger - Cart Logo is displayed
+31 Mar 2021 22:46:27  INFO logger - cart is already empty
+31 Mar 2021 22:46:27  INFO logger - cart is empty now
+31 Mar 2021 22:46:35  INFO logger - user click on Menu Icon
+31 Mar 2021 22:46:51  INFO logger - user select commercial option from Menu
+31 Mar 2021 22:47:05  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+31 Mar 2021 22:47:24  INFO logger - user is shown 14 results
+31 Mar 2021 22:47:42  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+31 Mar 2021 22:47:46  INFO logger - user clicked to modify store pickup
+31 Mar 2021 22:51:16  INFO logger - Shutting down driver
+31 Mar 2021 22:54:49  INFO logger - --------------------------------------
+31 Mar 2021 22:54:49  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+31 Mar 2021 22:55:53  INFO logger - Android driver created
+31 Mar 2021 22:55:53  INFO logger - Running login test
+31 Mar 2021 22:55:53  INFO logger - check if any alert present
+31 Mar 2021 22:56:02  INFO logger - Logo is displayed
+31 Mar 2021 22:56:02  INFO logger - user click on Sign In link
+31 Mar 2021 22:56:17  INFO logger - Login Successful
+31 Mar 2021 22:56:20  INFO logger - user clear the cart first
+31 Mar 2021 22:56:29  INFO logger - Cart Logo is displayed
+31 Mar 2021 22:56:30  INFO logger - cart is already empty
+31 Mar 2021 22:56:30  INFO logger - cart is empty now
+31 Mar 2021 22:56:38  INFO logger - user click on Menu Icon
+31 Mar 2021 22:56:49  INFO logger - user select commercial option from Menu
+31 Mar 2021 22:56:58  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+31 Mar 2021 22:57:10  INFO logger - user is shown 14 results
+31 Mar 2021 22:57:28  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+31 Mar 2021 22:57:33  INFO logger - user clicked to modify store pickup
+31 Mar 2021 23:01:02  INFO logger - Shutting down driver
+01 Apr 2021 09:56:15  INFO logger - --------------------------------------
+01 Apr 2021 09:57:11  INFO logger - --------------------------------------
+01 Apr 2021 09:57:26  INFO logger - Android driver created
+01 Apr 2021 09:57:26  INFO logger - Running login test
+01 Apr 2021 09:57:26  INFO logger - check if any alert present
+01 Apr 2021 09:57:26  INFO logger - Shutting down driver
+01 Apr 2021 09:59:13  INFO logger - --------------------------------------
+01 Apr 2021 09:59:40  INFO logger - --------------------------------------
+01 Apr 2021 09:59:52  INFO logger - Android driver created
+01 Apr 2021 09:59:52  INFO logger - Running login test
+01 Apr 2021 09:59:52  INFO logger - check if any alert present
+01 Apr 2021 09:59:59  INFO logger - Logo is displayed
+01 Apr 2021 09:59:59  INFO logger - user click on Sign In link
+01 Apr 2021 10:00:11  INFO logger - Login Successful
+01 Apr 2021 10:00:11  INFO logger - user clear the cart first
+01 Apr 2021 10:00:22  INFO logger - Cart Logo is displayed
+01 Apr 2021 10:00:23  INFO logger - cart is already empty
+01 Apr 2021 10:00:23  INFO logger - cart is empty now
+01 Apr 2021 10:00:23  INFO logger - user click on Menu Icon
+01 Apr 2021 10:00:29  INFO logger - user select commercial option from Menu
+01 Apr 2021 10:00:29  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+01 Apr 2021 10:00:36  INFO logger - user is shown 14 results
+01 Apr 2021 10:00:50  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+01 Apr 2021 10:00:52  INFO logger - Shutting down driver
+01 Apr 2021 10:03:17  INFO logger - --------------------------------------
+01 Apr 2021 10:04:02  INFO logger - --------------------------------------
+01 Apr 2021 10:04:14  INFO logger - Android driver created
+01 Apr 2021 10:04:15  INFO logger - Running login test
+01 Apr 2021 10:04:15  INFO logger - check if any alert present
+01 Apr 2021 10:04:21  INFO logger - Logo is displayed
+01 Apr 2021 10:04:21  INFO logger - user click on Sign In link
+01 Apr 2021 10:04:32  INFO logger - Login Successful
+01 Apr 2021 10:04:32  INFO logger - user clear the cart first
+01 Apr 2021 10:04:44  INFO logger - Cart Logo is displayed
+01 Apr 2021 10:04:44  INFO logger - cart is already empty
+01 Apr 2021 10:04:44  INFO logger - cart is empty now
+01 Apr 2021 10:04:45  INFO logger - user click on Menu Icon
+01 Apr 2021 10:04:51  INFO logger - user select commercial option from Menu
+01 Apr 2021 10:04:52  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+01 Apr 2021 10:04:56  INFO logger - user is shown 14 results
+01 Apr 2021 10:05:04  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+01 Apr 2021 10:05:11  INFO logger - user clicked to modify store pickup
+01 Apr 2021 10:08:50  INFO logger - --------------------------------------
+01 Apr 2021 10:08:50  INFO logger - session with saucelab started: https://lnx_demo_user1:6321cf5d-8537-41c7-a1e5-1a1c9b3970bd@ondemand.us-west-1.saucelabs.com:443/wd/hub
+01 Apr 2021 10:10:34  INFO logger - Android driver created
+01 Apr 2021 10:10:34  INFO logger - Running login test
+01 Apr 2021 10:10:34  INFO logger - check if any alert present
+01 Apr 2021 10:10:49  INFO logger - Logo is displayed
+01 Apr 2021 10:10:49  INFO logger - user click on Sign In link
+01 Apr 2021 10:11:08  INFO logger - Login Successful
+01 Apr 2021 10:11:10  INFO logger - user clear the cart first
+01 Apr 2021 10:11:18  INFO logger - Cart Logo is displayed
+01 Apr 2021 10:11:19  INFO logger - cart is already empty
+01 Apr 2021 10:11:19  INFO logger - cart is empty now
+01 Apr 2021 10:11:22  INFO logger - user click on Menu Icon
+01 Apr 2021 10:11:28  INFO logger - user select commercial option from Menu
+01 Apr 2021 10:11:33  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+01 Apr 2021 10:11:48  INFO logger - user is shown 14 results
+01 Apr 2021 10:11:50  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+01 Apr 2021 10:11:55  INFO logger - user clicked to modify store pickup
+01 Apr 2021 10:12:04  INFO logger - user select 120 miles
+01 Apr 2021 10:12:08  INFO logger - click On Go button and unselect default store
+01 Apr 2021 10:12:11  INFO logger - user scroll and check if View More is avaialble
+01 Apr 2021 10:12:20  INFO logger - user scroll and search for Grand Prairie, and select the store if not select
+01 Apr 2021 10:12:22  INFO logger - user click on Done Button
+01 Apr 2021 10:12:43  INFO logger - user is on product list page
+01 Apr 2021 10:12:43  INFO logger - storing product details to verify on next screen
+01 Apr 2021 10:12:45  INFO logger - user increased the  product qty
+01 Apr 2021 10:13:05  INFO logger - user is shown item added to dashboard
+01 Apr 2021 10:13:05  INFO logger - user verify product details
+01 Apr 2021 10:16:26  INFO logger - Shutting down driver
+01 Apr 2021 10:35:34  INFO logger - --------------------------------------
+01 Apr 2021 10:35:34  INFO logger - session with saucelab started: https://lnx_demo_user1:6321cf5d-8537-41c7-a1e5-1a1c9b3970bd@ondemand.us-west-1.saucelabs.com:443/wd/hub
+01 Apr 2021 10:53:00  INFO logger - --------------------------------------
+01 Apr 2021 10:53:00  INFO logger - session with saucelab started: https://lnx_demo_user1:6321cf5d-8537-41c7-a1e5-1a1c9b3970bd@ondemand.us-west-1.saucelabs.com:443/wd/hub
+01 Apr 2021 10:55:35  INFO logger - --------------------------------------
+01 Apr 2021 10:55:35  INFO logger - session with saucelab started: https://lnx_demo_user1:6321cf5d-8537-41c7-a1e5-1a1c9b3970bd@ondemand.us-west-1.saucelabs.com:443/wd/hub
+01 Apr 2021 10:56:31  INFO logger - --------------------------------------
+01 Apr 2021 10:56:53  INFO logger - Android driver created
+01 Apr 2021 10:56:53  INFO logger - Shutting down driver
+01 Apr 2021 10:57:15  INFO logger - --------------------------------------
+01 Apr 2021 10:57:29  INFO logger - Android driver created
+01 Apr 2021 10:57:29  INFO logger - Shutting down driver
+01 Apr 2021 11:04:23  INFO logger - --------------------------------------
+01 Apr 2021 11:05:45  INFO logger - --------------------------------------
+01 Apr 2021 11:05:57  INFO logger - Android driver created
+01 Apr 2021 11:05:57  INFO logger - Shutting down driver
+01 Apr 2021 11:07:18  INFO logger - --------------------------------------
+01 Apr 2021 11:10:41  INFO logger - --------------------------------------
+01 Apr 2021 11:10:54  INFO logger - Android driver created
+01 Apr 2021 11:10:54  INFO logger - Running login test
+01 Apr 2021 11:10:54  INFO logger - check if any alert present
+01 Apr 2021 11:11:01  INFO logger - Logo is displayed
+01 Apr 2021 11:11:01  INFO logger - user click on Sign In link
+01 Apr 2021 11:11:11  INFO logger - Login Successful
+01 Apr 2021 11:11:11  INFO logger - clearCheckoutCart() will clear the existing cart
+01 Apr 2021 11:11:11  INFO logger - user clear the cart first
+01 Apr 2021 11:11:18  INFO logger - Cart Logo is displayed
+01 Apr 2021 11:11:21  INFO logger - cart is already empty
+01 Apr 2021 11:11:21  INFO logger - cart is empty now
+01 Apr 2021 11:11:21  INFO logger - selectProductFromMenu() will select Mini split Heater from the products Menu
+01 Apr 2021 11:11:21  INFO logger - user click on Menu Icon
+01 Apr 2021 11:11:25  INFO logger - user select commercial option from Menu
+01 Apr 2021 11:11:27  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+01 Apr 2021 11:11:44  INFO logger - user is shown 14 results
+01 Apr 2021 11:11:45  INFO logger - userChangeTheStorePickup() will change the store
+01 Apr 2021 11:11:45  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+01 Apr 2021 11:11:45  INFO logger - user clicked to modify store pickup
+01 Apr 2021 11:12:51  INFO logger - Shutting down driver
+01 Apr 2021 11:22:24  INFO logger - --------------------------------------
+01 Apr 2021 11:23:59  INFO logger - --------------------------------------
+01 Apr 2021 11:24:11  INFO logger - Android driver created
+01 Apr 2021 11:24:12  INFO logger - Running login test
+01 Apr 2021 11:24:12  INFO logger - check if any alert present
+01 Apr 2021 11:24:19  INFO logger - Logo is displayed
+01 Apr 2021 11:24:19  INFO logger - user click on Sign In link
+01 Apr 2021 11:24:33  INFO logger - Login Successful
+01 Apr 2021 11:24:33  INFO logger - clearCheckoutCart() will clear the existing cart
+01 Apr 2021 11:24:33  INFO logger - user clear the cart first
+01 Apr 2021 11:24:46  INFO logger - Cart Logo is displayed
+01 Apr 2021 11:24:46  INFO logger - cart is already empty
+01 Apr 2021 11:24:46  INFO logger - cart is empty now
+01 Apr 2021 11:24:47  INFO logger - selectProductFromMenu() will select Mini split Heater from the products Menu
+01 Apr 2021 11:24:47  INFO logger - user click on Menu Icon
+01 Apr 2021 11:24:54  INFO logger - user select commercial option from Menu
+01 Apr 2021 11:24:55  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+01 Apr 2021 11:25:10  INFO logger - user is shown 14 results
+01 Apr 2021 11:25:10  INFO logger - userChangeTheStorePickup() will change the store
+01 Apr 2021 11:25:10  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+01 Apr 2021 11:25:11  INFO logger - user clicked to modify store pickup
+01 Apr 2021 11:25:15  INFO logger - Shutting down driver
+01 Apr 2021 11:27:08  INFO logger - --------------------------------------
+01 Apr 2021 11:27:42  INFO logger - --------------------------------------
+01 Apr 2021 11:27:54  INFO logger - Android driver created
+01 Apr 2021 11:27:54  INFO logger - Running login test
+01 Apr 2021 11:27:54  INFO logger - check if any alert present
+01 Apr 2021 11:28:01  INFO logger - Logo is displayed
+01 Apr 2021 11:28:01  INFO logger - user click on Sign In link
+01 Apr 2021 11:28:11  INFO logger - Login Successful
+01 Apr 2021 11:28:11  INFO logger - clearCheckoutCart() will clear the existing cart
+01 Apr 2021 11:28:11  INFO logger - user clear the cart first
+01 Apr 2021 11:28:29  INFO logger - Cart Logo is displayed
+01 Apr 2021 11:28:29  INFO logger - cart is already empty
+01 Apr 2021 11:28:29  INFO logger - cart is empty now
+01 Apr 2021 11:28:30  INFO logger - selectProductFromMenu() will select Mini split Heater from the products Menu
+01 Apr 2021 11:28:30  INFO logger - user click on Menu Icon
+01 Apr 2021 11:28:37  INFO logger - user select commercial option from Menu
+01 Apr 2021 11:28:41  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+01 Apr 2021 11:29:01  INFO logger - user is shown 14 results
+01 Apr 2021 11:29:01  INFO logger - userChangeTheStorePickup() will change the store
+01 Apr 2021 11:29:01  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+01 Apr 2021 11:29:04  INFO logger - user clicked to modify store pickup
+01 Apr 2021 11:29:08  INFO logger - element not visible to user
+01 Apr 2021 11:29:08  INFO logger - user select 120 miles
+01 Apr 2021 11:29:19  INFO logger - click On Go button and unselect default store
+01 Apr 2021 11:29:24  INFO logger - user scroll and check if View More is avaialble
+01 Apr 2021 11:29:30  INFO logger - user scroll and search for Grand Prairie, and select the store if not select
+01 Apr 2021 11:29:31  INFO logger - user click on Done Button
+01 Apr 2021 11:29:51  INFO logger - addProductToCart() - add product to the cart
+01 Apr 2021 11:29:51  INFO logger - user is on product list page
+01 Apr 2021 11:29:51  INFO logger - storing product details to verify on next screen
+01 Apr 2021 11:29:53  INFO logger - user increased the  product qty
+01 Apr 2021 11:30:09  INFO logger - user is shown item added to dashboard
+01 Apr 2021 11:30:09  INFO logger - user verify product details
+01 Apr 2021 11:30:34  INFO logger - actual Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $925.00]
+01 Apr 2021 11:30:34  INFO logger - expected Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $925.00]
+01 Apr 2021 11:30:34  INFO logger - user proceed to checkout
+01 Apr 2021 11:30:36  INFO logger - checkOutProduct() - to do the checkout for selected product
+01 Apr 2021 11:30:36  INFO logger - user enter Po number and proceed to checkout
+01 Apr 2021 11:30:42  INFO logger - user proceed to checkout
+01 Apr 2021 11:30:43  INFO logger - user choose the payment option
+01 Apr 2021 11:30:52  INFO logger - user validate the po number and submit order
+01 Apr 2021 11:31:05  INFO logger - user able to view order status
+01 Apr 2021 11:31:05  INFO logger - user ordered the product successfully
+01 Apr 2021 11:31:05  INFO logger - Shutting down driver
+01 Apr 2021 11:32:13  INFO logger - --------------------------------------
+01 Apr 2021 11:33:36  INFO logger - --------------------------------------
+01 Apr 2021 11:33:36  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+01 Apr 2021 11:34:29  INFO logger - Android driver created
+01 Apr 2021 11:34:29  INFO logger - Running login test
+01 Apr 2021 11:34:29  INFO logger - check if any alert present
+01 Apr 2021 11:34:38  INFO logger - Logo is displayed
+01 Apr 2021 11:34:38  INFO logger - user click on Sign In link
+01 Apr 2021 11:34:52  INFO logger - Login Successful
+01 Apr 2021 11:34:54  INFO logger - clearCheckoutCart() will clear the existing cart
+01 Apr 2021 11:34:54  INFO logger - user clear the cart first
+01 Apr 2021 11:35:08  INFO logger - Cart Logo is displayed
+01 Apr 2021 11:35:09  INFO logger - cart is already empty
+01 Apr 2021 11:35:09  INFO logger - cart is empty now
+01 Apr 2021 11:35:11  INFO logger - selectProductFromMenu() will select Mini split Heater from the products Menu
+01 Apr 2021 11:35:11  INFO logger - user click on Menu Icon
+01 Apr 2021 11:35:27  INFO logger - user select commercial option from Menu
+01 Apr 2021 11:35:30  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+01 Apr 2021 11:36:07  INFO logger - user is shown 14 results
+01 Apr 2021 11:36:10  INFO logger - userChangeTheStorePickup() will change the store
+01 Apr 2021 11:36:10  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+01 Apr 2021 11:36:14  INFO logger - user clicked to modify store pickup
+01 Apr 2021 11:36:32  INFO logger - user select 120 miles
+01 Apr 2021 11:36:36  INFO logger - click On Go button and unselect default store
+01 Apr 2021 11:36:47  INFO logger - user scroll and check if View More is avaialble
+01 Apr 2021 11:37:01  INFO logger - user scroll and search for Grand Prairie, and select the store if not select
+01 Apr 2021 11:37:05  INFO logger - user click on Done Button
+01 Apr 2021 11:37:51  INFO logger - addProductToCart() - add product to the cart
+01 Apr 2021 11:37:51  INFO logger - user is on product list page
+01 Apr 2021 11:37:51  INFO logger - storing product details to verify on next screen
+01 Apr 2021 11:37:52  INFO logger - user increased the  product qty
+01 Apr 2021 11:38:16  INFO logger - user is shown item added to dashboard
+01 Apr 2021 11:38:16  INFO logger - user verify product details
+01 Apr 2021 11:41:00  INFO logger - --------------------------------------
+01 Apr 2021 11:41:00  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+01 Apr 2021 11:41:12  INFO logger - --------------------------------------
+01 Apr 2021 11:41:32  INFO logger - Android driver created
+01 Apr 2021 11:41:32  INFO logger - Running login test
+01 Apr 2021 11:41:32  INFO logger - check if any alert present
+01 Apr 2021 11:41:40  INFO logger - Logo is displayed
+01 Apr 2021 11:41:40  INFO logger - user click on Sign In link
+01 Apr 2021 11:41:50  INFO logger - Login Successful
+01 Apr 2021 11:41:51  INFO logger - clearCheckoutCart() will clear the existing cart
+01 Apr 2021 11:41:51  INFO logger - user clear the cart first
+01 Apr 2021 11:42:04  INFO logger - Cart Logo is displayed
+01 Apr 2021 11:42:04  INFO logger - cart is already empty
+01 Apr 2021 11:42:04  INFO logger - cart is empty now
+01 Apr 2021 11:42:05  INFO logger - selectProductFromMenu() will select Mini split Heater from the products Menu
+01 Apr 2021 11:42:05  INFO logger - user click on Menu Icon
+01 Apr 2021 11:42:12  INFO logger - user select commercial option from Menu
+01 Apr 2021 11:42:13  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+01 Apr 2021 11:42:30  INFO logger - user is shown 14 results
+01 Apr 2021 11:42:30  INFO logger - userChangeTheStorePickup() will change the store
+01 Apr 2021 11:42:30  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+01 Apr 2021 11:42:31  INFO logger - user clicked to modify store pickup
+01 Apr 2021 11:42:32  INFO logger - Android driver created
+01 Apr 2021 11:42:32  INFO logger - Running login test
+01 Apr 2021 11:42:32  INFO logger - check if any alert present
+01 Apr 2021 11:42:41  INFO logger - Logo is displayed
+01 Apr 2021 11:42:41  INFO logger - user click on Sign In link
+01 Apr 2021 11:42:55  INFO logger - Login Successful
+01 Apr 2021 11:42:58  INFO logger - clearCheckoutCart() will clear the existing cart
+01 Apr 2021 11:42:58  INFO logger - user clear the cart first
+01 Apr 2021 11:43:11  INFO logger - Cart Logo is displayed
+01 Apr 2021 11:43:12  INFO logger - cart is not empty
+01 Apr 2021 11:43:23  INFO logger - cart is empty now
+01 Apr 2021 11:43:26  INFO logger - selectProductFromMenu() will select Mini split Heater from the products Menu
+01 Apr 2021 11:43:26  INFO logger - user click on Menu Icon
+01 Apr 2021 11:43:31  INFO logger - user select commercial option from Menu
+01 Apr 2021 11:43:34  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+01 Apr 2021 11:43:53  INFO logger - user is shown 14 results
+01 Apr 2021 11:43:58  INFO logger - userChangeTheStorePickup() will change the store
+01 Apr 2021 11:43:58  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+01 Apr 2021 11:44:03  INFO logger - user clicked to modify store pickup
+01 Apr 2021 11:45:58  INFO logger - Shutting down driver
+01 Apr 2021 11:46:53  INFO logger - --------------------------------------
+01 Apr 2021 11:46:53  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+01 Apr 2021 11:47:03  INFO logger - --------------------------------------
+01 Apr 2021 11:47:45  INFO logger - --------------------------------------
+01 Apr 2021 11:48:04  INFO logger - Android driver created
+01 Apr 2021 11:48:04  INFO logger - Running login test
+01 Apr 2021 11:48:04  INFO logger - check if any alert present
+01 Apr 2021 11:48:10  INFO logger - Logo is displayed
+01 Apr 2021 11:48:10  INFO logger - user click on Sign In link
+01 Apr 2021 11:48:19  INFO logger - Login Successful
+01 Apr 2021 11:48:20  INFO logger - clearCheckoutCart() will clear the existing cart
+01 Apr 2021 11:48:20  INFO logger - user clear the cart first
+01 Apr 2021 11:48:31  INFO logger - Cart Logo is displayed
+01 Apr 2021 11:48:31  INFO logger - cart is already empty
+01 Apr 2021 11:48:31  INFO logger - cart is empty now
+01 Apr 2021 11:48:32  INFO logger - selectProductFromMenu() will select Mini split Heater from the products Menu
+01 Apr 2021 11:48:32  INFO logger - user click on Menu Icon
+01 Apr 2021 11:48:37  INFO logger - user select commercial option from Menu
+01 Apr 2021 11:48:38  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+01 Apr 2021 11:48:53  INFO logger - user is shown 14 results
+01 Apr 2021 11:48:53  INFO logger - userChangeTheStorePickup() will change the store
+01 Apr 2021 11:48:53  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+01 Apr 2021 11:48:55  INFO logger - user clicked to modify store pickup
+01 Apr 2021 11:48:59  INFO logger - iOS driver created
+01 Apr 2021 11:48:59  INFO logger - Running login test
+01 Apr 2021 11:48:59  INFO logger - check if any alert present
+01 Apr 2021 11:49:00  INFO logger - user select 120 miles
+01 Apr 2021 11:49:02  INFO logger - Shutting down driver
+01 Apr 2021 11:49:03  INFO logger - click On Go button and unselect default store
+01 Apr 2021 11:49:05  INFO logger - user scroll and check if View More is avaialble
+01 Apr 2021 11:49:08  INFO logger - user scroll and search for Grand Prairie, and select the store if not select
+01 Apr 2021 11:49:13  INFO logger - user click on Done Button
+01 Apr 2021 11:49:30  INFO logger - addProductToCart() - add product to the cart
+01 Apr 2021 11:49:30  INFO logger - user is on product list page
+01 Apr 2021 11:49:30  INFO logger - storing product details to verify on next screen
+01 Apr 2021 11:49:31  INFO logger - user increased the  product qty
+01 Apr 2021 11:49:42  INFO logger - user is shown item added to dashboard
+01 Apr 2021 11:49:42  INFO logger - user verify product details
+01 Apr 2021 11:49:47  INFO logger - actual Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $925.00]
+01 Apr 2021 11:49:47  INFO logger - expected Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $925.00]
+01 Apr 2021 11:49:47  INFO logger - user proceed to checkout
+01 Apr 2021 11:49:48  INFO logger - checkOutProduct() - to do the checkout for selected product
+01 Apr 2021 11:49:48  INFO logger - user enter Po number and proceed to checkout
+01 Apr 2021 11:49:55  INFO logger - user proceed to checkout
+01 Apr 2021 11:49:56  INFO logger - user choose the payment option
+01 Apr 2021 11:50:05  INFO logger - user validate the po number and submit order
+01 Apr 2021 11:50:18  INFO logger - user able to view order status
+01 Apr 2021 11:50:19  INFO logger - user ordered the product successfully
+01 Apr 2021 11:50:19  INFO logger - Shutting down driver
+01 Apr 2021 11:50:49  INFO logger - --------------------------------------
+01 Apr 2021 11:50:49  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+01 Apr 2021 11:51:38  INFO logger - Android driver created
+01 Apr 2021 11:51:38  INFO logger - Running login test
+01 Apr 2021 11:51:38  INFO logger - check if any alert present
+01 Apr 2021 11:51:45  INFO logger - Logo is displayed
+01 Apr 2021 11:51:45  INFO logger - user click on Sign In link
+01 Apr 2021 11:52:00  INFO logger - Login Successful
+01 Apr 2021 11:52:03  INFO logger - clearCheckoutCart() will clear the existing cart
+01 Apr 2021 11:52:03  INFO logger - user clear the cart first
+01 Apr 2021 11:52:13  INFO logger - Cart Logo is displayed
+01 Apr 2021 11:52:19  INFO logger - cart is already empty
+01 Apr 2021 11:52:19  INFO logger - cart is empty now
+01 Apr 2021 11:52:22  INFO logger - selectProductFromMenu() will select Mini split Heater from the products Menu
+01 Apr 2021 11:52:22  INFO logger - user click on Menu Icon
+01 Apr 2021 11:52:37  INFO logger - user select commercial option from Menu
+01 Apr 2021 11:52:41  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+01 Apr 2021 11:53:22  INFO logger - user is shown 14 results
+01 Apr 2021 11:53:25  INFO logger - userChangeTheStorePickup() will change the store
+01 Apr 2021 11:53:25  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+01 Apr 2021 11:53:30  INFO logger - user clicked to modify store pickup
+01 Apr 2021 11:53:41  INFO logger - user select 120 miles
+01 Apr 2021 11:53:44  INFO logger - click On Go button and unselect default store
+01 Apr 2021 11:53:50  INFO logger - user scroll and check if View More is avaialble
+01 Apr 2021 11:54:11  INFO logger - user scroll and search for Grand Prairie, and select the store if not select
+01 Apr 2021 11:54:14  INFO logger - user click on Done Button
+01 Apr 2021 11:54:49  INFO logger - addProductToCart() - add product to the cart
+01 Apr 2021 11:54:49  INFO logger - user is on product list page
+01 Apr 2021 11:54:49  INFO logger - storing product details to verify on next screen
+01 Apr 2021 11:54:53  INFO logger - user increased the  product qty
+01 Apr 2021 11:55:22  INFO logger - user is shown item added to dashboard
+01 Apr 2021 11:55:22  INFO logger - user verify product details
+01 Apr 2021 11:56:56  INFO logger - --------------------------------------
+01 Apr 2021 11:56:56  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+01 Apr 2021 11:57:51  INFO logger - Android driver created
+01 Apr 2021 11:57:51  INFO logger - Running login test
+01 Apr 2021 11:57:51  INFO logger - check if any alert present
+01 Apr 2021 11:57:59  INFO logger - Logo is displayed
+01 Apr 2021 11:57:59  INFO logger - user click on Sign In link
+01 Apr 2021 11:58:14  INFO logger - Login Successful
+01 Apr 2021 11:58:17  INFO logger - clearCheckoutCart() will clear the existing cart
+01 Apr 2021 11:58:17  INFO logger - user clear the cart first
+01 Apr 2021 11:58:24  INFO logger - Cart Logo is displayed
+01 Apr 2021 11:58:25  INFO logger - cart is not empty
+01 Apr 2021 11:58:36  INFO logger - cart is empty now
+01 Apr 2021 11:58:38  INFO logger - selectProductFromMenu() will select Mini split Heater from the products Menu
+01 Apr 2021 11:58:38  INFO logger - user click on Menu Icon
+01 Apr 2021 11:58:43  INFO logger - user select commercial option from Menu
+01 Apr 2021 11:58:46  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+01 Apr 2021 11:59:02  INFO logger - user is shown 14 results
+01 Apr 2021 11:59:05  INFO logger - userChangeTheStorePickup() will change the store
+01 Apr 2021 11:59:05  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+01 Apr 2021 11:59:10  INFO logger - user clicked to modify store pickup
+01 Apr 2021 11:59:22  INFO logger - element not visible to user
+01 Apr 2021 11:59:22  INFO logger - user select 120 miles
+01 Apr 2021 11:59:27  INFO logger - click On Go button and unselect default store
+01 Apr 2021 11:59:30  INFO logger - user scroll and check if View More is avaialble
+01 Apr 2021 11:59:51  INFO logger - user scroll and search for Grand Prairie, and select the store if not select
+01 Apr 2021 11:59:53  INFO logger - user click on Done Button
+01 Apr 2021 12:00:30  INFO logger - addProductToCart() - add product to the cart
+01 Apr 2021 12:00:30  INFO logger - user is on product list page
+01 Apr 2021 12:00:30  INFO logger - storing product details to verify on next screen
+01 Apr 2021 12:00:41  INFO logger - user increased the  product qty
+01 Apr 2021 12:01:00  INFO logger - user is shown item added to dashboard
+01 Apr 2021 12:01:00  INFO logger - user verify product details
+01 Apr 2021 12:01:10  INFO logger - actual Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $925.00]
+01 Apr 2021 12:01:10  INFO logger - expected Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $925.00]
+01 Apr 2021 12:01:10  INFO logger - user proceed to checkout
+01 Apr 2021 12:01:16  INFO logger - checkOutProduct() - to do the checkout for selected product
+01 Apr 2021 12:01:16  INFO logger - user enter Po number and proceed to checkout
+01 Apr 2021 12:01:20  INFO logger - user proceed to checkout
+01 Apr 2021 12:01:23  INFO logger - user choose the payment option
+01 Apr 2021 12:01:31  INFO logger - user validate the po number and submit order
+01 Apr 2021 12:01:45  INFO logger - user able to view order status
+01 Apr 2021 12:01:48  INFO logger - user ordered the product successfully
+01 Apr 2021 12:01:48  INFO logger - Shutting down driver
+01 Apr 2021 12:04:28  INFO logger - --------------------------------------
+01 Apr 2021 12:05:13  INFO logger - --------------------------------------
+01 Apr 2021 12:05:31  INFO logger - Android driver created
+01 Apr 2021 12:05:31  INFO logger - Running login test
+01 Apr 2021 12:05:31  INFO logger - check if any alert present
+01 Apr 2021 12:05:42  INFO logger - Logo is displayed
+01 Apr 2021 12:05:42  INFO logger - user click on Sign In link
+01 Apr 2021 12:05:55  INFO logger - Login Successful
+01 Apr 2021 12:05:55  INFO logger - clearCheckoutCart() will clear the existing cart
+01 Apr 2021 12:05:55  INFO logger - user clear the cart first
+01 Apr 2021 12:06:05  INFO logger - Cart Logo is displayed
+01 Apr 2021 12:06:06  INFO logger - cart is already empty
+01 Apr 2021 12:06:06  INFO logger - cart is empty now
+01 Apr 2021 12:06:06  INFO logger - selectProductFromMenu() will select Mini split Heater from the products Menu
+01 Apr 2021 12:06:06  INFO logger - user click on Menu Icon
+01 Apr 2021 12:06:12  INFO logger - user select commercial option from Menu
+01 Apr 2021 12:06:13  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+01 Apr 2021 12:06:28  INFO logger - user is shown 14 results
+01 Apr 2021 12:06:28  INFO logger - userChangeTheStorePickup() will change the store
+01 Apr 2021 12:06:28  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+01 Apr 2021 12:06:33  INFO logger - user clicked to modify store pickup
+01 Apr 2021 12:06:39  INFO logger - user select 120 miles
+01 Apr 2021 12:06:42  INFO logger - click On Go button and unselect default store
+01 Apr 2021 12:06:43  INFO logger - user scroll and check if View More is avaialble
+01 Apr 2021 12:06:46  INFO logger - user scroll and search for Grand Prairie, and select the store if not select
+01 Apr 2021 12:06:47  INFO logger - user click on Done Button
+01 Apr 2021 12:07:03  INFO logger - addProductToCart() - add product to the cart
+01 Apr 2021 12:07:03  INFO logger - user is on product list page
+01 Apr 2021 12:07:03  INFO logger - storing product details to verify on next screen
+01 Apr 2021 12:07:10  INFO logger - Shutting down driver
+01 Apr 2021 12:08:48  INFO logger - --------------------------------------
+01 Apr 2021 12:09:40  INFO logger - --------------------------------------
+01 Apr 2021 12:09:57  INFO logger - Android driver created
+01 Apr 2021 12:09:57  INFO logger - Running login test
+01 Apr 2021 12:09:57  INFO logger - check if any alert present
+01 Apr 2021 12:10:04  INFO logger - Logo is displayed
+01 Apr 2021 12:10:04  INFO logger - user click on Sign In link
+01 Apr 2021 12:10:20  INFO logger - Login Successful
+01 Apr 2021 12:10:20  INFO logger - clearCheckoutCart() will clear the existing cart
+01 Apr 2021 12:10:20  INFO logger - user clear the cart first
+01 Apr 2021 12:10:38  INFO logger - Cart Logo is displayed
+01 Apr 2021 12:10:39  INFO logger - cart is already empty
+01 Apr 2021 12:10:39  INFO logger - cart is empty now
+01 Apr 2021 12:10:39  INFO logger - selectProductFromMenu() will select Mini split Heater from the products Menu
+01 Apr 2021 12:10:39  INFO logger - user click on Menu Icon
+01 Apr 2021 12:10:45  INFO logger - user select commercial option from Menu
+01 Apr 2021 12:10:48  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+01 Apr 2021 12:11:01  INFO logger - user is shown 14 results
+01 Apr 2021 12:11:02  INFO logger - userChangeTheStorePickup() will change the store
+01 Apr 2021 12:11:02  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+01 Apr 2021 12:11:07  INFO logger - user clicked to modify store pickup
+01 Apr 2021 12:11:13  INFO logger - user select 120 miles
+01 Apr 2021 12:11:15  INFO logger - click On Go button and unselect default store
+01 Apr 2021 12:11:16  INFO logger - user scroll and check if View More is avaialble
+01 Apr 2021 12:11:24  INFO logger - user scroll and search for Grand Prairie, and select the store if not select
+01 Apr 2021 12:11:25  INFO logger - user click on Done Button
+01 Apr 2021 12:11:45  INFO logger - addProductToCart() - add product to the cart
+01 Apr 2021 12:11:45  INFO logger - user is on product list page
+01 Apr 2021 12:11:45  INFO logger - storing product details to verify on next screen
+01 Apr 2021 12:12:05  INFO logger - user increased the  product qty
+01 Apr 2021 12:12:46  INFO logger - user is shown item added to dashboard
+01 Apr 2021 12:12:46  INFO logger - user verify product details
+01 Apr 2021 12:12:48  INFO logger - actual Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $925.00]
+01 Apr 2021 12:12:48  INFO logger - expected Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $925.00]
+01 Apr 2021 12:12:48  INFO logger - user proceed to checkout
+01 Apr 2021 12:12:50  INFO logger - checkOutProduct() - to do the checkout for selected product
+01 Apr 2021 12:12:50  INFO logger - user enter Po number and proceed to checkout
+01 Apr 2021 12:12:57  INFO logger - user proceed to checkout
+01 Apr 2021 12:12:58  INFO logger - user choose the payment option
+01 Apr 2021 12:13:08  INFO logger - user validate the po number and submit order
+01 Apr 2021 12:13:26  INFO logger - user able to view order status
+01 Apr 2021 12:13:26  INFO logger - user ordered the product successfully
+01 Apr 2021 12:13:26  INFO logger - Shutting down driver
+01 Apr 2021 12:40:22  INFO logger - --------------------------------------
+01 Apr 2021 12:42:48  INFO logger - --------------------------------------
+01 Apr 2021 12:43:03  INFO logger - Android driver created
+01 Apr 2021 12:43:03  INFO logger - Running login test
+01 Apr 2021 12:43:03  INFO logger - check if any alert present
+01 Apr 2021 12:43:25  INFO logger - Logo is displayed
+01 Apr 2021 12:43:25  INFO logger - user click on Sign In link
+01 Apr 2021 12:43:37  INFO logger - Login Successful
+01 Apr 2021 12:43:38  INFO logger - clearCheckoutCart() will clear the existing cart
+01 Apr 2021 12:43:38  INFO logger - user clear the cart first
+01 Apr 2021 12:43:52  INFO logger - Cart Logo is displayed
+01 Apr 2021 12:43:53  INFO logger - cart is not empty
+01 Apr 2021 12:44:04  INFO logger - cart is empty now
+01 Apr 2021 12:44:04  INFO logger - selectProductFromMenu() will select Mini split Heater from the products Menu
+01 Apr 2021 12:44:04  INFO logger - user click on Menu Icon
+01 Apr 2021 12:44:09  INFO logger - user select commercial option from Menu
+01 Apr 2021 12:44:10  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+01 Apr 2021 12:44:23  INFO logger - user is shown 14 results
+01 Apr 2021 12:44:24  INFO logger - userChangeTheStorePickup() will change the store
+01 Apr 2021 12:44:24  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+01 Apr 2021 12:44:30  INFO logger - user clicked to modify store pickup
+01 Apr 2021 12:44:35  INFO logger - user select 120 miles
+01 Apr 2021 12:44:37  INFO logger - click On Go button and unselect default store
+01 Apr 2021 12:44:37  INFO logger - user scroll and check if View More is avaialble
+01 Apr 2021 12:44:43  INFO logger - user scroll and search for Grand Prairie, and select the store if not select
+01 Apr 2021 12:44:44  INFO logger - user click on Done Button
+01 Apr 2021 12:45:01  INFO logger - addProductToCart() - add product to the cart
+01 Apr 2021 12:45:01  INFO logger - user is on product list page
+01 Apr 2021 12:45:01  INFO logger - storing product details to verify on next screen
+01 Apr 2021 12:45:10  INFO logger - user increased the  product qty
+01 Apr 2021 12:45:15  INFO logger - user is shown item added to dashboard
+01 Apr 2021 12:45:15  INFO logger - user verify product details
+01 Apr 2021 12:45:22  INFO logger - actual Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $925.00]
+01 Apr 2021 12:45:22  INFO logger - expected Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $925.00]
+01 Apr 2021 12:45:22  INFO logger - user proceed to checkout
+01 Apr 2021 12:45:24  INFO logger - checkOutProduct() - to do the checkout for selected product
+01 Apr 2021 12:45:24  INFO logger - user enter Po number and proceed to checkout
+01 Apr 2021 12:45:30  INFO logger - user proceed to checkout
+01 Apr 2021 12:45:31  INFO logger - user choose the payment option
+01 Apr 2021 12:45:42  INFO logger - user validate the po number and submit order
+01 Apr 2021 12:47:11  INFO logger - user able to view order status
+01 Apr 2021 12:47:12  INFO logger - user ordered the product successfully
+01 Apr 2021 12:47:12  INFO logger - Shutting down driver
+01 Apr 2021 12:47:41  INFO logger - --------------------------------------
+01 Apr 2021 12:48:23  INFO logger - --------------------------------------
+01 Apr 2021 12:48:36  INFO logger - Android driver created
+01 Apr 2021 12:48:36  INFO logger - Running login test
+01 Apr 2021 12:48:36  INFO logger - check if any alert present
+01 Apr 2021 12:48:46  INFO logger - Logo is displayed
+01 Apr 2021 12:48:46  INFO logger - user click on Sign In link
+01 Apr 2021 12:49:07  INFO logger - Login Successful
+01 Apr 2021 12:49:07  INFO logger - clearCheckoutCart() will clear the existing cart
+01 Apr 2021 12:49:07  INFO logger - user clear the cart first
+01 Apr 2021 12:49:16  INFO logger - Cart Logo is displayed
+01 Apr 2021 12:49:16  INFO logger - cart is already empty
+01 Apr 2021 12:49:16  INFO logger - cart is empty now
+01 Apr 2021 12:49:17  INFO logger - selectProductFromMenu() will select Mini split Heater from the products Menu
+01 Apr 2021 12:49:17  INFO logger - user click on Menu Icon
+01 Apr 2021 12:49:22  INFO logger - user select commercial option from Menu
+01 Apr 2021 12:49:23  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+01 Apr 2021 12:49:45  INFO logger - user is shown 14 results
+01 Apr 2021 12:49:45  INFO logger - userChangeTheStorePickup() will change the store
+01 Apr 2021 12:49:45  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+01 Apr 2021 12:49:47  INFO logger - user clicked to modify store pickup
+01 Apr 2021 12:49:55  INFO logger - user select 120 miles
+01 Apr 2021 12:49:57  INFO logger - click On Go button and unselect default store
+01 Apr 2021 12:49:58  INFO logger - user scroll and check if View More is avaialble
+01 Apr 2021 12:50:04  INFO logger - user scroll and search for Grand Prairie, and select the store if not select
+01 Apr 2021 12:50:06  INFO logger - user click on Done Button
+01 Apr 2021 12:50:26  INFO logger - addProductToCart() - add product to the cart
+01 Apr 2021 12:50:26  INFO logger - user is on product list page
+01 Apr 2021 12:50:26  INFO logger - storing product details to verify on next screen
+01 Apr 2021 12:51:10  INFO logger - user increased the  product qty
+01 Apr 2021 12:51:11  INFO logger - user is shown item added to dashboard
+01 Apr 2021 12:51:11  INFO logger - user verify product details
+01 Apr 2021 12:51:16  INFO logger - actual Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $5,550.00]
+01 Apr 2021 12:51:16  INFO logger - expected Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $925.00]
+01 Apr 2021 12:51:16  INFO logger - Shutting down driver
+01 Apr 2021 12:52:07  INFO logger - --------------------------------------
+01 Apr 2021 12:52:41  INFO logger - --------------------------------------
+01 Apr 2021 12:52:55  INFO logger - Android driver created
+01 Apr 2021 12:52:55  INFO logger - Running login test
+01 Apr 2021 12:52:55  INFO logger - check if any alert present
+01 Apr 2021 12:53:05  INFO logger - Logo is displayed
+01 Apr 2021 12:53:05  INFO logger - user click on Sign In link
+01 Apr 2021 12:53:15  INFO logger - Login Successful
+01 Apr 2021 12:53:16  INFO logger - clearCheckoutCart() will clear the existing cart
+01 Apr 2021 12:53:16  INFO logger - user clear the cart first
+01 Apr 2021 12:53:25  INFO logger - Cart Logo is displayed
+01 Apr 2021 12:53:25  INFO logger - cart is not empty
+01 Apr 2021 12:53:36  INFO logger - cart is empty now
+01 Apr 2021 12:53:37  INFO logger - selectProductFromMenu() will select Mini split Heater from the products Menu
+01 Apr 2021 12:53:37  INFO logger - user click on Menu Icon
+01 Apr 2021 12:54:22  INFO logger - user select commercial option from Menu
+01 Apr 2021 12:54:23  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+01 Apr 2021 12:54:42  INFO logger - user is shown 14 results
+01 Apr 2021 12:54:42  INFO logger - userChangeTheStorePickup() will change the store
+01 Apr 2021 12:54:42  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+01 Apr 2021 12:54:44  INFO logger - user clicked to modify store pickup
+01 Apr 2021 12:54:51  INFO logger - user select 120 miles
+01 Apr 2021 12:54:54  INFO logger - click On Go button and unselect default store
+01 Apr 2021 12:54:56  INFO logger - user scroll and check if View More is avaialble
+01 Apr 2021 12:55:02  INFO logger - user scroll and search for Grand Prairie, and select the store if not select
+01 Apr 2021 12:55:03  INFO logger - user click on Done Button
+01 Apr 2021 12:55:21  INFO logger - addProductToCart() - add product to the cart
+01 Apr 2021 12:55:21  INFO logger - user is on product list page
+01 Apr 2021 12:55:21  INFO logger - storing product details to verify on next screen
+01 Apr 2021 12:55:45  INFO logger - user increased the  product qty
+01 Apr 2021 12:55:57  INFO logger - user is shown item added to dashboard
+01 Apr 2021 12:55:57  INFO logger - user verify product details
+01 Apr 2021 12:55:59  INFO logger - actual Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $5,550.00]
+01 Apr 2021 12:55:59  INFO logger - expected Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $5,550.00]
+01 Apr 2021 12:55:59  INFO logger - user proceed to checkout
+01 Apr 2021 12:56:00  INFO logger - checkOutProduct() - to do the checkout for selected product
+01 Apr 2021 12:56:00  INFO logger - user enter Po number and proceed to checkout
+01 Apr 2021 12:56:06  INFO logger - user proceed to checkout
+01 Apr 2021 12:56:07  INFO logger - user choose the payment option
+01 Apr 2021 12:56:18  INFO logger - user validate the po number and submit order
+01 Apr 2021 12:56:32  INFO logger - user able to view order status
+01 Apr 2021 12:56:33  INFO logger - user ordered the product successfully
+01 Apr 2021 12:56:33  INFO logger - Shutting down driver
+01 Apr 2021 12:56:55  INFO logger - --------------------------------------
+01 Apr 2021 12:56:55  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+01 Apr 2021 12:57:45  INFO logger - Android driver created
+01 Apr 2021 12:57:45  INFO logger - Running login test
+01 Apr 2021 12:57:45  INFO logger - check if any alert present
+01 Apr 2021 12:57:53  INFO logger - Logo is displayed
+01 Apr 2021 12:57:53  INFO logger - user click on Sign In link
+01 Apr 2021 12:58:12  INFO logger - Login Successful
+01 Apr 2021 12:58:17  INFO logger - clearCheckoutCart() will clear the existing cart
+01 Apr 2021 12:58:17  INFO logger - user clear the cart first
+01 Apr 2021 12:58:31  INFO logger - Cart Logo is displayed
+01 Apr 2021 12:58:33  INFO logger - cart is already empty
+01 Apr 2021 12:58:33  INFO logger - cart is empty now
+01 Apr 2021 12:58:38  INFO logger - selectProductFromMenu() will select Mini split Heater from the products Menu
+01 Apr 2021 12:58:38  INFO logger - user click on Menu Icon
+01 Apr 2021 12:58:49  INFO logger - user select commercial option from Menu
+01 Apr 2021 12:58:54  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+01 Apr 2021 12:59:33  INFO logger - user is shown 14 results
+01 Apr 2021 12:59:38  INFO logger - userChangeTheStorePickup() will change the store
+01 Apr 2021 12:59:38  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+01 Apr 2021 12:59:45  INFO logger - user clicked to modify store pickup
+01 Apr 2021 13:00:00  INFO logger - user select 120 miles
+01 Apr 2021 13:00:14  INFO logger - click On Go button and unselect default store
+01 Apr 2021 13:00:20  INFO logger - user scroll and check if View More is avaialble
+01 Apr 2021 13:00:47  INFO logger - user scroll and search for Grand Prairie, and select the store if not select
+01 Apr 2021 13:00:49  INFO logger - user click on Done Button
+01 Apr 2021 13:01:42  INFO logger - addProductToCart() - add product to the cart
+01 Apr 2021 13:01:42  INFO logger - user is on product list page
+01 Apr 2021 13:01:42  INFO logger - storing product details to verify on next screen
+01 Apr 2021 13:05:16  INFO logger - Shutting down driver
+01 Apr 2021 13:08:34  INFO logger - --------------------------------------
+01 Apr 2021 13:08:34  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+01 Apr 2021 13:09:27  INFO logger - Android driver created
+01 Apr 2021 13:09:28  INFO logger - Running login test
+01 Apr 2021 13:09:28  INFO logger - check if any alert present
+01 Apr 2021 13:09:36  INFO logger - Logo is displayed
+01 Apr 2021 13:09:36  INFO logger - user click on Sign In link
+01 Apr 2021 13:09:51  INFO logger - Login Successful
+01 Apr 2021 13:09:55  INFO logger - clearCheckoutCart() will clear the existing cart
+01 Apr 2021 13:09:55  INFO logger - user clear the cart first
+01 Apr 2021 13:10:04  INFO logger - Cart Logo is displayed
+01 Apr 2021 13:10:05  INFO logger - cart is not empty
+01 Apr 2021 13:10:18  INFO logger - cart is empty now
+01 Apr 2021 13:10:22  INFO logger - selectProductFromMenu() will select Mini split Heater from the products Menu
+01 Apr 2021 13:10:22  INFO logger - user click on Menu Icon
+01 Apr 2021 13:10:27  INFO logger - user select commercial option from Menu
+01 Apr 2021 13:10:29  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+01 Apr 2021 13:10:52  INFO logger - user is shown 14 results
+01 Apr 2021 13:10:57  INFO logger - userChangeTheStorePickup() will change the store
+01 Apr 2021 13:10:57  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+01 Apr 2021 13:11:02  INFO logger - user clicked to modify store pickup
+01 Apr 2021 13:11:14  INFO logger - element not visible to user
+01 Apr 2021 13:11:14  INFO logger - user select 120 miles
+01 Apr 2021 13:11:18  INFO logger - click On Go button and unselect default store
+01 Apr 2021 13:11:27  INFO logger - user scroll and check if View More is avaialble
+01 Apr 2021 13:11:38  INFO logger - user scroll and search for Grand Prairie, and select the store if not select
+01 Apr 2021 13:11:40  INFO logger - user click on Done Button
+01 Apr 2021 13:12:13  INFO logger - addProductToCart() - add product to the cart
+01 Apr 2021 13:12:13  INFO logger - user is on product list page
+01 Apr 2021 13:12:13  INFO logger - storing product details to verify on next screen
+01 Apr 2021 13:15:45  INFO logger - Shutting down driver
+01 Apr 2021 13:17:10  INFO logger - --------------------------------------
+01 Apr 2021 13:17:10  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+01 Apr 2021 13:18:05  INFO logger - Android driver created
+01 Apr 2021 13:18:05  INFO logger - Running login test
+01 Apr 2021 13:18:05  INFO logger - check if any alert present
+01 Apr 2021 13:18:12  INFO logger - Logo is displayed
+01 Apr 2021 13:18:12  INFO logger - user click on Sign In link
+01 Apr 2021 13:18:26  INFO logger - Login Successful
+01 Apr 2021 13:18:29  INFO logger - clearCheckoutCart() will clear the existing cart
+01 Apr 2021 13:18:29  INFO logger - user clear the cart first
+01 Apr 2021 13:18:38  INFO logger - Cart Logo is displayed
+01 Apr 2021 13:18:39  INFO logger - cart is already empty
+01 Apr 2021 13:18:39  INFO logger - cart is empty now
+01 Apr 2021 13:18:45  INFO logger - selectProductFromMenu() will select Mini split Heater from the products Menu
+01 Apr 2021 13:18:45  INFO logger - user click on Menu Icon
+01 Apr 2021 13:18:59  INFO logger - user select commercial option from Menu
+01 Apr 2021 13:19:03  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+01 Apr 2021 13:19:29  INFO logger - user is shown 14 results
+01 Apr 2021 13:19:33  INFO logger - userChangeTheStorePickup() will change the store
+01 Apr 2021 13:19:33  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+01 Apr 2021 13:19:38  INFO logger - user clicked to modify store pickup
+01 Apr 2021 13:20:01  INFO logger - user select 120 miles
+01 Apr 2021 13:20:07  INFO logger - click On Go button and unselect default store
+01 Apr 2021 13:20:10  INFO logger - user scroll and check if View More is avaialble
+01 Apr 2021 13:20:18  INFO logger - user scroll and search for Grand Prairie, and select the store if not select
+01 Apr 2021 13:20:19  INFO logger - user click on Done Button
+01 Apr 2021 13:21:04  INFO logger - addProductToCart() - add product to the cart
+01 Apr 2021 13:21:04  INFO logger - user is on product list page
+01 Apr 2021 13:21:04  INFO logger - storing product details to verify on next screen
+01 Apr 2021 13:21:53  INFO logger - user increased the  product qty
+01 Apr 2021 13:22:12  INFO logger - user is shown item added to dashboard
+01 Apr 2021 13:22:12  INFO logger - user verify product details
+01 Apr 2021 13:22:35  INFO logger - actual Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $5,550.00]
+01 Apr 2021 13:22:35  INFO logger - expected Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $5,550.00]
+01 Apr 2021 13:22:35  INFO logger - user proceed to checkout
+01 Apr 2021 13:22:41  INFO logger - checkOutProduct() - to do the checkout for selected product
+01 Apr 2021 13:22:41  INFO logger - user enter Po number and proceed to checkout
+01 Apr 2021 13:22:46  INFO logger - user proceed to checkout
+01 Apr 2021 13:22:49  INFO logger - user choose the payment option
+01 Apr 2021 13:22:57  INFO logger - user validate the po number and submit order
+01 Apr 2021 13:23:11  INFO logger - user able to view order status
+01 Apr 2021 13:23:14  INFO logger - user ordered the product successfully
+01 Apr 2021 13:23:14  INFO logger - Shutting down driver
+01 Apr 2021 13:23:54  INFO logger - --------------------------------------
+01 Apr 2021 13:25:31  INFO logger - --------------------------------------
+01 Apr 2021 13:25:45  INFO logger - Android driver created
+01 Apr 2021 13:25:45  INFO logger - Running login test
+01 Apr 2021 13:25:45  INFO logger - check if any alert present
+01 Apr 2021 13:25:54  INFO logger - Logo is displayed
+01 Apr 2021 13:25:54  INFO logger - user click on Sign In link
+01 Apr 2021 13:26:04  INFO logger - Login Successful
+01 Apr 2021 13:26:05  INFO logger - clearCheckoutCart() will clear the existing cart
+01 Apr 2021 13:26:05  INFO logger - user clear the cart first
+01 Apr 2021 13:26:16  INFO logger - Cart Logo is displayed
+01 Apr 2021 13:26:16  INFO logger - cart is already empty
+01 Apr 2021 13:26:16  INFO logger - cart is empty now
+01 Apr 2021 13:26:17  INFO logger - selectProductFromMenu() will select Mini split Heater from the products Menu
+01 Apr 2021 13:26:17  INFO logger - user click on Menu Icon
+01 Apr 2021 13:26:21  INFO logger - user select commercial option from Menu
+01 Apr 2021 13:26:21  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+01 Apr 2021 13:26:39  INFO logger - user is shown 14 results
+01 Apr 2021 13:26:40  INFO logger - userChangeTheStorePickup() will change the store
+01 Apr 2021 13:26:40  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+01 Apr 2021 13:26:41  INFO logger - user clicked to modify store pickup
+01 Apr 2021 13:26:49  INFO logger - user select 120 miles
+01 Apr 2021 13:26:52  INFO logger - click On Go button and unselect default store
+01 Apr 2021 13:26:53  INFO logger - user scroll and check if View More is avaialble
+01 Apr 2021 13:26:58  INFO logger - user scroll and search for Grand Prairie, and select the store if not select
+01 Apr 2021 13:27:00  INFO logger - user click on Done Button
+01 Apr 2021 13:27:17  INFO logger - addProductToCart() - add product to the cart
+01 Apr 2021 13:27:17  INFO logger - user is on product list page
+01 Apr 2021 13:27:17  INFO logger - storing product details to verify on next screen
+01 Apr 2021 13:27:38  INFO logger - user increased the  product qty
+01 Apr 2021 13:28:09  INFO logger - user is shown item added to dashboard
+01 Apr 2021 13:28:09  INFO logger - user verify product details
+01 Apr 2021 13:28:10  INFO logger - actual Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $5,550.00]
+01 Apr 2021 13:28:10  INFO logger - expected Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $5,550.00]
+01 Apr 2021 13:28:10  INFO logger - user proceed to checkout
+01 Apr 2021 13:28:11  INFO logger - checkOutProduct() - to do the checkout for selected product
+01 Apr 2021 13:28:11  INFO logger - user enter Po number and proceed to checkout
+01 Apr 2021 13:28:17  INFO logger - user proceed to checkout
+01 Apr 2021 13:28:18  INFO logger - user choose the payment option
+01 Apr 2021 13:28:27  INFO logger - user validate the po number and submit order
+01 Apr 2021 13:28:40  INFO logger - user able to view order status
+01 Apr 2021 13:28:41  INFO logger - user ordered the product successfully
+01 Apr 2021 13:28:41  INFO logger - Shutting down driver
+01 Apr 2021 13:29:15  INFO logger - --------------------------------------
+01 Apr 2021 14:25:39  INFO logger - --------------------------------------
+01 Apr 2021 14:26:03  INFO logger - Android driver created
+01 Apr 2021 14:26:03  INFO logger - Running login test
+01 Apr 2021 14:26:03  INFO logger - check if any alert present
+01 Apr 2021 14:26:11  INFO logger - Logo is displayed
+01 Apr 2021 14:26:11  INFO logger - user click on Sign In link
+01 Apr 2021 14:26:23  INFO logger - Login Successful
+01 Apr 2021 14:26:24  INFO logger - clearCheckoutCart() will clear the existing cart
+01 Apr 2021 14:26:24  INFO logger - user clear the cart first
+01 Apr 2021 14:26:36  INFO logger - Cart Logo is displayed
+01 Apr 2021 14:26:36  INFO logger - cart is not empty
+01 Apr 2021 14:26:44  INFO logger - cart is empty now
+01 Apr 2021 14:26:45  INFO logger - selectProductFromMenu() will select Mini split Heater from the products Menu
+01 Apr 2021 14:26:45  INFO logger - user click on Menu Icon
+01 Apr 2021 14:26:51  INFO logger - user select commercial option from Menu
+01 Apr 2021 14:26:52  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+01 Apr 2021 14:27:04  INFO logger - user is shown 14 results
+01 Apr 2021 14:27:05  INFO logger - userChangeTheStorePickup() will change the store
+01 Apr 2021 14:27:05  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+01 Apr 2021 14:27:08  INFO logger - user clicked to modify store pickup
+01 Apr 2021 14:27:18  INFO logger - user select 120 miles
+01 Apr 2021 14:27:20  INFO logger - click On Go button and unselect default store
+01 Apr 2021 14:27:20  INFO logger - user scroll and check if View More is avaialble
+01 Apr 2021 14:27:25  INFO logger - user scroll and search for Grand Prairie, and select the store if not select
+01 Apr 2021 14:27:27  INFO logger - user click on Done Button
+01 Apr 2021 14:27:45  INFO logger - addProductToCart() - add product to the cart
+01 Apr 2021 14:27:45  INFO logger - user is on product list page
+01 Apr 2021 14:27:45  INFO logger - storing product details to verify on next screen
+01 Apr 2021 14:28:01  INFO logger - user increased the  product qty
+01 Apr 2021 14:28:13  INFO logger - user is shown item added to dashboard
+01 Apr 2021 14:28:13  INFO logger - user verify product details
+01 Apr 2021 14:28:19  INFO logger - actual Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $925.00]
+01 Apr 2021 14:28:19  INFO logger - expected Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $5,550.00]
+01 Apr 2021 14:28:20  INFO logger - Shutting down driver
+01 Apr 2021 14:29:59  INFO logger - --------------------------------------
+01 Apr 2021 14:29:59  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+01 Apr 2021 14:30:54  INFO logger - Android driver created
+01 Apr 2021 14:30:54  INFO logger - Running login test
+01 Apr 2021 14:30:54  INFO logger - check if any alert present
+01 Apr 2021 14:31:03  INFO logger - Logo is displayed
+01 Apr 2021 14:31:03  INFO logger - user click on Sign In link
+01 Apr 2021 14:31:18  INFO logger - Login Successful
+01 Apr 2021 14:31:20  INFO logger - clearCheckoutCart() will clear the existing cart
+01 Apr 2021 14:31:20  INFO logger - user clear the cart first
+01 Apr 2021 14:31:29  INFO logger - Cart Logo is displayed
+01 Apr 2021 14:31:30  INFO logger - cart is not empty
+01 Apr 2021 14:31:42  INFO logger - cart is empty now
+01 Apr 2021 14:31:44  INFO logger - selectProductFromMenu() will select Mini split Heater from the products Menu
+01 Apr 2021 14:31:44  INFO logger - user click on Menu Icon
+01 Apr 2021 14:31:49  INFO logger - user select commercial option from Menu
+01 Apr 2021 14:31:52  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+01 Apr 2021 14:32:10  INFO logger - user is shown 14 results
+01 Apr 2021 14:32:14  INFO logger - userChangeTheStorePickup() will change the store
+01 Apr 2021 14:32:14  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+01 Apr 2021 14:32:19  INFO logger - user clicked to modify store pickup
+01 Apr 2021 14:32:38  INFO logger - element not visible to user
+01 Apr 2021 14:32:38  INFO logger - user select 120 miles
+01 Apr 2021 14:32:42  INFO logger - click On Go button and unselect default store
+01 Apr 2021 14:32:50  INFO logger - user scroll and check if View More is avaialble
+01 Apr 2021 14:33:03  INFO logger - user scroll and search for Grand Prairie, and select the store if not select
+01 Apr 2021 14:33:06  INFO logger - user click on Done Button
+01 Apr 2021 14:33:15  INFO logger - --------------------------------------
+01 Apr 2021 14:33:15  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+01 Apr 2021 14:33:44  INFO logger - addProductToCart() - add product to the cart
+01 Apr 2021 14:33:44  INFO logger - user is on product list page
+01 Apr 2021 14:33:44  INFO logger - storing product details to verify on next screen
+01 Apr 2021 14:34:34  INFO logger - user increased the  product qty
+01 Apr 2021 14:34:43  INFO logger - user is shown item added to dashboard
+01 Apr 2021 14:34:43  INFO logger - user verify product details
+01 Apr 2021 14:34:53  INFO logger - actual Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $5,550.00]
+01 Apr 2021 14:34:53  INFO logger - expected Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $5,550.00]
+01 Apr 2021 14:34:53  INFO logger - user proceed to checkout
+01 Apr 2021 14:34:59  INFO logger - checkOutProduct() - to do the checkout for selected product
+01 Apr 2021 14:34:59  INFO logger - user enter Po number and proceed to checkout
+01 Apr 2021 14:35:04  INFO logger - user proceed to checkout
+01 Apr 2021 14:35:07  INFO logger - user choose the payment option
+01 Apr 2021 14:35:16  INFO logger - user validate the po number and submit order
+01 Apr 2021 14:35:29  INFO logger - user able to view order status
+01 Apr 2021 14:35:31  INFO logger - user ordered the product successfully
+01 Apr 2021 14:35:31  INFO logger - Shutting down driver
+01 Apr 2021 14:36:16  INFO logger - iOS driver created
+01 Apr 2021 14:36:17  INFO logger - Running login test
+01 Apr 2021 14:36:24  INFO logger - Logo is displayed
+01 Apr 2021 14:36:24  INFO logger - user click on Sign In link
+01 Apr 2021 14:37:40  INFO logger - Shutting down driver
+01 Apr 2021 16:05:00  INFO logger - --------------------------------------
+01 Apr 2021 16:11:44  INFO logger - --------------------------------------
+01 Apr 2021 16:12:25  INFO logger - --------------------------------------
+01 Apr 2021 16:13:35  INFO logger - --------------------------------------
+01 Apr 2021 17:03:49  INFO logger - --------------------------------------
+01 Apr 2021 17:05:06  INFO logger - --------------------------------------
+01 Apr 2021 17:05:19  INFO logger - Android driver created
+01 Apr 2021 17:05:19  INFO logger - Running login test
+01 Apr 2021 17:05:19  INFO logger - check if any alert present
+01 Apr 2021 17:05:25  INFO logger - Logo is displayed
+01 Apr 2021 17:05:25  INFO logger - user click on Sign In link
+01 Apr 2021 17:05:35  INFO logger - Login Successful
+01 Apr 2021 17:05:36  INFO logger - clearCheckoutCart() will clear the existing cart
+01 Apr 2021 17:05:36  INFO logger - user clear the cart first
+01 Apr 2021 17:05:46  INFO logger - Cart Logo is displayed
+01 Apr 2021 17:05:46  INFO logger - cart is already empty
+01 Apr 2021 17:05:46  INFO logger - cart is empty now
+01 Apr 2021 17:05:47  INFO logger - selectProductFromMenu() will select Mini split Heater from the products Menu
+01 Apr 2021 17:05:47  INFO logger - user click on Menu Icon
+01 Apr 2021 17:05:54  INFO logger - user select commercial option from Menu
+01 Apr 2021 17:05:55  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+01 Apr 2021 17:06:09  INFO logger - user is shown 14 results
+01 Apr 2021 17:06:10  INFO logger - userChangeTheStorePickup() will change the store
+01 Apr 2021 17:06:10  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+01 Apr 2021 17:06:16  INFO logger - user clicked to modify store pickup
+01 Apr 2021 17:06:23  INFO logger - user select 120 miles
+01 Apr 2021 17:06:25  INFO logger - click On Go button and unselect default store
+01 Apr 2021 17:06:28  INFO logger - user scroll and check if View More is avaialble
+01 Apr 2021 17:06:31  INFO logger - user scroll and search for Grand Prairie, and select the store if not select
+01 Apr 2021 17:06:32  INFO logger - user click on Done Button
+01 Apr 2021 17:06:53  INFO logger - addProductToCart() - add product to the cart
+01 Apr 2021 17:06:53  INFO logger - user is on product list page
+01 Apr 2021 17:06:53  INFO logger - storing product details to verify on next screen
+01 Apr 2021 17:07:25  INFO logger - user increased the  product qty
+01 Apr 2021 17:07:31  INFO logger - user is shown item added to dashboard
+01 Apr 2021 17:07:31  INFO logger - user verify product details
+01 Apr 2021 17:07:42  INFO logger - actual Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $5,550.00]
+01 Apr 2021 17:07:42  INFO logger - expected Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $5,550.00]
+01 Apr 2021 17:07:42  INFO logger - user proceed to checkout
+01 Apr 2021 17:07:43  INFO logger - checkOutProduct() - to do the checkout for selected product
+01 Apr 2021 17:07:43  INFO logger - user enter Po number and proceed to checkout
+01 Apr 2021 17:07:50  INFO logger - user proceed to checkout
+01 Apr 2021 17:07:51  INFO logger - user choose the payment option
+01 Apr 2021 17:08:00  INFO logger - user validate the po number and submit order
+01 Apr 2021 17:08:12  INFO logger - user able to view order status
+01 Apr 2021 17:08:12  INFO logger - user ordered the product successfully
+01 Apr 2021 17:08:12  INFO logger - Shutting down driver
+01 Apr 2021 17:26:13  INFO logger - --------------------------------------
+01 Apr 2021 17:27:17  INFO logger - --------------------------------------
+01 Apr 2021 17:27:30  INFO logger - Android driver created
+01 Apr 2021 17:27:30  INFO logger - Shutting down driver
+01 Apr 2021 17:41:37  INFO logger - --------------------------------------
+01 Apr 2021 17:42:17  INFO logger - --------------------------------------
+01 Apr 2021 17:42:37  INFO logger - Android driver created
+01 Apr 2021 17:42:37  INFO logger - Shutting down driver
+02 Apr 2021 13:14:22  INFO logger - --------------------------------------
+02 Apr 2021 13:14:22  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 13:15:11  INFO logger - Android driver created
+02 Apr 2021 13:15:11  INFO logger - Shutting down driver
+02 Apr 2021 13:16:57  INFO logger - --------------------------------------
+02 Apr 2021 13:16:57  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 13:17:46  INFO logger - Android driver created
+02 Apr 2021 13:17:46  INFO logger - clearCheckoutCart() will clear the existing cart
+02 Apr 2021 13:17:46  INFO logger - Shutting down driver
+02 Apr 2021 13:19:52  INFO logger - --------------------------------------
+02 Apr 2021 13:19:52  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 13:20:46  INFO logger - Android driver created
+02 Apr 2021 13:20:46  INFO logger - clearCheckoutCart() will clear the existing cart
+02 Apr 2021 13:20:46  INFO logger - Shutting down driver
+02 Apr 2021 13:21:40  INFO logger - --------------------------------------
+02 Apr 2021 13:21:40  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 13:22:30  INFO logger - Android driver created
+02 Apr 2021 13:22:30  INFO logger - clearCheckoutCart() will clear the existing cart
+02 Apr 2021 13:22:30  INFO logger - Shutting down driver
+02 Apr 2021 13:22:31  INFO logger - --------------------------------------
+02 Apr 2021 13:22:31  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 13:42:10  INFO logger - --------------------------------------
+02 Apr 2021 13:43:36  INFO logger - --------------------------------------
+02 Apr 2021 13:44:19  INFO logger - --------------------------------------
+02 Apr 2021 13:44:19  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 13:45:07  INFO logger - Android driver created
+02 Apr 2021 13:45:08  INFO logger - clearCheckoutCart() will clear the existing cart
+02 Apr 2021 13:45:08  INFO logger - Shutting down driver
+02 Apr 2021 13:45:08  INFO logger - Running login test
+02 Apr 2021 13:45:08  INFO logger - Shutting down driver
+02 Apr 2021 13:50:13  INFO logger - --------------------------------------
+02 Apr 2021 13:50:13  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 13:50:47  INFO logger - Android driver created
+02 Apr 2021 13:50:47  INFO logger - Running login test
+02 Apr 2021 13:50:47  INFO logger - Shutting down driver
+02 Apr 2021 13:50:48  INFO logger - clearCheckoutCart() will clear the existing cart
+02 Apr 2021 13:50:48  INFO logger - Shutting down driver
+02 Apr 2021 13:53:56  INFO logger - --------------------------------------
+02 Apr 2021 13:53:56  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 13:54:45  INFO logger - Android driver created
+02 Apr 2021 13:54:45  INFO logger - Running login test
+02 Apr 2021 13:54:45  INFO logger - valueadsync104@outlook.com
+02 Apr 2021 13:54:45  INFO logger - Shutting down driver
+02 Apr 2021 13:54:46  INFO logger - clearCheckoutCart() will clear the existing cart
+02 Apr 2021 13:54:46  INFO logger - Shutting down driver
+02 Apr 2021 13:58:50  INFO logger - --------------------------------------
+02 Apr 2021 13:58:50  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 13:59:44  INFO logger - Android driver created
+02 Apr 2021 13:59:44  INFO logger - Running login test
+02 Apr 2021 13:59:44  INFO logger - value LennoxPros Logo
+02 Apr 2021 13:59:44  INFO logger - Shutting down driver
+02 Apr 2021 13:59:45  INFO logger - clearCheckoutCart() will clear the existing cart
+02 Apr 2021 13:59:45  INFO logger - Shutting down driver
+02 Apr 2021 14:05:14  INFO logger - --------------------------------------
+02 Apr 2021 14:05:14  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 14:06:07  INFO logger - Android driver created
+02 Apr 2021 14:06:07  INFO logger - Shutting down driver
+02 Apr 2021 14:06:47  INFO logger - --------------------------------------
+02 Apr 2021 14:06:47  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 14:07:20  INFO logger - Android driver created
+02 Apr 2021 14:07:20  INFO logger - Shutting down driver
+02 Apr 2021 14:08:11  INFO logger - --------------------------------------
+02 Apr 2021 14:08:11  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 14:09:05  INFO logger - Android driver created
+02 Apr 2021 14:09:05  INFO logger - Shutting down driver
+02 Apr 2021 14:10:23  INFO logger - --------------------------------------
+02 Apr 2021 14:10:23  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 14:11:19  INFO logger - --------------------------------------
+02 Apr 2021 14:11:19  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 14:13:43  INFO logger - Android driver created
+02 Apr 2021 14:13:43  INFO logger - Shutting down driver
+02 Apr 2021 14:13:44  INFO logger - --------------------------------------
+02 Apr 2021 14:13:44  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 14:14:35  INFO logger - --------------------------------------
+02 Apr 2021 14:14:35  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 14:16:58  INFO logger - Android driver created
+02 Apr 2021 14:16:58  INFO logger - --------------------------------------
+02 Apr 2021 14:16:58  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 14:19:41  INFO logger - --------------------------------------
+02 Apr 2021 14:19:41  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 14:21:40  INFO logger - Android driver created
+02 Apr 2021 14:21:40  INFO logger - --------------------------------------
+02 Apr 2021 14:21:40  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 15:53:57  INFO logger - --------------------------------------
+02 Apr 2021 15:53:57  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 15:58:32  INFO logger - --------------------------------------
+02 Apr 2021 15:58:32  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 15:59:08  INFO logger - Android Core logic class instantiated
+02 Apr 2021 15:59:08  INFO logger - Running login test
+02 Apr 2021 15:59:08  INFO logger - check if any alert present
+02 Apr 2021 15:59:15  INFO logger - Logo is displayed
+02 Apr 2021 15:59:15  INFO logger - user click on Sign In link
+02 Apr 2021 15:59:31  INFO logger - Login Successful
+02 Apr 2021 15:59:34  INFO logger - user clear the cart first
+02 Apr 2021 15:59:58  INFO logger - Cart Logo is displayed
+02 Apr 2021 15:59:59  INFO logger - cart is already empty
+02 Apr 2021 15:59:59  INFO logger - cart is empty now
+02 Apr 2021 15:59:59  INFO logger - user click on Menu Icon
+02 Apr 2021 16:00:09  INFO logger - user select commercial option from Menu
+02 Apr 2021 16:00:14  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+02 Apr 2021 16:02:23  INFO logger - --------------------------------------
+02 Apr 2021 16:02:23  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 16:03:32  INFO logger - Android Core logic class instantiated
+02 Apr 2021 16:03:32  INFO logger - Running login test
+02 Apr 2021 16:03:32  INFO logger - check if any alert present
+02 Apr 2021 16:03:40  INFO logger - Logo is displayed
+02 Apr 2021 16:03:40  INFO logger - user click on Sign In link
+02 Apr 2021 16:03:54  INFO logger - Login Successful
+02 Apr 2021 16:03:58  INFO logger - login successfull
+02 Apr 2021 16:03:58  INFO logger - Shutting down driver
+02 Apr 2021 16:07:57  INFO logger - --------------------------------------
+02 Apr 2021 16:08:37  INFO logger - --------------------------------------
+02 Apr 2021 16:08:55  INFO logger - Android driver created
+02 Apr 2021 16:08:55  INFO logger - Android Core logic class instantiated
+02 Apr 2021 16:08:55  INFO logger - Running login test
+02 Apr 2021 16:08:55  INFO logger - check if any alert present
+02 Apr 2021 16:09:04  INFO logger - Logo is displayed
+02 Apr 2021 16:09:04  INFO logger - user click on Sign In link
+02 Apr 2021 16:09:16  INFO logger - Login Successful
+02 Apr 2021 16:09:17  INFO logger - login successfull
+02 Apr 2021 16:09:17  INFO logger - user clear the cart first
+02 Apr 2021 16:09:34  INFO logger - Cart Logo is displayed
+02 Apr 2021 16:09:34  INFO logger - cart is already empty
+02 Apr 2021 16:09:34  INFO logger - cart is empty now
+02 Apr 2021 16:09:34  INFO logger - user click on Menu Icon
+02 Apr 2021 16:09:37  INFO logger - user select commercial option from Menu
+02 Apr 2021 16:09:38  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+02 Apr 2021 16:10:02  INFO logger - user is shown 14 results
+02 Apr 2021 16:10:03  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+02 Apr 2021 16:10:07  INFO logger - user clicked to modify store pickup
+02 Apr 2021 16:10:15  INFO logger - user select 120 miles
+02 Apr 2021 16:10:19  INFO logger - click On Go button and unselect default store
+02 Apr 2021 16:10:20  INFO logger - user scroll and check if View More is avaialble
+02 Apr 2021 16:10:27  INFO logger - user scroll and search for Grand Prairie, and select the store if not select
+02 Apr 2021 16:10:31  INFO logger - user click on Done Button
+02 Apr 2021 16:10:47  INFO logger - user is on product list page
+02 Apr 2021 16:10:47  INFO logger - storing product details to verify on next screen
+02 Apr 2021 16:11:19  INFO logger - user increased the  product qty
+02 Apr 2021 16:11:46  INFO logger - user is shown item added to dashboard
+02 Apr 2021 16:11:46  INFO logger - user verify product details
+02 Apr 2021 16:12:06  INFO logger - actual Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $5,550.00]
+02 Apr 2021 16:12:06  INFO logger - expected Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $5,550.00]
+02 Apr 2021 16:12:06  INFO logger - user proceed to checkout
+02 Apr 2021 16:12:07  INFO logger - user will review the product and do the payment
+02 Apr 2021 16:12:07  INFO logger - user enter Po number and proceed to checkout
+02 Apr 2021 16:12:13  INFO logger - user proceed to checkout
+02 Apr 2021 16:12:14  INFO logger - user choose the payment option
+02 Apr 2021 16:12:23  INFO logger - user validate the po number and submit order
+02 Apr 2021 16:14:02  INFO logger - user able to view order status
+02 Apr 2021 16:14:03  INFO logger - user successfully ordered the product
+02 Apr 2021 16:14:03  INFO logger - Shutting down driver
+02 Apr 2021 16:15:05  INFO logger - --------------------------------------
+02 Apr 2021 16:17:18  INFO logger - --------------------------------------
+02 Apr 2021 16:17:34  INFO logger - Android driver created
+02 Apr 2021 16:17:34  INFO logger - Android Core logic class instantiated
+02 Apr 2021 16:17:34  INFO logger - Running login test
+02 Apr 2021 16:17:34  INFO logger - check if any alert present
+02 Apr 2021 16:17:40  INFO logger - Logo is displayed
+02 Apr 2021 16:17:40  INFO logger - user click on Sign In link
+02 Apr 2021 16:17:52  INFO logger - Login Successful
+02 Apr 2021 16:17:53  INFO logger - login successfull
+02 Apr 2021 16:17:53  INFO logger - user clear the cart first
+02 Apr 2021 16:17:59  INFO logger - Cart Logo is displayed
+02 Apr 2021 16:17:59  INFO logger - cart is already empty
+02 Apr 2021 16:17:59  INFO logger - cart is empty now
+02 Apr 2021 16:18:00  INFO logger - user click on Menu Icon
+02 Apr 2021 16:18:06  INFO logger - user select commercial option from Menu
+02 Apr 2021 16:18:08  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+02 Apr 2021 16:18:25  INFO logger - user is shown 14 results
+02 Apr 2021 16:18:26  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+02 Apr 2021 16:18:27  INFO logger - user clicked to modify store pickup
+02 Apr 2021 16:18:32  INFO logger - user select 120 miles
+02 Apr 2021 16:18:33  INFO logger - click On Go button and unselect default store
+02 Apr 2021 16:18:35  INFO logger - user scroll and check if View More is avaialble
+02 Apr 2021 16:18:40  INFO logger - user scroll and search for Grand Prairie, and select the store if not select
+02 Apr 2021 16:18:41  INFO logger - user click on Done Button
+02 Apr 2021 16:18:56  INFO logger - user is on product list page
+02 Apr 2021 16:18:56  INFO logger - storing product details to verify on next screen
+02 Apr 2021 16:20:19  INFO logger - user increased the  product qty
+02 Apr 2021 16:20:36  INFO logger - user is shown item added to dashboard
+02 Apr 2021 16:20:36  INFO logger - user verify product details
+02 Apr 2021 16:20:43  INFO logger - actual Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $5,550.00]
+02 Apr 2021 16:20:43  INFO logger - expected Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $5,550.00]
+02 Apr 2021 16:20:43  INFO logger - user proceed to checkout
+02 Apr 2021 16:20:45  INFO logger - user will review the product and do the payment
+02 Apr 2021 16:20:45  INFO logger - user enter Po number and proceed to checkout
+02 Apr 2021 16:20:52  INFO logger - user proceed to checkout
+02 Apr 2021 16:20:53  INFO logger - user choose the payment option
+02 Apr 2021 16:21:02  INFO logger - user validate the po number and submit order
+02 Apr 2021 16:21:36  INFO logger - user able to view order status
+02 Apr 2021 16:21:37  INFO logger - user successfully ordered the product
+02 Apr 2021 16:21:37  INFO logger - Shutting down driver
+02 Apr 2021 16:40:35  INFO logger - --------------------------------------
+02 Apr 2021 16:41:16  INFO logger - --------------------------------------
+02 Apr 2021 16:41:31  INFO logger - Android driver created
+02 Apr 2021 16:41:31  INFO logger - Android Core logic class instantiated
+02 Apr 2021 16:41:32  INFO logger - check if any alert present
+02 Apr 2021 16:41:38  INFO logger - Logo is displayed
+02 Apr 2021 16:41:38  INFO logger - user click on Sign In link
+02 Apr 2021 16:41:48  INFO logger - Login Successful
+02 Apr 2021 16:41:49  INFO logger - user clear the cart first
+02 Apr 2021 16:42:01  INFO logger - Cart Logo is displayed
+02 Apr 2021 16:42:01  INFO logger - cart is already empty
+02 Apr 2021 16:42:01  INFO logger - cart is empty now
+02 Apr 2021 16:42:02  INFO logger - user click on Menu Icon
+02 Apr 2021 16:42:06  INFO logger - user select commercial option from Menu
+02 Apr 2021 16:42:07  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+02 Apr 2021 16:42:26  INFO logger - user is shown 14 results
+02 Apr 2021 16:42:27  INFO logger - Shutting down driver
+02 Apr 2021 16:51:14  INFO logger - --------------------------------------
+02 Apr 2021 16:52:19  INFO logger - --------------------------------------
+02 Apr 2021 16:52:31  INFO logger - Android driver created
+02 Apr 2021 16:52:31  INFO logger - Android Core logic class instantiated
+02 Apr 2021 16:52:32  INFO logger - check if any alert present
+02 Apr 2021 16:52:40  INFO logger - Logo is displayed
+02 Apr 2021 16:52:40  INFO logger - user click on Sign In link
+02 Apr 2021 16:52:49  INFO logger - Login Successful
+02 Apr 2021 16:52:50  INFO logger - user clear the cart first
+02 Apr 2021 16:53:02  INFO logger - Cart Logo is displayed
+02 Apr 2021 16:53:02  INFO logger - cart is already empty
+02 Apr 2021 16:53:02  INFO logger - cart is empty now
+02 Apr 2021 16:53:03  INFO logger - user click on Menu Icon
+02 Apr 2021 16:53:07  INFO logger - user select commercial option from Menu
+02 Apr 2021 16:53:07  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+02 Apr 2021 16:53:29  INFO logger - user is shown 14 results
+02 Apr 2021 16:53:29  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+02 Apr 2021 16:53:31  INFO logger - user clicked to modify store pickup
+02 Apr 2021 16:53:37  INFO logger - user select 120 miles
+02 Apr 2021 16:53:41  INFO logger - click On Go button and unselect default store
+02 Apr 2021 16:53:41  INFO logger - user scroll and check if View More is avaialble
+02 Apr 2021 16:53:47  INFO logger - user scroll and search for Grand Prairie, and select the store if not select
+02 Apr 2021 16:53:48  INFO logger - user click on Done Button
+02 Apr 2021 16:54:10  INFO logger - user is on product list page
+02 Apr 2021 16:54:10  INFO logger - storing product details to verify on next screen
+02 Apr 2021 16:54:39  INFO logger - user increased the  product qty
+02 Apr 2021 16:54:46  INFO logger - user is shown item added to dashboard
+02 Apr 2021 16:54:46  INFO logger - user verify product details
+02 Apr 2021 16:54:47  INFO logger - actual Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $5,550.00]
+02 Apr 2021 16:54:47  INFO logger - expected Product Details[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $5,550.00]
+02 Apr 2021 16:54:47  INFO logger - user proceed to checkout
+02 Apr 2021 16:54:48  INFO logger - user enter Po number and proceed to checkout
+02 Apr 2021 16:54:54  INFO logger - user proceed to checkout
+02 Apr 2021 16:54:55  INFO logger - user choose the payment option
+02 Apr 2021 16:55:04  INFO logger - user validate the po number and submit order
+02 Apr 2021 16:55:19  INFO logger - user able to view order status
+02 Apr 2021 16:55:19  INFO logger - Shutting down driver
+02 Apr 2021 17:14:59  INFO logger - --------------------------------------
+02 Apr 2021 17:14:59  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 17:15:53  INFO logger - Android Core logic class instantiated
+02 Apr 2021 17:15:53  INFO logger - check if any alert present
+02 Apr 2021 17:16:01  INFO logger - Logo is displayed
+02 Apr 2021 17:16:01  INFO logger - user click on Sign In link
+02 Apr 2021 17:16:16  INFO logger - Login Successful
+02 Apr 2021 17:16:19  INFO logger - user clear the cart first
+02 Apr 2021 17:16:31  INFO logger - Cart Logo is displayed
+02 Apr 2021 17:16:32  INFO logger - cart is already empty
+02 Apr 2021 17:16:32  INFO logger - cart is empty now
+02 Apr 2021 17:16:36  INFO logger - user click on Menu Icon
+02 Apr 2021 17:16:43  INFO logger - user select commercial option from Menu
+02 Apr 2021 17:16:47  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+02 Apr 2021 17:17:20  INFO logger - user is shown 14 results
+02 Apr 2021 17:17:23  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+02 Apr 2021 17:17:28  INFO logger - user clicked to modify store pickup
+02 Apr 2021 17:17:38  INFO logger - user select 120 miles
+02 Apr 2021 17:17:42  INFO logger - click On Go button and unselect default store
+02 Apr 2021 17:17:46  INFO logger - user scroll and check if View More is avaialble
+02 Apr 2021 17:17:56  INFO logger - user scroll and search for Grand Prairie, and select the store if not select
+02 Apr 2021 17:17:59  INFO logger - user click on Done Button
+02 Apr 2021 17:18:42  INFO logger - user is on product list page
+02 Apr 2021 17:18:42  INFO logger - storing product details to verify on next screen
+02 Apr 2021 17:19:26  INFO logger - Shutting down driver
+02 Apr 2021 17:36:46  INFO logger - --------------------------------------
+02 Apr 2021 17:36:46  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 17:37:40  INFO logger - Android Core logic class instantiated
+02 Apr 2021 17:37:41  INFO logger - check if any alert present
+02 Apr 2021 17:37:49  INFO logger - Logo is displayed
+02 Apr 2021 17:37:49  INFO logger - user click on Sign In link
+02 Apr 2021 17:38:04  INFO logger - Login Successful
+02 Apr 2021 17:38:08  INFO logger - user clear the cart first
+02 Apr 2021 17:38:22  INFO logger - Cart Logo is displayed
+02 Apr 2021 17:38:24  INFO logger - cart is already empty
+02 Apr 2021 17:38:24  INFO logger - cart is empty now
+02 Apr 2021 17:38:32  INFO logger - user click on Menu Icon
+02 Apr 2021 17:38:38  INFO logger - Shutting down driver
+02 Apr 2021 17:55:40  INFO logger - --------------------------------------
+02 Apr 2021 17:55:40  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 17:56:29  INFO logger - Android Core logic class instantiated
+02 Apr 2021 17:56:30  INFO logger - check if any alert present
+02 Apr 2021 17:56:39  INFO logger - Logo is displayed
+02 Apr 2021 17:56:39  INFO logger - user click on Sign In link
+02 Apr 2021 17:56:54  INFO logger - Login Successful
+02 Apr 2021 17:56:57  INFO logger - Shutting down driver
+02 Apr 2021 18:01:06  INFO logger - --------------------------------------
+02 Apr 2021 18:01:06  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 18:02:00  INFO logger - Android Core logic class instantiated
+02 Apr 2021 18:02:00  INFO logger - check if any alert present
+02 Apr 2021 18:02:09  INFO logger - Logo is displayed
+02 Apr 2021 18:02:09  INFO logger - user click on Sign In link
+02 Apr 2021 18:02:25  INFO logger - Login Successful
+02 Apr 2021 18:02:29  INFO logger - Shutting down driver
+02 Apr 2021 18:03:48  INFO logger - --------------------------------------
+02 Apr 2021 18:03:48  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 18:04:37  INFO logger - Android Core logic class instantiated
+02 Apr 2021 18:04:37  INFO logger - check if any alert present
+02 Apr 2021 18:04:45  INFO logger - Logo is displayed
+02 Apr 2021 18:04:45  INFO logger - user click on Sign In link
+02 Apr 2021 18:05:01  INFO logger - Login Successful
+02 Apr 2021 18:05:11  INFO logger - Shutting down driver
+02 Apr 2021 18:43:40  INFO logger - --------------------------------------
+02 Apr 2021 18:44:28  INFO logger - --------------------------------------
+02 Apr 2021 18:44:28  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 18:45:22  INFO logger - Android Core logic class instantiated
+02 Apr 2021 18:45:22  INFO logger - check if any alert present
+02 Apr 2021 18:45:30  INFO logger - Logo is displayed
+02 Apr 2021 18:45:30  INFO logger - user click on Sign In link
+02 Apr 2021 18:45:45  INFO logger - Login Successful
+02 Apr 2021 18:45:51  INFO logger - Shutting down driver
+02 Apr 2021 18:50:11  INFO logger - --------------------------------------
+02 Apr 2021 18:50:11  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 19:00:14  INFO logger - --------------------------------------
+02 Apr 2021 19:04:25  INFO logger - --------------------------------------
+02 Apr 2021 19:04:44  INFO logger - Android driver created
+02 Apr 2021 19:04:44  INFO logger - Android Core logic class instantiated
+02 Apr 2021 19:08:21  INFO logger - --------------------------------------
+02 Apr 2021 19:09:32  INFO logger - --------------------------------------
+02 Apr 2021 19:09:54  INFO logger - Android driver created
+02 Apr 2021 19:09:55  INFO logger - Android Core logic class instantiated
+02 Apr 2021 19:09:58  INFO logger - check if any alert present
+02 Apr 2021 19:10:04  INFO logger - Logo is displayed
+02 Apr 2021 19:10:04  INFO logger - user click on Sign In link
+02 Apr 2021 19:10:18  INFO logger - Login Successful
+02 Apr 2021 19:10:19  INFO logger - user clear the cart first
+02 Apr 2021 19:10:25  INFO logger - Cart Logo is displayed
+02 Apr 2021 19:10:28  INFO logger - cart is already empty
+02 Apr 2021 19:10:28  INFO logger - cart is empty now
+02 Apr 2021 19:19:28  INFO logger - --------------------------------------
+02 Apr 2021 19:20:38  INFO logger - --------------------------------------
+02 Apr 2021 19:20:55  INFO logger - Android driver created
+02 Apr 2021 19:20:55  INFO logger - Android Core logic class instantiated
+02 Apr 2021 19:20:56  INFO logger - check if any alert present
+02 Apr 2021 19:21:03  INFO logger - Logo is displayed
+02 Apr 2021 19:21:03  INFO logger - user click on Sign In link
+02 Apr 2021 19:21:16  INFO logger - Login Successful
+02 Apr 2021 19:21:17  INFO logger - user clear the cart first
+02 Apr 2021 19:21:21  INFO logger - Cart Logo is displayed
+02 Apr 2021 19:21:24  INFO logger - cart is already empty
+02 Apr 2021 19:21:24  INFO logger - cart is empty now
+02 Apr 2021 19:21:24  INFO logger - user click on Menu Icon
+02 Apr 2021 19:21:27  INFO logger - user select commercial option from Menu
+02 Apr 2021 19:21:31  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+02 Apr 2021 19:21:56  INFO logger - user is shown 14 results
+02 Apr 2021 19:21:56  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+02 Apr 2021 19:21:57  INFO logger - user clicked to modify store pickup
+02 Apr 2021 19:22:03  INFO logger - user select 120 miles
+02 Apr 2021 19:22:06  INFO logger - click On Go button and unselect default store
+02 Apr 2021 19:22:09  INFO logger - user scroll and check if View More is avaialble
+02 Apr 2021 19:22:17  INFO logger - Shutting down driver
+02 Apr 2021 19:26:56  INFO logger - --------------------------------------
+02 Apr 2021 19:26:56  INFO logger - session with saucelab started: https://ishika1235:5db71aae-5dd3-4eba-96eb-8c13ae479767@ondemand.us-west-1.saucelabs.com:443/wd/hub
+02 Apr 2021 19:27:45  INFO logger - Android Core logic class instantiated
+02 Apr 2021 19:27:45  INFO logger - check if any alert present
+02 Apr 2021 19:27:52  INFO logger - Logo is displayed
+02 Apr 2021 19:27:52  INFO logger - user click on Sign In link
+02 Apr 2021 19:28:07  INFO logger - Login Successful
+02 Apr 2021 19:28:09  INFO logger - user clear the cart first
+02 Apr 2021 19:28:20  INFO logger - Cart Logo is displayed
+02 Apr 2021 19:28:24  INFO logger - cart is already empty
+02 Apr 2021 19:28:24  INFO logger - cart is empty now
+02 Apr 2021 19:28:24  INFO logger - user click on Menu Icon
+02 Apr 2021 19:28:38  INFO logger - user select commercial option from Menu
+02 Apr 2021 19:28:45  INFO logger - user scroll and select Mini-Split Single Zone Heat Pumps from the commercial list
+02 Apr 2021 19:29:23  INFO logger - user is shown 14 results
+02 Apr 2021 19:29:23  INFO logger - user check default deliver to 45133-1102 and pickup Cincinnati
+02 Apr 2021 19:29:28  INFO logger - user clicked to modify store pickup
+02 Apr 2021 19:29:40  INFO logger - user select 120 miles
+02 Apr 2021 19:29:44  INFO logger - click On Go button and unselect default store
+02 Apr 2021 19:29:49  INFO logger - user scroll and check if View More is avaialble
+02 Apr 2021 19:30:02  INFO logger - user scroll and search for Grand Prairie, and select the store if not select
+02 Apr 2021 19:30:05  INFO logger - user click on Done Button
+02 Apr 2021 19:30:56  INFO logger - user is on product list page
+02 Apr 2021 19:30:56  INFO logger - storing product details to verify on next screen

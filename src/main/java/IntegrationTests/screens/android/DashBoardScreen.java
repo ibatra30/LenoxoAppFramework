@@ -52,8 +52,11 @@ public class DashBoardScreen extends GenericMethods {
     @FindBy(xpath = "//android.widget.EditText[@resource-id='postal-code-store']")
     WebElement txt_PostalCode;
 
-    @FindBy(xpath = "//android.view.View[@resource-id='store-radius']")
+    @FindBy(xpath = "//android.widget.Spinner[@resource-id='store-radius']")
     WebElement txt_Radius;
+
+    @FindBy(xpath = "//android.view.View[@resource-id='store-radius']")
+    WebElement txt_Radius1;
 
     @FindBy(xpath = "//android.widget.CheckedTextView[@text='Within 120 miles']")
     WebElement txt_120Miles;
@@ -82,7 +85,7 @@ public class DashBoardScreen extends GenericMethods {
     @FindBy(xpath = "//android.view.View[3]/android.view.View/android.view.View[3]")
     WebElement sucessMsg;
 
-    @FindBy(xpath = "//android.view.View[3]/android.view.View/android.view.View[5]")
+    @FindBy(xpath = "*//android.view.View[3]/android.view.View/android.view.View[5]")
     WebElement actualProductName;
 
     @FindBy(xpath = "//android.view.View[3]/android.view.View/android.view.View[6]")
@@ -139,8 +142,18 @@ public class DashBoardScreen extends GenericMethods {
     }
 
     public void userSelectRadius() {
-        this.WaitTillVisible(txt_Radius);
-        this.click(txt_Radius);
+        WaitTime(50);
+       try {
+           if (txt_Radius1.isDisplayed()) {
+               this.click(txt_Radius1);
+           } else {
+               this.click(txt_Radius);
+           }
+       }catch (Exception e){
+           this.click(txt_Radius);
+           Log.info("element not visible to user");
+       }
+
     }
 
     public void select120miles(String miles) {
@@ -175,7 +188,9 @@ public class DashBoardScreen extends GenericMethods {
     }
 
     public void addQty(String number) {
-        this.scrollDownNEnter(txt_qty,number);
+        //this.scrollDownNEnter(txt_qty,number);
+        this.scrollDown(3,500);
+        this.ClickNEnter(txt_qty,number);
     }
 
     public void ClickAddToCart() {
@@ -189,6 +204,7 @@ public class DashBoardScreen extends GenericMethods {
 
     public void verifyProductDetails(String productName, String CatNo, String ModelNo, String price) {
         List<String> actualProductDetails = new ArrayList<String>();
+        this.WaitTillVisible(actualProductName);
         actualProductDetails.add(actualProductName.getText());
         actualProductDetails.add(actualCatNo.getText());
         actualProductDetails.add(actualModelNo.getText());

@@ -1,8 +1,7 @@
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="LenoxoAppFramework">
-    <parameter name="os" value="${os}"/>
-
-    <test name="lenoxo-App-Test">
+<suite name="Lenoxo suite">
+    <test thread-count="5"
+          name="Lenoxo app">`
+        <parameter name="os" value="SauceLabAndroid"/>
         <packages>
             <package name="tests.testngTests"/>
         </packages>

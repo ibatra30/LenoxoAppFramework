@@ -20,31 +20,24 @@ public class LoginScreen extends GenericMethods {
     }
 
     // Locators on the login screen
-    @FindBy(xpath = "//android.widget.Image[@text='LennoxPros Logo']")
+    @FindBy(xpath = "//XCUIElementTypeImage[@name=\"LennoxPros Logo\"]")
     WebElement logo_Lennox;
 
-    @FindBy(xpath = "//android.view.View[@content-desc='Please sign in or create an account']")
+    @FindBy(xpath = "//XCUIElementTypeStaticText[@name=\"Please sign in or create an account\"]")
     WebElement link_Login;
 
-    @FindBy(xpath = "//android.view.View[@text='User ID (Email)']")
+    @FindBy(xpath = "//XCUIElementTypeStaticText[@name=\"User ID (Email)\"]")
     WebElement txt_UserName;
 
-    @FindBy(xpath = "//android.widget.EditText[@resource-id='j_username']")
+    @FindBy(xpath = "//XCUIElementTypeOther[@name=\"Login | LennoxPROs.com\"]/XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeTextField")
     WebElement editbox_UserName;
 
-    @FindBy(xpath = "//android.widget.EditText[@resource-id='j_password']")
+    @FindBy(className = "XCUIElementTypeSecureTextField")
     WebElement editbox_Password;
 
-    @FindBy(xpath = "//android.widget.Button[@resource-id='loginSubmit']")
+    @FindBy(xpath = "//XCUIElementTypeButton[@name=\"Sign In\"]")
     WebElement btn_SignIn;
 
-    public void alertHandle() {
-        if (isAlertPresent()) {
-            dismissAlert();
-        } else {
-            Log.info("error handling in alert");
-        }
-    }
 
     public void checkIfLogoIsVisible(String logo) {
         try {

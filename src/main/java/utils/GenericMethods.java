@@ -25,7 +25,7 @@ public class GenericMethods {
     private WebDriver driver;
 
     // common timeout for all tests can be set here
-    public final int timeOut = 60;
+    public final int timeOut = 150;
 
     public GenericMethods(WebDriver driver) {
         this.driver = driver;
@@ -77,8 +77,12 @@ public class GenericMethods {
         }
     }
 
+    public WebDriverWait WaitTime(long timeOutInSeconds) {
+        return  new WebDriverWait(driver, timeOutInSeconds);
+    }
+
     public void WaitTillVisible(WebElement element) {
-        new WebDriverWait(driver, 100).until(ExpectedConditions.visibilityOf(element));
+        new WebDriverWait(driver, 200).until(ExpectedConditions.visibilityOf(element));
     }
 
     public void enter(WebElement element, String input) {
@@ -213,8 +217,9 @@ public class GenericMethods {
     public void scrollDownNClick(WebElement element) {
         int retry = 0;
         {
-            while (retry <= 7) {
+            while (retry <= 10) {
                 try {
+                    WaitTime(60);
                     element.click();
                     break;
                 } catch (org.openqa.selenium.NoSuchElementException e) {
@@ -238,6 +243,8 @@ public class GenericMethods {
         {
             while (retry <= 7) {
                 try {
+                    WaitTime(60);
+                    this.click(element);
                     element.sendKeys(text);
                     hideKeyboard();
                     break;
@@ -254,6 +261,19 @@ public class GenericMethods {
                     retry++;
                 }
             }
+        }
+    }
+
+
+    public void ClickNEnter(WebElement element,String text){
+        try{
+            WaitTime(60);
+            this.click(element);
+            element.sendKeys(text);
+            hideKeyboard();
+        }
+        catch (org.openqa.selenium.NoSuchElementException e){
+            throw e;
         }
     }
 
@@ -480,6 +500,7 @@ public class GenericMethods {
      */
 
     public void click(WebElement elementByName) {
+        WaitTillVisible(elementByName);
         elementByName.click();
     }
 
