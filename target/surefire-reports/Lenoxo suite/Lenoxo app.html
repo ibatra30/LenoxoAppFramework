@@ -57,9 +57,9 @@ function toggleAllBoxes() {
 <tr>
 <td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Fri Apr 02 19:20:38 IST 2021</td>
+<td>Started on:</td><td>Mon Apr 05 11:28:04 IST 2021</td>
 </tr>
-<tr><td>Total time:</td><td>99 seconds (99698 ms)</td>
+<tr><td>Total time:</td><td>224 seconds (224618 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -75,54 +75,58 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='tests.testngTests.LennoxTest.LoginFlow()'><b>LoginFlow</b><br>Test class: tests.testngTests.LennoxTest<br>Parameters: null, null, {"postalCode":"75080","price=Price":"Price: $5,550.00","CatNo":"CAT # 15U57","modelNo":"MODEL # MPB009S4S-1L","userName":"adsync104@outlook.com","productName":"Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L","miles":"Within 120 miles","password":"Community14","totalresults":"14 results","defaultPickup":"Cincinnati","qtyNo":"6","storeName":"Grand Prairie","defaultDeliverTo":"45133-1102","poNumber":"123455678","heaterProduct":"Mini-Split Single Zone Heat Pumps"}</td>
-<td><div><pre>org.openqa.selenium.InvalidElementStateException: Swipe action cannot be performed
+<td title='tests.testngTests.LennoxTest.LennoxHeaterProductCheckoutTest()'><b>LennoxHeaterProductCheckoutTest</b><br>Test class: tests.testngTests.LennoxTest<br>Parameters: adsync104@outlook.com, Community14, LennoxPros Logo, 14 results, Within 120 miles, Mini-Split Single Zone Heat Pumps, 75080, 45133-1102, 6, 123455678, Grand Prairie, Cincinnati, Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L, CAT # 15U57, MODEL # MPB009S4S-1L, Price: $5,550.00</td>
+<td><div><pre>org.openqa.selenium.WebDriverException: &lt;html&gt;&lt;body&gt;&lt;h1&gt;504 Gateway Time-out&lt;/h1&gt;
+The server didn&apos;t respond in time.
+&lt;/body&gt;&lt;/html&gt;
+Command duration or timeout: 180.34 seconds
 Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;DESKTOP-7IDVFK7&apos;, ip: &apos;192.168.29.143&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_151&apos;
+System info: host: &apos;DESKTOP-7IDVFK7&apos;, ip: &apos;192.168.29.144&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_151&apos;
 Driver info: io.appium.java_client.android.AndroidDriver
-Capabilities {app: F:\LennoxAppFramework\src\m..., appActivity: crc647cb4db12adeb0334.Splas..., appPackage: com.lennox.DaveNet, automationName: UiAutomator2, databaseEnabled: false, desired: {app: F:\LennoxAppFramework\src\m..., appActivity: crc647cb4db12adeb0334.Splas..., appPackage: com.lennox.DaveNet, automationName: UiAutomator2, deviceName: OnePlus8_IND, noReset: false, platformName: android, platformVersion: 11.0}, deviceApiLevel: 30, deviceManufacturer: OnePlus, deviceModel: IN2011, deviceName: 8c0e4216, deviceScreenDensity: 450, deviceScreenSize: 1080x2400, deviceUDID: 8c0e4216, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: false, pixelRatio: 2.8125, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 104, takesScreenshot: true, viewportRect: {height: 2148, left: 0, top: 104, width: 1080}, warnings: {}, webStorageEnabled: false}
-Session ID: 1b701cb1-05a7-484b-903f-278a60b14125
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:239)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+Capabilities {app: /tmp/tmpckY0nq/aos.apk, appActivity: crc647cb4db12adeb0334.Splas..., appPackage: com.lennox.DaveNet, autoAcceptAlerts: true, automationName: UiAutomator2, databaseEnabled: false, desired: {app: /tmp/tmpckY0nq/aos.apk, appActivity: crc647cb4db12adeb0334.Splas..., appPackage: com.lennox.DaveNet, autoAcceptAlerts: true, automationName: UiAutomator2, deviceName: Samsung Galaxy Tab A 10 Goo..., eventTimings: true, maxTypingFrequency: 8, newCommandTimeout: 0, noReset: false, noSign: true, orientation: PORTRAIT, platformName: Android, platformVersion: 8.0, proxy: {proxyAutoconfigUrl: http://127.0.0.1:19876/pac.js, proxyType: PAC}, udid: emulator-5554, webdriver.remote.quietExceptions: false}, deviceManufacturer: unknown, deviceModel: Android SDK built for x86_64, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 1200x1920, deviceUDID: emulator-5554, eventTimings: true, hasMetadata: true, javascriptEnabled: true, locationContextEnabled: false, maxTypingFrequency: 8, networkConnectionEnabled: true, newCommandTimeout: 0, noReset: false, noSign: true, orientation: PORTRAIT, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, proxy: Proxy(pac: http://127.0.0.1..., statBarHeight: 36, takesScreenshot: true, udid: emulator-5554, viewportRect: {height: 1812, left: 0, top: 36, width: 1200}, warnings: {}, webStorageEnabled: false, webdriver.remote.quietExceptions: false, webdriver.remote.sessionid: 55c182f8dad7485fb2683bc3a9c...}
+Session ID: 55c182f8dad7485fb2683bc3a9c6e453
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:586)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:45)
 	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
 	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
-	at io.appium.java_client.PerformsTouchActions.performTouchAction(PerformsTouchActions.java:41)
-	at io.appium.java_client.TouchAction.perform(TouchAction.java:187)
-	at utils.GenericMethods.scrollDownNClick(GenericMethods.java:234)
-	at IntegrationTests.screens.android.DashBoardScreen.checkViewMoreBtn(DashBoardScreen.java:170)
-	at IntegrationTests.coreLogic.android.AndroidCoreLogic.userChangeTheStorePickup(AndroidCoreLogic.java:80)
-	at tests.testngTests.LennoxTest.LoginFlow(LennoxTest.java:97)
-... Removed 32 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1215951090", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1215951090'><pre>org.openqa.selenium.InvalidElementStateException: Swipe action cannot be performed
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator.alert(RemoteWebDriver.java:932)
+	at org.openqa.selenium.support.ui.ExpectedConditions$28.apply(ExpectedConditions.java:806)
+	at org.openqa.selenium.support.ui.ExpectedConditions$28.apply(ExpectedConditions.java:802)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	at utils.GenericMethods.isAlertPresent(GenericMethods.java:182)
+	at IntegrationTests.screens.android.LoginScreen.alertHandle(LoginScreen.java:43)
+	at IntegrationTests.coreLogic.android.AndroidCoreLogic.verifyLoginFlow(AndroidCoreLogic.java:33)
+	at tests.testngTests.LennoxTest.LennoxHeaterProductCheckoutTest(LennoxTest.java:73)
+... Removed 32 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace197491520", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace197491520'><pre>org.openqa.selenium.WebDriverException: &lt;html&gt;&lt;body&gt;&lt;h1&gt;504 Gateway Time-out&lt;/h1&gt;
+The server didn&apos;t respond in time.
+&lt;/body&gt;&lt;/html&gt;
+Command duration or timeout: 180.34 seconds
 Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;DESKTOP-7IDVFK7&apos;, ip: &apos;192.168.29.143&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_151&apos;
+System info: host: &apos;DESKTOP-7IDVFK7&apos;, ip: &apos;192.168.29.144&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_151&apos;
 Driver info: io.appium.java_client.android.AndroidDriver
-Capabilities {app: F:\LennoxAppFramework\src\m..., appActivity: crc647cb4db12adeb0334.Splas..., appPackage: com.lennox.DaveNet, automationName: UiAutomator2, databaseEnabled: false, desired: {app: F:\LennoxAppFramework\src\m..., appActivity: crc647cb4db12adeb0334.Splas..., appPackage: com.lennox.DaveNet, automationName: UiAutomator2, deviceName: OnePlus8_IND, noReset: false, platformName: android, platformVersion: 11.0}, deviceApiLevel: 30, deviceManufacturer: OnePlus, deviceModel: IN2011, deviceName: 8c0e4216, deviceScreenDensity: 450, deviceScreenSize: 1080x2400, deviceUDID: 8c0e4216, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: false, pixelRatio: 2.8125, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 104, takesScreenshot: true, viewportRect: {height: 2148, left: 0, top: 104, width: 1080}, warnings: {}, webStorageEnabled: false}
-Session ID: 1b701cb1-05a7-484b-903f-278a60b14125
+Capabilities {app: /tmp/tmpckY0nq/aos.apk, appActivity: crc647cb4db12adeb0334.Splas..., appPackage: com.lennox.DaveNet, autoAcceptAlerts: true, automationName: UiAutomator2, databaseEnabled: false, desired: {app: /tmp/tmpckY0nq/aos.apk, appActivity: crc647cb4db12adeb0334.Splas..., appPackage: com.lennox.DaveNet, autoAcceptAlerts: true, automationName: UiAutomator2, deviceName: Samsung Galaxy Tab A 10 Goo..., eventTimings: true, maxTypingFrequency: 8, newCommandTimeout: 0, noReset: false, noSign: true, orientation: PORTRAIT, platformName: Android, platformVersion: 8.0, proxy: {proxyAutoconfigUrl: http://127.0.0.1:19876/pac.js, proxyType: PAC}, udid: emulator-5554, webdriver.remote.quietExceptions: false}, deviceManufacturer: unknown, deviceModel: Android SDK built for x86_64, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 1200x1920, deviceUDID: emulator-5554, eventTimings: true, hasMetadata: true, javascriptEnabled: true, locationContextEnabled: false, maxTypingFrequency: 8, networkConnectionEnabled: true, newCommandTimeout: 0, noReset: false, noSign: true, orientation: PORTRAIT, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, proxy: Proxy(pac: http://127.0.0.1..., statBarHeight: 36, takesScreenshot: true, udid: emulator-5554, viewportRect: {height: 1812, left: 0, top: 36, width: 1200}, warnings: {}, webStorageEnabled: false, webdriver.remote.quietExceptions: false, webdriver.remote.sessionid: 55c182f8dad7485fb2683bc3a9c...}
+Session ID: 55c182f8dad7485fb2683bc3a9c6e453
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:239)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:586)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:45)
 	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
 	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
-	at io.appium.java_client.PerformsTouchActions.performTouchAction(PerformsTouchActions.java:41)
-	at io.appium.java_client.TouchAction.perform(TouchAction.java:187)
-	at utils.GenericMethods.scrollDownNClick(GenericMethods.java:234)
-	at IntegrationTests.screens.android.DashBoardScreen.checkViewMoreBtn(DashBoardScreen.java:170)
-	at IntegrationTests.coreLogic.android.AndroidCoreLogic.userChangeTheStorePickup(AndroidCoreLogic.java:80)
-	at tests.testngTests.LennoxTest.LoginFlow(LennoxTest.java:97)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator.alert(RemoteWebDriver.java:932)
+	at org.openqa.selenium.support.ui.ExpectedConditions$28.apply(ExpectedConditions.java:806)
+	at org.openqa.selenium.support.ui.ExpectedConditions$28.apply(ExpectedConditions.java:802)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	at utils.GenericMethods.isAlertPresent(GenericMethods.java:182)
+	at IntegrationTests.screens.android.LoginScreen.alertHandle(LoginScreen.java:43)
+	at IntegrationTests.coreLogic.android.AndroidCoreLogic.verifyLoginFlow(AndroidCoreLogic.java:33)
+	at tests.testngTests.LennoxTest.LennoxHeaterProductCheckoutTest(LennoxTest.java:73)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -152,8 +156,8 @@ Session ID: 1b701cb1-05a7-484b-903f-278a60b14125
 	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
 </pre></div></td>
-<td>80</td>
-<td>tests.testngTests.LennoxTest@48503868</td></tr>
+<td>180</td>
+<td>tests.testngTests.LennoxTest@e45f292</td></tr>
 </table><p>
 </body>
 </html>

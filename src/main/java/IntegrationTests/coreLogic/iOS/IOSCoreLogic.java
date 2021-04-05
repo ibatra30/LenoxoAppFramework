@@ -8,7 +8,6 @@ import org.openqa.selenium.WebDriver;
 import IntegrationTests.coreLogic.base.*;
 
 import static java.lang.Thread.sleep;
-import static utils.InitMethod.qtyNo;
 
 
 /**
@@ -83,7 +82,7 @@ public class IOSCoreLogic extends CoreLogic {
     }
 
     @Override
-    public void addProductToCart(String qty, String productName, String CatNo, String modelNo, String price) throws InterruptedException {
+    public void addProductToCart(String qtyNo, String productName, String CatNo, String modelNo, String price) throws InterruptedException {
         Log.info("user is on product list page");
         Log.info("storing product details to verify on next screen");
         dashBoardScreen.addQty(qtyNo);

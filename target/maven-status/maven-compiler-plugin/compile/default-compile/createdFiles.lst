@@ -1,3 +1,5 @@
+utils\ExcelUtils.class
+utils\TestListener.class
 IntegrationTests\screens\iOS\CheckOutScreen.class
 listeners\ExtentReportListener.class
 listeners\ExtentTestNGIReporterListener.class
@@ -13,9 +15,10 @@ IntegrationTests\screens\iOS\DashBoardScreen.class
 utils\GenericMethods.class
 utils\retryLogic\RetryListener.class
 utils\retryLogic\Retry.class
-listeners\ExtentTestNGIReporterListener$1ResultComparator.class
 IntegrationTests\coreLogic\android\AndroidCoreLogic.class
 IntegrationTests\screens\android\DashBoardScreen.class
+utils\ExcelDataProvider.class
 IntegrationTests\coreLogic\base\CoreLogic.class
 IntegrationTests\screens\android\CheckOutScreen.class
+utils\ExcelDataUtils.class
 IntegrationTests\coreLogic\iOS\IOSCoreLogic.class

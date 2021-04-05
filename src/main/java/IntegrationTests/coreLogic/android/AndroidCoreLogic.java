@@ -10,7 +10,6 @@ import IntegrationTests.coreLogic.base.*;
 import org.openqa.selenium.WebDriver;
 
 import static java.lang.Thread.sleep;
-import static utils.InitMethod.qtyNo;
 
 
 /**
@@ -66,6 +65,7 @@ public class AndroidCoreLogic extends CoreLogic {
 
     @Override
     public void userChangeTheStorePickup(String postalCode, String defaultDeliverTo, String defaultPickup, String miles, String storeName) throws InterruptedException {
+        defaultDeliverTo = "45133-1102";
         Log.info("user check default deliver to " + defaultDeliverTo + " and pickup " + defaultPickup);
         dashBoardScreen.checkDefaultPickUp(defaultDeliverTo, defaultPickup);
         dashBoardScreen.selectDeliverToLink();
@@ -88,7 +88,7 @@ public class AndroidCoreLogic extends CoreLogic {
     public void addProductToCart(String qty, String productName, String CatNo, String modelNo, String price) throws InterruptedException {
         Log.info("user is on product list page");
         Log.info("storing product details to verify on next screen");
-        dashBoardScreen.addQty(qtyNo);
+        dashBoardScreen.addQty(qty);
         Log.info("user increased the  product qty");
         dashBoardScreen.ClickAddToCart();
         Log.info("user is shown item added to dashboard");

@@ -34,17 +34,17 @@ public class ExtentReportListener extends CreateSession implements ITestListener
 
     @Override
     public void onTestStart(ITestResult iTestResult) {
-        log.info("test start method " + getTestMethodName(iTestResult) + " start");
+        log.info("test started");
     }
 
     @Override
     public void onTestSuccess(ITestResult iTestResult) {
-        log.info("test success method " + getTestMethodName(iTestResult) + " succeed");
+        log.info("test success");
     }
 
     @Override
     public void onTestFailure(ITestResult result) {
-        log.info("fail " + result.getName());
+        log.info("test failure");
         try {
             test.log(Status.WARNING, result.getName() + "Test Case Failed",
                     createScreenCaptureFromBase64String(screenshot(result.getName(),driver)).build());
@@ -70,31 +70,24 @@ public class ExtentReportListener extends CreateSession implements ITestListener
 
     @Override
     public void onTestSkipped(ITestResult result) {
-        log.info("skip " + result.getName());
-        test.log(Status.SKIP, result.getMethod().getMethodName()+ " is skip");
+        log.info("skip ");
+        test.log(Status.SKIP, " is skip");
     }
 
     @Override
     public void onTestFailedButWithinSuccessPercentage(ITestResult result) {
-        log.info("fail with steps success " + result.getName());
-        test.log(Status.WARNING,"fail with steps success " + result.getName());
+        log.info("fail with steps success ");
+        test.log(Status.WARNING,"fail with steps success ");
     }
 
     @Override
     public void onStart(ITestContext context) {
-        extent = new ExtentReports();
-        spark = new ExtentSparkReporter(OUTPUT_FOLDER + "Spark.html");
-        extent.attachReporter(spark);
-        test = extent.createTest(context.getName());
-        log.info("start " + context.getName());
-        spark.config().setTheme(Theme.STANDARD);
-        spark.config().setEncoding("utf-8");
+        log.info("start ");
     }
 
     @Override
     public void onFinish(ITestContext context) {
-        log.info("finish tests " + context.getName());
-        extent.flush();
+        log.info("finish tests ");
     }
 
     private static String getTestMethodName(ITestResult iTestResult) {

@@ -63,11 +63,7 @@ public class CreateSession {
     Properties configProp = new Properties();
     String OS;
     String SAUCE_REMOTE_URL;
-    CoreLogic  coreLogic;
     public ExtentReports extent = new ExtentReports();
-    ExtentSparkReporter spark = new ExtentSparkReporter(OUTPUT_FOLDER +"Extent Report.html");
-    ExtentTest test;
-    String temp;
 
 
     /**
@@ -84,7 +80,7 @@ public class CreateSession {
         capabilities.setCapability("platformVersion", lobConfigProp.getProperty("platformVersion"));
         capabilities.setCapability("appPackage", "com.lennox.DaveNet");
         capabilities.setCapability("appActivity", "crc647cb4db12adeb0334.SplashActivity");
-        //capabilities.setCapability("name", methodName.getName());
+        capabilities.setCapability("name","LennoxHeaterProductCheckoutTestAndroid");
         capabilities.setCapability("app", app.getAbsolutePath());
         capabilities.setCapability(MobileCapabilityType.NO_RESET, false);
         capabilities.setCapability("automationName", "UiAutomator2");
@@ -98,16 +94,16 @@ public class CreateSession {
         String username = configProp.getProperty("SauceLab_UserName");
         String accesskey = configProp.getProperty("SauceLab_AccessKey");
         SAUCE_REMOTE_URL = "https://" + username + ":" + accesskey + sauceUrl + "/wd/hub";
-
         capabilities.setCapability("deviceName", lobConfigProp.getProperty("DeviceName"));
         capabilities.setCapability("platformName", "Android");
         capabilities.setCapability("platformVersion", lobConfigProp.getProperty("platformVersion"));
         capabilities.setCapability("appPackage", "com.lennox.DaveNet");
         capabilities.setCapability("appActivity", "crc647cb4db12adeb0334.SplashActivity");
-        //capabilities.setCapability("name", methodName.getName());
+        capabilities.setCapability("name", "LennoxHeaterProductCheckoutTestAndroid");
         capabilities.setCapability("app", "storage:filename=aos.apk");
         capabilities.setCapability(MobileCapabilityType.NO_RESET, false);
         capabilities.setCapability("automationName", "UiAutomator2");
+        capabilities.setCapability("autoAcceptAlerts", true);
         Log.info("session with saucelab started: " + SAUCE_REMOTE_URL);
         driver = new AndroidDriver(new URL(SAUCE_REMOTE_URL), capabilities);
     }
@@ -125,7 +121,7 @@ public class CreateSession {
         capabilities.setCapability("platformName", "iOS");
         capabilities.setCapability("platformVersion", "8.2");
         capabilities.setCapability("appiumVersion", "1.3.7");
-        //capabilities.setCapability("name", methodName.getName());
+        capabilities.setCapability("name", "LennoxHeaterProductCheckoutTestIos");
         capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "iPhone 5s");
         capabilities.setCapability("app", app.getAbsolutePath());
         driver = new IOSDriver(new URL("http://localhost:4723/wd/hub"), capabilities);
@@ -139,14 +135,13 @@ public class CreateSession {
         String accesskey = configProp.getProperty("SauceLab_AccessKey");
         SAUCE_REMOTE_URL = "https://" + username + ":" + accesskey + sauceUrl + "/wd/hub";
 
-        // capabilities.setCapability("deviceName", lobConfigProp.getProperty("DeviceName"));
         capabilities.setCapability("platformName", "iOS");
         // capabilities.setCapability("appiumVersion", "1.19.1");
         //capabilities.setCapability("platformVersion", lobConfigProp.getProperty("platformVersion"));
         capabilities.setCapability("appPackage", "com.lennox.DaveNet");
         capabilities.setCapability("appActivity", "crc647cb4db12adeb0334.SplashActivity");
         capabilities.setCapability("app", "storage:filename=ios.ipa");
-        //capabilities.setCapability("name", methodName.getName());
+        capabilities.setCapability("name", "LennoxHeaterProductCheckoutTestIos");
         capabilities.setCapability("realDevice", true);
         capabilities.setCapability("testobject_device", "iPhone.*");
         capabilities.setCapability(MobileCapabilityType.NO_RESET, false);
@@ -203,7 +198,7 @@ public class CreateSession {
         return path;
     }
 
-    @AfterMethod
+    //@AfterMethod
     public void flushReport(ITestResult result) throws IOException {
         extent.flush();
     }

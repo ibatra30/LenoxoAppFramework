@@ -2,6 +2,10 @@
     <test thread-count="5"
           name="Lenoxo app">`
         <parameter name="os" value="SauceLabAndroid"/>
+        <listeners>
+        <listener
+                class-name="listeners.ExtentTestNGIReporterListener" />
+      </listeners>
         <packages>
             <package name="tests.testngTests"/>
         </packages>

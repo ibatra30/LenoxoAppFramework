@@ -2,75 +2,145 @@
 <testng-results skipped="0" failed="1" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Lenoxo suite" duration-ms="99698" started-at="2021-04-02T13:50:38Z" finished-at="2021-04-02T13:52:17Z">
+  <suite name="Lenoxo suite" duration-ms="224618" started-at="2021-04-05T05:58:04Z" finished-at="2021-04-05T06:01:48Z">
     <groups>
     </groups>
-    <test name="Lenoxo app" duration-ms="99698" started-at="2021-04-02T13:50:38Z" finished-at="2021-04-02T13:52:17Z">
+    <test name="Lenoxo app" duration-ms="224618" started-at="2021-04-05T05:58:04Z" finished-at="2021-04-05T06:01:48Z">
       <class name="tests.testngTests.LennoxTest">
-        <test-method status="PASS" signature="createDriver(java.lang.String)[pri:0, instance:tests.testngTests.LennoxTest@48503868]" name="createDriver" is-config="true" duration-ms="17279" started-at="2021-04-02T19:20:38Z" finished-at="2021-04-02T19:20:55Z">
+        <test-method status="PASS" signature="createDriver(java.lang.String)[pri:0, instance:tests.testngTests.LennoxTest@e45f292]" name="createDriver" is-config="true" duration-ms="40681" started-at="2021-04-05T11:28:04Z" finished-at="2021-04-05T11:28:44Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[android]]>
+                <![CDATA[SauceLabAndroid]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createDriver -->
-        <test-method status="PASS" signature="attachReport()[pri:0, instance:tests.testngTests.LennoxTest@48503868]" name="attachReport" is-config="true" duration-ms="1124" started-at="2021-04-02T19:20:55Z" finished-at="2021-04-02T19:20:56Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- attachReport -->
-        <test-method status="FAIL" signature="LoginFlow(java.lang.String, java.lang.String, org.json.simple.JSONObject)[pri:0, instance:tests.testngTests.LennoxTest@48503868]" name="LoginFlow" duration-ms="80318" started-at="2021-04-02T19:20:56Z" data-provider="fetchData_JSON" finished-at="2021-04-02T19:22:16Z">
+        <test-method status="FAIL" signature="LennoxHeaterProductCheckoutTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.testngTests.LennoxTest@e45f292]" name="LennoxHeaterProductCheckoutTest" duration-ms="180387" started-at="2021-04-05T11:28:46Z" data-provider="LennoxHeaterProductCheckoutTest" finished-at="2021-04-05T11:31:46Z">
           <params>
             <param index="0">
-              <value is-null="true"/>
+              <value>
+                <![CDATA[adsync104@outlook.com]]>
+              </value>
             </param>
             <param index="1">
-              <value is-null="true"/>
+              <value>
+                <![CDATA[Community14]]>
+              </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[{"postalCode":"75080","price=Price":"Price: $5,550.00","CatNo":"CAT # 15U57","modelNo":"MODEL # MPB009S4S-1L","userName":"adsync104@outlook.com","productName":"Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L","miles":"Within 120 miles","password":"Community14","totalresults":"14 results","defaultPickup":"Cincinnati","qtyNo":"6","storeName":"Grand Prairie","defaultDeliverTo":"45133-1102","poNumber":"123455678","heaterProduct":"Mini-Split Single Zone Heat Pumps"}]]>
+                <![CDATA[LennoxPros Logo]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[14 results]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Within 120 miles]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Mini-Split Single Zone Heat Pumps]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[75080]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[45133-1102]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[123455678]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Grand Prairie]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Cincinnati]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Lennox, Mini-Split Heat Pump Low Ambient Outdoor Unit, .75 Ton, 115V, 1 Phase, 60Hz, MPB009S4S-1L]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[CAT # 15U57]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[MODEL # MPB009S4S-1L]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[Price: $5,550.00]]>
               </value>
             </param>
           </params>
-          <exception class="org.openqa.selenium.InvalidElementStateException">
+          <exception class="org.openqa.selenium.WebDriverException">
             <message>
-              <![CDATA[Swipe action cannot be performed
+              <![CDATA[<html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+Command duration or timeout: 180.34 seconds
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-7IDVFK7', ip: '192.168.29.143', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+System info: host: 'DESKTOP-7IDVFK7', ip: '192.168.29.144', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
 Driver info: io.appium.java_client.android.AndroidDriver
-Capabilities {app: F:\LennoxAppFramework\src\m..., appActivity: crc647cb4db12adeb0334.Splas..., appPackage: com.lennox.DaveNet, automationName: UiAutomator2, databaseEnabled: false, desired: {app: F:\LennoxAppFramework\src\m..., appActivity: crc647cb4db12adeb0334.Splas..., appPackage: com.lennox.DaveNet, automationName: UiAutomator2, deviceName: OnePlus8_IND, noReset: false, platformName: android, platformVersion: 11.0}, deviceApiLevel: 30, deviceManufacturer: OnePlus, deviceModel: IN2011, deviceName: 8c0e4216, deviceScreenDensity: 450, deviceScreenSize: 1080x2400, deviceUDID: 8c0e4216, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: false, pixelRatio: 2.8125, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 104, takesScreenshot: true, viewportRect: {height: 2148, left: 0, top: 104, width: 1080}, warnings: {}, webStorageEnabled: false}
-Session ID: 1b701cb1-05a7-484b-903f-278a60b14125]]>
+Capabilities {app: /tmp/tmpckY0nq/aos.apk, appActivity: crc647cb4db12adeb0334.Splas..., appPackage: com.lennox.DaveNet, autoAcceptAlerts: true, automationName: UiAutomator2, databaseEnabled: false, desired: {app: /tmp/tmpckY0nq/aos.apk, appActivity: crc647cb4db12adeb0334.Splas..., appPackage: com.lennox.DaveNet, autoAcceptAlerts: true, automationName: UiAutomator2, deviceName: Samsung Galaxy Tab A 10 Goo..., eventTimings: true, maxTypingFrequency: 8, newCommandTimeout: 0, noReset: false, noSign: true, orientation: PORTRAIT, platformName: Android, platformVersion: 8.0, proxy: {proxyAutoconfigUrl: http://127.0.0.1:19876/pac.js, proxyType: PAC}, udid: emulator-5554, webdriver.remote.quietExceptions: false}, deviceManufacturer: unknown, deviceModel: Android SDK built for x86_64, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 1200x1920, deviceUDID: emulator-5554, eventTimings: true, hasMetadata: true, javascriptEnabled: true, locationContextEnabled: false, maxTypingFrequency: 8, networkConnectionEnabled: true, newCommandTimeout: 0, noReset: false, noSign: true, orientation: PORTRAIT, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, proxy: Proxy(pac: http://127.0.0.1..., statBarHeight: 36, takesScreenshot: true, udid: emulator-5554, viewportRect: {height: 1812, left: 0, top: 36, width: 1200}, warnings: {}, webStorageEnabled: false, webdriver.remote.quietExceptions: false, webdriver.remote.sessionid: 55c182f8dad7485fb2683bc3a9c...}
+Session ID: 55c182f8dad7485fb2683bc3a9c6e453]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.InvalidElementStateException: Swipe action cannot be performed
+              <![CDATA[org.openqa.selenium.WebDriverException: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+Command duration or timeout: 180.34 seconds
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-7IDVFK7', ip: '192.168.29.143', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+System info: host: 'DESKTOP-7IDVFK7', ip: '192.168.29.144', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
 Driver info: io.appium.java_client.android.AndroidDriver
-Capabilities {app: F:\LennoxAppFramework\src\m..., appActivity: crc647cb4db12adeb0334.Splas..., appPackage: com.lennox.DaveNet, automationName: UiAutomator2, databaseEnabled: false, desired: {app: F:\LennoxAppFramework\src\m..., appActivity: crc647cb4db12adeb0334.Splas..., appPackage: com.lennox.DaveNet, automationName: UiAutomator2, deviceName: OnePlus8_IND, noReset: false, platformName: android, platformVersion: 11.0}, deviceApiLevel: 30, deviceManufacturer: OnePlus, deviceModel: IN2011, deviceName: 8c0e4216, deviceScreenDensity: 450, deviceScreenSize: 1080x2400, deviceUDID: 8c0e4216, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: false, pixelRatio: 2.8125, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 104, takesScreenshot: true, viewportRect: {height: 2148, left: 0, top: 104, width: 1080}, warnings: {}, webStorageEnabled: false}
-Session ID: 1b701cb1-05a7-484b-903f-278a60b14125
+Capabilities {app: /tmp/tmpckY0nq/aos.apk, appActivity: crc647cb4db12adeb0334.Splas..., appPackage: com.lennox.DaveNet, autoAcceptAlerts: true, automationName: UiAutomator2, databaseEnabled: false, desired: {app: /tmp/tmpckY0nq/aos.apk, appActivity: crc647cb4db12adeb0334.Splas..., appPackage: com.lennox.DaveNet, autoAcceptAlerts: true, automationName: UiAutomator2, deviceName: Samsung Galaxy Tab A 10 Goo..., eventTimings: true, maxTypingFrequency: 8, newCommandTimeout: 0, noReset: false, noSign: true, orientation: PORTRAIT, platformName: Android, platformVersion: 8.0, proxy: {proxyAutoconfigUrl: http://127.0.0.1:19876/pac.js, proxyType: PAC}, udid: emulator-5554, webdriver.remote.quietExceptions: false}, deviceManufacturer: unknown, deviceModel: Android SDK built for x86_64, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 1200x1920, deviceUDID: emulator-5554, eventTimings: true, hasMetadata: true, javascriptEnabled: true, locationContextEnabled: false, maxTypingFrequency: 8, networkConnectionEnabled: true, newCommandTimeout: 0, noReset: false, noSign: true, orientation: PORTRAIT, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, proxy: Proxy(pac: http://127.0.0.1..., statBarHeight: 36, takesScreenshot: true, udid: emulator-5554, viewportRect: {height: 1812, left: 0, top: 36, width: 1200}, warnings: {}, webStorageEnabled: false, webdriver.remote.quietExceptions: false, webdriver.remote.sessionid: 55c182f8dad7485fb2683bc3a9c...}
+Session ID: 55c182f8dad7485fb2683bc3a9c6e453
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:239)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:586)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:45)
 	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
 	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
-	at io.appium.java_client.PerformsTouchActions.performTouchAction(PerformsTouchActions.java:41)
-	at io.appium.java_client.TouchAction.perform(TouchAction.java:187)
-	at utils.GenericMethods.scrollDownNClick(GenericMethods.java:234)
-	at IntegrationTests.screens.android.DashBoardScreen.checkViewMoreBtn(DashBoardScreen.java:170)
-	at IntegrationTests.coreLogic.android.AndroidCoreLogic.userChangeTheStorePickup(AndroidCoreLogic.java:80)
-	at tests.testngTests.LennoxTest.LoginFlow(LennoxTest.java:97)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator.alert(RemoteWebDriver.java:932)
+	at org.openqa.selenium.support.ui.ExpectedConditions$28.apply(ExpectedConditions.java:806)
+	at org.openqa.selenium.support.ui.ExpectedConditions$28.apply(ExpectedConditions.java:802)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	at utils.GenericMethods.isAlertPresent(GenericMethods.java:182)
+	at IntegrationTests.screens.android.LoginScreen.alertHandle(LoginScreen.java:43)
+	at IntegrationTests.coreLogic.android.AndroidCoreLogic.verifyLoginFlow(AndroidCoreLogic.java:33)
+	at tests.testngTests.LennoxTest.LennoxHeaterProductCheckoutTest(LennoxTest.java:73)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -101,22 +171,11 @@ Session ID: 1b701cb1-05a7-484b-903f-278a60b14125
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.InvalidElementStateException -->
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- LoginFlow -->
-        <test-method status="PASS" signature="flushReport(org.testng.ITestResult)[pri:0, instance:tests.testngTests.LennoxTest@48503868]" name="flushReport" is-config="true" duration-ms="30" started-at="2021-04-02T19:22:17Z" finished-at="2021-04-02T19:22:17Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=LoginFlow status=FAILURE method=LennoxTest.LoginFlow(java.lang.String, java.lang.String, org.json.simple.JSONObject)[pri:0, instance:tests.testngTests.LennoxTest@48503868] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- flushReport -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.testngTests.LennoxTest@48503868]" name="teardown" is-config="true" duration-ms="711" started-at="2021-04-02T19:22:17Z" finished-at="2021-04-02T19:22:17Z">
+        </test-method> <!-- LennoxHeaterProductCheckoutTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.testngTests.LennoxTest@e45f292]" name="teardown" is-config="true" duration-ms="1879" started-at="2021-04-05T11:31:46Z" finished-at="2021-04-05T11:31:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

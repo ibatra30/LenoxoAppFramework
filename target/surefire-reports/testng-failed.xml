@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite verbose="0" name="Failed suite [Lenoxo suite]">
-  <parameter name="os" value="android"/>
+  <parameter name="os" value="SauceLabAndroid"/>
+  <listeners>
+    <listener class-name="listeners.ExtentTestNGIReporterListener"/>
+  </listeners>
   <test thread-count="5" name="Lenoxo app">
-    <parameter name="os" value="android"/>
+    <parameter name="os" value="SauceLabAndroid"/>
     <packages>
       <package name="tests.testngTests"/>
     </packages>
@@ -12,15 +15,13 @@
     </classes>
   </test> <!-- Lenoxo app -->
   <test name="Lenoxo app(failed)">
-    <parameter name="os" value="android"/>
+    <parameter name="os" value="SauceLabAndroid"/>
     <classes>
       <class name="tests.testngTests.LennoxTest">
         <methods>
           <include name="createDriver"/>
-          <include name="LoginFlow" invocation-numbers="0"/>
           <include name="teardown"/>
-          <include name="flushReport"/>
-          <include name="attachReport"/>
+          <include name="LennoxHeaterProductCheckoutTest" invocation-numbers="0"/>
         </methods>
       </class> <!-- tests.testngTests.LennoxTest -->
     </classes>

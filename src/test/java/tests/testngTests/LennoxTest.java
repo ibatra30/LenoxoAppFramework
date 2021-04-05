@@ -28,10 +28,8 @@ import static utils.InitMethod.*;
 public class LennoxTest extends CreateSession {
     CoreLogic coreLogic;
     ExtentTest test;
-    ITestResult result;
-    String temp;
-    public ExtentReports extent = new ExtentReports();
-    ExtentSparkReporter spark = new ExtentSparkReporter(OUTPUT_FOLDER +"Extent Report.html");
+    /*public ExtentReports extent = new ExtentReports();
+    ExtentSparkReporter spark = new ExtentSparkReporter(OUTPUT_FOLDER +"ExtentReport.html");*/
 
     @Parameters({"os"})
     @BeforeClass
@@ -66,47 +64,17 @@ public class LennoxTest extends CreateSession {
         }
     }
 
-    @BeforeMethod
-    public void attachReport(){
-        spark.getDeviceContextInfo();
-        spark.config().setDocumentTitle("Lennox App Test Report");
-        extent.attachReporter(spark);
-    }
-
-
-    @Test(dataProvider = "fetchData_JSON", dataProviderClass = JSONDataProvider.class,priority = 0)
-    public void LoginFlow(String rowID, String description, JSONObject testData) throws InterruptedException, IOException {
-        test = extent.createTest("LoginTest");
-        test.info("Running login test");
-        coreLogic.verifyLoginFlow(testData.get("userName").toString(), testData.get("password").toString(), logo);
-        temp = screenshot();
-        test.pass("login successfull");
-        test.addScreenCaptureFromPath(temp);
-        ExtentTest test1 = extent.createTest("ClearCheckOutCart");
-        test1.info("clearing the cart");
+    @Test(dataProvider = "LennoxHeaterProductCheckoutTest", dataProviderClass = ExcelDataProvider.class,priority = 0)
+    public void LennoxHeaterProductCheckoutTest(String username, String password,String logo,
+                                                String totalresults,String miles,String heaterProduct,
+                                                String postalCode, String defaultDeliverTo, String qty,String poNumber,
+                                                String storeName, String defaultPickup,String productName,String CatNo,String modelNo,String price)
+            throws InterruptedException, IOException {
+        coreLogic.verifyLoginFlow(username, password, logo);
         coreLogic.clearCheckoutCart();
-        test1.pass("cart is empty now");
-        test1.addScreenCaptureFromPath(temp);
-        ExtentTest test2 = extent.createTest("selectProductFromMenu");
-        test2.info("Selecting " +heaterProduct +" from the Menu");
         coreLogic.selectProductFromMenu(totalresults, heaterProduct);
-        test2.pass("Total " +totalresults +" found on Product List");
-        test2.addScreenCaptureFromPath(temp);
-        ExtentTest test3 = extent.createTest("UserChangeTheStorePickup");
-        test3.info("user changing the store pickup");
         coreLogic.userChangeTheStorePickup(postalCode, defaultDeliverTo, defaultPickup, miles, storeName);
-        test3.pass("user able to change the store pickup");
-        test3.addScreenCaptureFromPath(temp);
-        ExtentTest test4 = extent.createTest("addProductToCart");
-        test4.info("user adding the product to cart after changing qty");
         coreLogic.addProductToCart(qty, productName, CatNo, modelNo, price);
-        test4.info("user added product to cart");
-        test4.addScreenCaptureFromPath(temp);
-        ExtentTest test5 = extent.createTest("checkOutProduct");
-        test5.info("user will review the product and do the payment");
         coreLogic.checkOutProduct(poNumber);
-        test5.addScreenCaptureFromPath(temp);
-        test5.info("user successfully ordered the product");
     }
-
 }

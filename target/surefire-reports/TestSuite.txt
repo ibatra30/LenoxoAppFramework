@@ -1,14 +1,17 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 101.612 s <<< FAILURE! - in TestSuite
-LoginFlow(tests.testngTests.LennoxTest)  Time elapsed: 80.438 s  <<< FAILURE!
-org.openqa.selenium.InvalidElementStateException: 
-Swipe action cannot be performed
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 228.889 s <<< FAILURE! - in TestSuite
+LennoxHeaterProductCheckoutTest(tests.testngTests.LennoxTest)  Time elapsed: 180.423 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+<html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+Command duration or timeout: 180.34 seconds
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-7IDVFK7', ip: '192.168.29.143', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+System info: host: 'DESKTOP-7IDVFK7', ip: '192.168.29.144', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
 Driver info: io.appium.java_client.android.AndroidDriver
-Capabilities {app: F:\LennoxAppFramework\src\m..., appActivity: crc647cb4db12adeb0334.Splas..., appPackage: com.lennox.DaveNet, automationName: UiAutomator2, databaseEnabled: false, desired: {app: F:\LennoxAppFramework\src\m..., appActivity: crc647cb4db12adeb0334.Splas..., appPackage: com.lennox.DaveNet, automationName: UiAutomator2, deviceName: OnePlus8_IND, noReset: false, platformName: android, platformVersion: 11.0}, deviceApiLevel: 30, deviceManufacturer: OnePlus, deviceModel: IN2011, deviceName: 8c0e4216, deviceScreenDensity: 450, deviceScreenSize: 1080x2400, deviceUDID: 8c0e4216, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: false, pixelRatio: 2.8125, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 104, takesScreenshot: true, viewportRect: {height: 2148, left: 0, top: 104, width: 1080}, warnings: {}, webStorageEnabled: false}
-Session ID: 1b701cb1-05a7-484b-903f-278a60b14125
-	at tests.testngTests.LennoxTest.LoginFlow(LennoxTest.java:97)
+Capabilities {app: /tmp/tmpckY0nq/aos.apk, appActivity: crc647cb4db12adeb0334.Splas..., appPackage: com.lennox.DaveNet, autoAcceptAlerts: true, automationName: UiAutomator2, databaseEnabled: false, desired: {app: /tmp/tmpckY0nq/aos.apk, appActivity: crc647cb4db12adeb0334.Splas..., appPackage: com.lennox.DaveNet, autoAcceptAlerts: true, automationName: UiAutomator2, deviceName: Samsung Galaxy Tab A 10 Goo..., eventTimings: true, maxTypingFrequency: 8, newCommandTimeout: 0, noReset: false, noSign: true, orientation: PORTRAIT, platformName: Android, platformVersion: 8.0, proxy: {proxyAutoconfigUrl: http://127.0.0.1:19876/pac.js, proxyType: PAC}, udid: emulator-5554, webdriver.remote.quietExceptions: false}, deviceManufacturer: unknown, deviceModel: Android SDK built for x86_64, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 1200x1920, deviceUDID: emulator-5554, eventTimings: true, hasMetadata: true, javascriptEnabled: true, locationContextEnabled: false, maxTypingFrequency: 8, networkConnectionEnabled: true, newCommandTimeout: 0, noReset: false, noSign: true, orientation: PORTRAIT, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, proxy: Proxy(pac: http://127.0.0.1..., statBarHeight: 36, takesScreenshot: true, udid: emulator-5554, viewportRect: {height: 1812, left: 0, top: 36, width: 1200}, warnings: {}, webStorageEnabled: false, webdriver.remote.quietExceptions: false, webdriver.remote.sessionid: 55c182f8dad7485fb2683bc3a9c...}
+Session ID: 55c182f8dad7485fb2683bc3a9c6e453
+	at tests.testngTests.LennoxTest.LennoxHeaterProductCheckoutTest(LennoxTest.java:73)
 
